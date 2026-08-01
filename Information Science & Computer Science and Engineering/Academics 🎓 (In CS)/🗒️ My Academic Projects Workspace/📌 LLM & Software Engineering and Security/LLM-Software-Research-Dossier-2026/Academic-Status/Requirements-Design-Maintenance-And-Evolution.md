@@ -56,3 +56,31 @@ Maintenance is where short-term generation gains meet long-term software costs. 
 ## Routing Note
 
 This shelf owns intent, architecture, and change-over-time claims. The focused [program-comprehension shelf](Program-Comprehension-Search-Retrieval-Documentation-And-APIs.md) owns new information-access and documentation-first claims, while the [quality and refactoring shelf](Quality-Refactoring-Technical-Debt-And-Code-Smells.md) owns behavior-preserving structural improvement. Future refreshes should not add the same paper to more than one page.
+
+<!-- BEGIN GENERATED CANONICAL CORPUS ROWS -->
+## Generated Canonical Corpus Rows
+
+The builder maintains this block from the shared screening and mapping ledgers. Hand-written rows and analysis above remain authoritative where present.
+
+### Formal Venue Papers
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Ma2024EurekaHumanLevel | [Eureka: Human-Level Reward Design via Coding Large Language Models](<https://openreview.net/forum?id=IEduRUO55F>) | 2024 | ICLR / accepted-program | Requirements Design Maintenance And Evolution | Introduces or evaluates eureka: Human-Level Reward Design via Coding Large Language Models; abstract-level contribution review remains pending. | formal-venue |
+| Chen2025RiseDownBabel | [The Rise and Down of Babel Tower: Investigating the Evolution Process of Multilingual Code Large Language Model](<https://openreview.net/forum?id=eznTVIM3bs>) | 2025 | ICLR / accepted-program | Requirements Design Maintenance And Evolution | Introduces or evaluates the Rise and Down of Babel Tower: Investigating the Evolution Process of Multilingual Code Large Language Model; abstract-level contribution review remains pending. | formal-venue |
+| Dang2025MiggptHarnessingLarge | [MigGPT: Harnessing Large Language Models for Automated Migration of Out-of-Tree Linux Kernel Patches Across Versions.](<http://papers.nips.cc/paper_files/paper/2025/hash/3760dbb5835bf0b771c3f83cb27ef2c0-Abstract-Conference.html>) | 2025 | NeurIPS / proceedings | Requirements Design Maintenance And Evolution | Introduces or evaluates migGPT: Harnessing Large Language Models for Automated Migration of Out-of-Tree Linux Kernel Patches Across Versions; abstract-level contribution review remains pending. | formal-venue |
+| Wang2025CodesyncSynchronizingLarge | [CodeSync: Synchronizing Large Language Models with Dynamic Code Evolution at Scale](<https://proceedings.mlr.press/v267/wang25t.html>) | 2025 | ICML / proceedings | Requirements Design Maintenance And Evolution | Introduces or evaluates codeSync: Synchronizing Large Language Models with Dynamic Code Evolution at Scale; abstract-level contribution review remains pending. | formal-venue |
+| Wang2025LlmAugmentedChemical | [LLM-Augmented Chemical Synthesis and Design Decision Programs](<https://proceedings.mlr.press/v267/wang25ag.html>) | 2025 | ICML / proceedings | Requirements Design Maintenance And Evolution | Introduces or evaluates lLM-Augmented Chemical Synthesis and Design Decision Programs; abstract-level contribution review remains pending. | formal-venue |
+| Kaya2026RoleLargeLanguage | [On the Role of Large Language Models in Robustness-Guided Requirement Falsification](<https://conf.researchr.org/track/issta-2026/issta-2026-research-papers#event-f699be3f-3c9a-4305-af5e-5f83cfc37201>) | 2026 | ISSTA / accepted-program | Requirements Design Maintenance And Evolution | Introduces or evaluates on the Role of Large Language Models in Robustness-Guided Requirement Falsification; abstract-level contribution review remains pending. | formal-venue |
+| Rontogiannis2026InteractiveEvaluationLarge | [Interactive Evaluation of Large Language Models for Multi-Requirement Software Engineering Tasks.](<https://doi.org/10.1609/aaai.v40i39.40564>) | 2026 | AAAI / proceedings | Requirements Design Maintenance And Evolution | Benchmarks or evaluates interactive Evaluation of Large Language Models for Multi-Requirement Software Engineering Tasks; abstract-level contribution review remains pending. | formal-venue |
+| Sadikov2026LlmGuidedEvolutionary | [LLM-Guided Evolutionary Program Synthesis for Quasi-Monte Carlo Design](<https://openreview.net/forum?id=6L8fgclOTS>) | 2026 | ICLR / accepted-program | Requirements Design Maintenance And Evolution | Introduces or evaluates lLM-Guided Evolutionary Program Synthesis for Quasi-Monte Carlo Design; abstract-level contribution review remains pending. | formal-venue |
+| Zhang2026RethinkingCodeSimilarity | [Rethinking Code Similarity for Automated Algorithm Design with LLMs](<https://openreview.net/forum?id=HIUqeO9OOr>) | 2026 | ICLR / accepted-program | Requirements Design Maintenance And Evolution | Introduces or evaluates rethinking Code Similarity for Automated Algorithm Design with LLMs; abstract-level contribution review remains pending. | formal-venue |
+| normalization20262DeptLarge | [$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](<https://icml.cc/virtual/2026/poster/64869>) | 2026 | ICML / accepted-program | Requirements Design Maintenance And Evolution | Introduces or evaluates $A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees; abstract-level contribution review remains pending. | formal-venue |
+
+### Frontier Preprints
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Rocha2026FromAwarenessAction | [From Awareness to Action: How Developers Engage with Accessibility Innovation in LLM-Assisted Development](<https://arxiv.org/abs/2606.10311>) | 2026 | arXiv / frontier-preprint | Requirements Design Maintenance And Evolution | Developers often struggle to design truly accessible digital solutions in corporate environments. | frontier-preprint |
+
+<!-- END GENERATED CANONICAL CORPUS ROWS -->

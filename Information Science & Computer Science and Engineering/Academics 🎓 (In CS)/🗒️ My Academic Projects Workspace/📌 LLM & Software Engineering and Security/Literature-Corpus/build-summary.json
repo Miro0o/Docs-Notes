@@ -1,21 +1,21 @@
 {
   "snapshot_date": "2026-07-31",
-  "formal_records": 50747,
-  "screened_formal_records": 1038,
-  "frontier_preprints": 2574,
+  "formal_records": 50727,
+  "screened_formal_records": 1172,
+  "frontier_preprints": 1539,
   "frontier_2026_query_candidates": 5558,
-  "frontier_2026_screened": 2556,
-  "frontier_2026_candidates_needing_review": 560,
+  "frontier_2026_screened": 1522,
+  "frontier_2026_candidates_needing_review": 1005,
   "frontier_2026_formal_supersessions": 321,
   "dossier_records": {
-    "llm-software": 2438,
-    "software-for-llm": 844,
-    "llm-security": 956
+    "llm-software": 1698,
+    "software-for-llm": 444,
+    "llm-security": 1021
   },
   "screening": {
-    "exclude": 49584,
-    "include": 1038,
-    "candidate": 125
+    "exclude": 49350,
+    "include": 1172,
+    "candidate": 205
   },
   "pending_venue_years": [
     "ACM CCS 2026",

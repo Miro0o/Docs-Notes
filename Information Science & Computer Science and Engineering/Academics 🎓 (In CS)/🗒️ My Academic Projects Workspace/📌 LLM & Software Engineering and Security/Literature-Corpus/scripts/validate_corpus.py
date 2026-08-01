@@ -15,6 +15,10 @@ from build_corpus import (
     CORPUS_DIR,
     DOSSIERS,
     BIB_NAMES,
+    FORMAL_ADJUDICATIONS,
+    FRONTIER_ADJUDICATIONS,
+    GENERATED_SHELF_BEGIN,
+    GENERATED_SHELF_END,
     PROJECT_DIR,
     VENUES,
     YEARS,
@@ -146,6 +150,79 @@ def main() -> int:
                 f"{dossier}: BibTeX/mapping mismatch missing_map={bib_keys-map_keys[dossier]} missing_bib={map_keys[dossier]-bib_keys}",
             )
 
+    mapping_by_identity = {
+        (row["dossier"], row["citation_key"]): row for row in mappings
+    }
+    shelf_occurrences: dict[
+        tuple[str, str], list[tuple[str, str, bool]]
+    ] = defaultdict(list)
+    generated_shelf_rows = 0
+    layer_heading = {
+        "### Formal Venue Papers": "formal-venue",
+        "### Frontier Preprints": "frontier-preprint",
+        "### Supplementary or Out-of-Ledger Evidence": "supplementary",
+    }
+    row_re = re.compile(r"^\|\s*([A-Za-z0-9_.:-]+)\s*\|")
+    for dossier, directory in DOSSIERS.items():
+        for path in sorted((directory / "Academic-Status").rglob("*.md")):
+            generated = False
+            current_layer = ""
+            relative = path.relative_to(directory).as_posix()
+            for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
+                if line == GENERATED_SHELF_BEGIN:
+                    if generated:
+                        error(errors, f"nested generated shelf marker: {dossier}/{relative}")
+                    generated = True
+                    current_layer = ""
+                    continue
+                if line == GENERATED_SHELF_END:
+                    if not generated:
+                        error(errors, f"unmatched generated shelf end marker: {dossier}/{relative}")
+                    generated = False
+                    current_layer = ""
+                    continue
+                if generated and line in layer_heading:
+                    current_layer = layer_heading[line]
+                    continue
+                match = row_re.match(line)
+                if not match:
+                    continue
+                key = match.group(1)
+                if key not in map_keys[dossier]:
+                    continue
+                shelf_occurrences[(dossier, key)].append(
+                    (relative, current_layer, generated)
+                )
+                if generated:
+                    generated_shelf_rows += 1
+            if generated:
+                error(errors, f"unclosed generated shelf marker: {dossier}/{relative}")
+
+    for identity, row in mapping_by_identity.items():
+        dossier, key = identity
+        shelf_path = DOSSIERS[dossier] / row["shelf"]
+        if not shelf_path.is_file():
+            error(errors, f"mapping shelf does not exist: {dossier}/{key}: {row['shelf']}")
+            continue
+        occurrences = shelf_occurrences.get(identity, [])
+        if len(occurrences) != 1:
+            error(
+                errors,
+                f"canonical Academic-Status row count {len(occurrences)}: {dossier}/{key}",
+            )
+            continue
+        relative, layer, generated = occurrences[0]
+        if relative != row["shelf"]:
+            error(
+                errors,
+                f"canonical row on wrong shelf: {dossier}/{key}: {relative} != {row['shelf']}",
+            )
+        if generated and layer != row["evidence_layer"]:
+            error(
+                errors,
+                f"generated row in wrong evidence section: {dossier}/{key}: {layer} != {row['evidence_layer']}",
+            )
+
     screening = read_csv(CORPUS_DIR / "screening.csv")
     screening_keys = {row["citation_key"] for row in screening}
     if screening_keys != {record.key for record in exhaustive}:
@@ -182,17 +259,69 @@ def main() -> int:
                 f"included frontier row absent from screened frontier BibTeX: {row['arxiv_id']}",
             )
 
+    active_shelf_keys = {
+        row["citation_key"]
+        for row in mappings
+        if row["evidence_layer"] in {"formal-venue", "frontier-preprint"}
+    }
+    for ledger_name, rows in (
+        ("formal", screening),
+        ("frontier", frontier_screening),
+    ):
+        for row in rows:
+            if row["decision"] != "include" and row["citation_key"] in active_shelf_keys:
+                error(
+                    errors,
+                    f"{ledger_name} {row['decision']} row appears as active Academic-Status evidence: {row['citation_key']}",
+                )
+
+    adjudication_rows = read_csv(FORMAL_ADJUDICATIONS) + read_csv(FRONTIER_ADJUDICATIONS)
+    human_adjudications = sum(bool(row.get("decision")) for row in adjudication_rows)
     checked_links = validate_links(errors)
     report = {
         "status": "pass" if not errors else "fail",
         "errors": len(errors),
+        "source_corpus_exhaustiveness": "exhaustive-for-records-returned-by-declared-sources",
         "formal_records": len(exhaustive),
         "screened_formal_records": len(screened),
         "frontier_2026_query_candidates": len(exhaustive_frontier_2026),
         "frontier_2026_screened_includes": frontier_decisions["include"],
         "frontier_records": len(frontier),
         "mapping_rows": len(mappings),
+        "academic_shelf_rows": sum(len(rows) for rows in shelf_occurrences.values()),
+        "generated_academic_shelf_rows": generated_shelf_rows,
+        "human_adjudications": human_adjudications,
+        "formal_candidates_unresolved": sum(
+            row["decision"] == "candidate" for row in screening
+        ),
+        "frontier_candidates_unresolved": frontier_decisions["candidate"],
+        "screening_completeness": "incomplete"
+        if any(row["decision"] == "candidate" for row in screening)
+        or frontier_decisions["candidate"]
+        else "complete",
+        "mapping_completeness": "structurally-complete; manual-content-audit-incomplete",
         "manifest_rows": len(manifest),
+        "pending_venue_years": sum(
+            row["publication_status"] == "pending" for row in manifest
+        ),
+        "count_discrepancy_venue_years": sum(
+            row["publication_status"] == "count-discrepancy" for row in manifest
+        ),
+        "non_pending_without_independent_official_count": sum(
+            row["publication_status"] != "pending"
+            and "independent official count unavailable" in row["reconciliation"]
+            for row in manifest
+        ),
+        "unresolved_author_normalization_records": sum(
+            int(match.group(1))
+            for row in manifest
+            if (
+                match := re.search(
+                    r"(\d+) program records retain author-normalization sentinel",
+                    row["unresolved_metadata"],
+                )
+            )
+        ),
         "local_links_checked": checked_links,
     }
     (CORPUS_DIR / "validation-report.json").write_text(

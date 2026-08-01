@@ -39,6 +39,11 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 CORPUS_DIR = SCRIPT_DIR.parent
 PROJECT_DIR = CORPUS_DIR.parent
 CACHE_DIR = CORPUS_DIR / ".cache"
+FORMAL_ADJUDICATIONS = CORPUS_DIR / "formal-adjudications.csv"
+FRONTIER_ADJUDICATIONS = CORPUS_DIR / "frontier-adjudications-2026.csv"
+
+GENERATED_SHELF_BEGIN = "<!-- BEGIN GENERATED CANONICAL CORPUS ROWS -->"
+GENERATED_SHELF_END = "<!-- END GENERATED CANONICAL CORPUS ROWS -->"
 
 DOSSIERS = {
     "llm-software": PROJECT_DIR / "LLM-Software-Research-Dossier-2026",
@@ -141,17 +146,22 @@ DIRECT_LLM_RE = re.compile(
     re.I,
 )
 SOFTWARE_RE = re.compile(
-    r"\b(code|coding|program(?:s|ming)?|software|developer|repository|github|"
-    r"compiler|compilation|debug|bug|repair|patch|test(?:ing|s)?|fuzz|"
-    r"refactor|api|binary|decompil|reverse engineer|formaliz|proof|theorem|"
-    r"verification|specification|requirement|documentation|configuration|"
-    r"devops|kernel|operating system|cloud|package|dependency)\b",
+    r"\b(code|coding|program(?:s|ming)?|software|developers?|repositories|github|"
+    r"compil(?:e|er|ers|ation|ations|ing)|debug(?:ger|gers|ged|ging)?|bugs?|"
+    r"repair(?:s|ed|ing)?|patch(?:es|ed|ing)?|test(?:ing|s)?|fuzz(?:ing|er|ers)?|"
+    r"refactor(?:s|ed|ing)?|apis?|binar(?:y|ies)|decompil(?:e|er|ation|ing)|"
+    r"reverse engineer(?:ing)?|formaliz(?:e|ed|ing|ation)|proofs?|theorems?|"
+    r"verif(?:y|ied|ication)|specif(?:y|ied|ication)|requirements?|"
+    r"documentation|configurations?|devops|kernels?|operating systems?|cloud|"
+    r"packages?|dependencies|dependency)\b",
     re.I,
 )
 SECURITY_RE = re.compile(
-    r"\b(security|secure|vulnerab|exploit|malware|attack|defen[cs]e|privacy|"
-    r"taint|pentest|phishing|incident|soc|threat|cve|weakness|jailbreak|"
-    r"prompt injection|supply chain|backdoor|firmware)\b",
+    r"\b(secur(?:ity|e|ing)|vulnerab(?:le|ility|ilities)|"
+    r"exploit(?:s|ed|ing|ation)?|malware|attacks?|defen[cs](?:e|ive)|privacy|"
+    r"taint(?:ed|ing)?|pentest(?:ing)?|phishing|incidents?|soc|threats?|cves?|"
+    r"weakness(?:es)?|jailbreak(?:s|ing)?|prompt injection|supply chain|"
+    r"backdoors?|firmware)\b",
     re.I,
 )
 AGENT_SYSTEM_RE = re.compile(
@@ -179,15 +189,59 @@ FRONTIER_AGENT_RE = re.compile(
     re.I,
 )
 FRONTIER_SECURITY_OBJECT_RE = re.compile(
-    r"\b(code|coding|software|repository|developer|cyber|vulnerab|cve|cwe|"
-    r"exploit|malware|fuzz|patch|binary|decompil|reverse engineer|firmware|"
-    r"kernel|operating system|package|dependency|supply chain|prompt injection|"
+    r"\b(code|coding|software|repositories|repository|developers?|cyber|"
+    r"vulnerab(?:le|ility|ilities)|cves?|cwes?|exploit(?:s|ed|ing|ation)?|"
+    r"malware|fuzz(?:ing|er|ers)?|patch(?:es|ed|ing)?|binar(?:y|ies)|"
+    r"decompil(?:e|er|ation|ing)|reverse engineer(?:ing)?|firmware|kernels?|"
+    r"operating systems?|packages?|dependencies|dependency|supply chain|prompt injection|"
     r"rag|retrieval.augmented generation|agent|tool[- ]use|mcp|pentest|soc|"
     r"incident response|threat intelligence|security rule)\b",
     re.I,
 )
 FRONTIER_ACCEPTED_RE = re.compile(
     r"\b(accepted (?:at|to|by)|to appear (?:at|in)|published (?:at|in))\b",
+    re.I,
+)
+FRONTIER_PRIMARY_SOFTWARE_RE = re.compile(
+    r"\b(source code|code (?:generation|completion|translation|repair|review|"
+    r"analysis|search|retrieval|summari[sz]ation)|coding|software|developers?|"
+    r"repositories|repository|github|compil(?:e|er|ation|ing)|"
+    r"debug(?:ger|ged|ging)?|bugs?|program repair|patch(?:es|ed|ing)?|"
+    r"unit tests?|software tests?|fuzz(?:ing|er)?|refactor(?:ing)?|apis?|"
+    r"binar(?:y|ies)|decompil(?:e|er|ation|ing)|reverse engineering|"
+    r"proof assistant|theorem prover|program verification|requirements? "
+    r"engineering|devops|kernels?|operating systems?|package dependencies|"
+    r"software supply chain)\b",
+    re.I,
+)
+FRONTIER_PRIMARY_SECURITY_RE = re.compile(
+    r"\b(cyber(?:security)?|software security|code security|vulnerab(?:le|ility|ilities)|"
+    r"cves?|cwes?|malware|fuzz(?:ing|er)?|pentest(?:ing)?|penetration testing|"
+    r"exploit(?:s|ed|ing|ation)?|prompt injection|tool injection|rag poisoning|"
+    r"retrieval poisoning|agent security|agentic security|security of (?:llm|ai) "
+    r"(?:agents?|systems?|applications?)|supply.chain attack|app(?:lication)? rce)\b",
+    re.I,
+)
+FRONTIER_PRIMARY_AGENT_ENGINEERING_RE = re.compile(
+    r"\b(agent|agentic|llm|language.model|rag|retrieval.augmented generation)"
+    r".{0,35}\b(runtime|framework|workflow|orchestrat(?:ion|or)|architecture|"
+    r"protocol|observability|debugging|testing|platform|sandbox|isolation|"
+    r"deployment|tool(?:ing| use)|mcp|memory system|context management)\b|"
+    r"\b(runtime|framework|workflow|orchestrat(?:ion|or)|architecture|protocol|"
+    r"observability|debugging|testing|platform|sandbox|isolation|deployment|"
+    r"tool(?:ing| use)|mcp|memory system|context management).{0,35}"
+    r"\b(agent|agentic|llm|language.model|rag|retrieval.augmented generation)\b",
+    re.I,
+)
+FRONTIER_NON_DOSSIER_PRIMARY_RE = re.compile(
+    r"\b(medical|medicine|clinical|diagnos(?:is|tic)|disease|patient|"
+    r"health(?:care)?|protein|drug|"
+    r"molecular|genom(?:e|ic)|biolog(?:y|ical)|radiolog(?:y|ical)|"
+    r"image|vision|video|robot(?:s|ics)?|autonomous driving|vehicle|navigation|"
+    r"recommender|recommendation|financial?|education|tutor|social media|"
+    r"misinformation|weather|climate|agricultur(?:e|al)|chemistry|"
+    r"police|policing|law enforcement|social vulnerability|"
+    r"test[- ]time (?:scaling|compute|adaptation|training|inference))\b",
     re.I,
 )
 
@@ -316,7 +370,17 @@ def ascii_token(value: str) -> str:
 
 
 def bib_escape(value: str) -> str:
-    return (value or "").replace("\\", r"\\").replace("{", r"\{").replace("}", r"\}")
+    # BibTeX braced values support nested braces and LaTeX commands directly.
+    # Escaping them here is not only unnecessary: reparsing a generated dossier
+    # bibliography and writing it again would double every backslash.
+    return normalize_space(value)
+
+
+def bib_unescape_generated(value: str) -> str:
+    """Repair legacy generated values whose escapes doubled on every rebuild."""
+
+    value = re.sub(r"\\+", r"\\", value or "")
+    return value.replace(r"\{", "{").replace(r"\}", "}")
 
 
 def source_cache_name(url: str) -> str:
@@ -485,9 +549,17 @@ def build_venue_years() -> list[VenueYear]:
 
     add("OSDI", 2026, "usenix", "https://www.usenix.org/conference/osdi26/technical-sessions")
     by[("OSDI", 2026)].official_url = "https://www.usenix.org/conference/osdi26/technical-sessions"
+    by[("OSDI", 2026)].note = (
+        "Official technical-sessions page also contains a keynote; the parser "
+        "retains only archival research-paper sessions."
+    )
 
     add("USENIX Security", 2026, "usenix", "https://www.usenix.org/conference/usenixsecurity26/technical-sessions")
     by[("USENIX Security", 2026)].official_url = "https://www.usenix.org/conference/usenixsecurity26/technical-sessions"
+    by[("USENIX Security", 2026)].note = (
+        "Official technical-sessions page also contains the non-archival Enigma "
+        "track; the parser retains only refereed research-paper sessions."
+    )
 
     by[("OOPSLA/PACMPL", 2026)].note = "No complete public archival issue/program located by the cutoff."
     by[("NeurIPS", 2026)].note = "Reviews were in progress at the cutoff; no accepted-paper program."
@@ -817,11 +889,29 @@ def parse_eurosys(path: Path, spec: VenueYear, source: Source) -> list[Record]:
 
 def parse_usenix(path: Path, spec: VenueYear, source: Source) -> list[Record]:
     text = path.read_text(encoding="utf-8", errors="replace")
-    blocks = re.findall(
-        r'<article[^>]+class="node node-paper view-mode-schedule".*?</article>',
+    blocks: list[str] = []
+    session_chunks = re.split(
+        r'(?=<article[^>]+class="node node-session view-mode-schedule")',
         text,
-        re.S,
+    )[1:]
+    excluded_session_re = re.compile(
+        r"\b(enigma|keynote|test of time|award|discussion|panel|poster)\b",
+        re.I,
     )
+    for session in session_chunks:
+        session_title_match = re.search(r"<h2>(.*?)</h2>", session, re.S)
+        session_title = (
+            strip_tags(session_title_match.group(1)) if session_title_match else ""
+        )
+        if excluded_session_re.search(session_title):
+            continue
+        blocks.extend(
+            re.findall(
+                r'<article[^>]+class="node node-paper view-mode-schedule".*?</article>',
+                session,
+                re.S,
+            )
+        )
     records: list[Record] = []
     seen: set[str] = set()
     for block in blocks:
@@ -1109,7 +1199,7 @@ def parse_bib_fields(body: str) -> dict[str, str]:
             end = body.find(",", value_start)
             pos = len(body) if end < 0 else end
             value = body[value_start:pos]
-        fields[name] = normalize_space(value)
+        fields[name] = bib_unescape_generated(normalize_space(value))
         index = pos
     return fields
 
@@ -1205,6 +1295,15 @@ def screening_decision(record: Record, existing_membership: dict[str, set[str]])
     title = strip_tags(record.title)
     if record.norm_title in existing_membership:
         return "include", "identity matches a manually mapped dossier record"
+    if (
+        FRONTIER_NON_DOSSIER_PRIMARY_RE.search(title)
+        and (DIRECT_LLM_RE.search(title) or HIGH_RECALL_RE.search(title))
+        and (SOFTWARE_RE.search(title) or SECURITY_RE.search(title) or AGENT_SYSTEM_RE.search(title))
+    ):
+        return (
+            "candidate",
+            "title also names a medical, biological, social, vision, robotics, or model-method primary object; abstract/manual adjudication must establish a dossier research object",
+        )
     if DIRECT_LLM_RE.search(title) and (SOFTWARE_RE.search(title) or SECURITY_RE.search(title) or AGENT_SYSTEM_RE.search(title)):
         return "include", "direct LLM/model signal plus software/security/agent-system object in title"
     if HIGH_RECALL_RE.search(title) and (SOFTWARE_RE.search(title) or SECURITY_RE.search(title)):
@@ -1239,17 +1338,24 @@ def frontier_screening_decision(
     title_llm = bool(DIRECT_LLM_RE.search(title) or HIGH_RECALL_RE.search(title))
     lead_llm = bool(DIRECT_LLM_RE.search(title + " " + lead) or HIGH_RECALL_RE.search(title + " " + lead))
     title_domain = bool(
-        SOFTWARE_RE.search(title)
-        or FRONTIER_SECURITY_OBJECT_RE.search(title)
-        or AGENT_SYSTEM_RE.search(title)
-        or FRONTIER_AGENT_RE.search(title)
+        FRONTIER_PRIMARY_SOFTWARE_RE.search(title)
+        or FRONTIER_PRIMARY_SECURITY_RE.search(title)
+        or FRONTIER_PRIMARY_AGENT_ENGINEERING_RE.search(title)
     )
     lead_domain = bool(
-        SOFTWARE_RE.search(title + " " + abstract[:800])
-        or FRONTIER_SECURITY_OBJECT_RE.search(title + " " + abstract[:800])
-        or AGENT_SYSTEM_RE.search(title + " " + abstract[:800])
-        or FRONTIER_AGENT_RE.search(title + " " + abstract[:800])
+        FRONTIER_PRIMARY_SOFTWARE_RE.search(title + " " + abstract[:800])
+        or FRONTIER_PRIMARY_SECURITY_RE.search(title + " " + abstract[:800])
+        or FRONTIER_PRIMARY_AGENT_ENGINEERING_RE.search(title + " " + abstract[:800])
     )
+    if (
+        FRONTIER_NON_DOSSIER_PRIMARY_RE.search(title)
+        and (title_llm or title_domain)
+    ):
+        return (
+            "candidate",
+            "title establishes a medical, biological, vision, robotics, or other potentially non-dossier primary object; manual review must show that software/agent engineering or cyber security is primary",
+            "needs-primary-object-review",
+        )
     if title_domain and lead_llm:
         return (
             "include",
@@ -1297,25 +1403,53 @@ def assign_frontier_dossiers(record: Record) -> set[str]:
     return assignments
 
 
-def choose_shelf(dossier: str, title: str) -> str:
+def choose_shelf(dossier: str, text: str) -> str:
     for pattern, shelf in SHELF_RULES[dossier]:
-        if re.search(pattern, title, re.I):
+        if re.search(pattern, text, re.I):
             return shelf
     return DEFAULT_SHELF[dossier]
 
 
 def concise_contribution(record: Record) -> str:
     title = strip_tags(record.title).rstrip(".")
-    if len(title) > 150:
-        title = title[:147].rstrip() + "..."
-    evidence = (
-        "Frontier-preprint evidence"
-        if record.publication_status == "frontier-preprint"
-        else "Supplementary evidence"
-        if record.publication_status == "supplementary"
-        else "Formal-venue evidence"
-    )
-    return f"{evidence} on {title[0].lower() + title[1:] if title else 'the mapped research object'}."
+    abstract = strip_tags(record.abstract)
+    if abstract:
+        sentences = re.split(r"(?<=[.!?])\s+", abstract)
+        contribution_signal = re.compile(
+            r"\b(we (?:introduce|propose|present|develop|build|design|evaluate|"
+            r"investigate|study|conduct|construct|release)|this (?:paper|work) "
+            r"(?:introduces|proposes|presents|develops|builds|designs|evaluates|"
+            r"investigates|studies)|our (?:method|system|framework|benchmark|"
+            r"dataset|study|analysis|approach))\b",
+            re.I,
+        )
+        selected = next(
+            (sentence for sentence in sentences if contribution_signal.search(sentence)),
+            sentences[0] if sentences else "",
+        )
+        selected = re.sub(
+            r"^(?:in this (?:paper|work),?\s+|here,?\s+)?we\s+",
+            "",
+            selected,
+            flags=re.I,
+        )
+        if selected:
+            selected = selected[0].upper() + selected[1:]
+            words = selected.split()
+            if len(words) > 24:
+                selected = " ".join(words[:24]).rstrip(",:;") + "…"
+            return selected.rstrip(".") + "."
+    if re.search(r"\b(benchmark|dataset|evaluation|evaluating|empirical)\b", title, re.I):
+        verb = "Benchmarks or evaluates"
+    elif re.search(r"\b(survey|systematic|taxonomy|mapping study|review)\b", title, re.I):
+        verb = "Systematizes"
+    elif re.search(r"\b(test|debug|repair|detect|analysis|verification)\b", title, re.I):
+        verb = "Studies"
+    else:
+        verb = "Introduces or evaluates"
+    if len(title) > 180:
+        title = title[:177].rstrip() + "…"
+    return f"{verb} {title[0].lower() + title[1:] if title else 'the mapped research object'}; abstract-level contribution review remains pending."
 
 
 def bib_entry(record: Record) -> str:
@@ -1387,6 +1521,67 @@ def write_csv(path: Path, fieldnames: list[str], rows: Iterable[dict[str, object
             writer.writerow(row)
 
 
+def read_adjudications(path: Path) -> dict[str, dict[str, str]]:
+    if not path.exists():
+        return {}
+    result: dict[str, dict[str, str]] = {}
+    with path.open(encoding="utf-8", newline="") as handle:
+        for row_number, row in enumerate(csv.DictReader(handle), start=2):
+            decision = row.get("decision", "").strip()
+            if not decision:
+                continue
+            if decision not in {"include", "exclude"}:
+                raise ValueError(f"{path}:{row_number}: decision must be include or exclude")
+            reason = row.get("reason", "").strip()
+            evidence_source = row.get("evidence_source", "").strip()
+            reviewed_on = row.get("reviewed_on", "").strip()
+            if not reason or not evidence_source or not reviewed_on:
+                raise ValueError(
+                    f"{path}:{row_number}: reason, evidence_source, and reviewed_on are required"
+                )
+            dossiers = {
+                item.strip()
+                for item in row.get("dossiers", "").split(";")
+                if item.strip()
+            }
+            if not dossiers <= set(DOSSIERS):
+                raise ValueError(f"{path}:{row_number}: unknown dossier assignment")
+            if decision == "include" and not dossiers:
+                raise ValueError(f"{path}:{row_number}: include decision requires a dossier")
+            if decision == "exclude" and dossiers:
+                raise ValueError(f"{path}:{row_number}: exclude decision cannot assign a dossier")
+            identities = []
+            if row.get("citation_key", "").strip():
+                identities.append("key:" + row["citation_key"].strip())
+            if row.get("arxiv_id", "").strip():
+                identities.append("arxiv:" + row["arxiv_id"].strip().casefold())
+            if row.get("title", "").strip():
+                identities.append("title:" + normalize_title(row["title"]))
+            if not identities:
+                raise ValueError(f"{path}:{row_number}: no record identity supplied")
+            normalized = dict(row)
+            normalized["decision"] = decision
+            normalized["reason"] = reason
+            normalized["dossiers"] = ";".join(sorted(dossiers))
+            for identity in identities:
+                if identity in result:
+                    raise ValueError(f"{path}:{row_number}: duplicate adjudication identity {identity}")
+                result[identity] = normalized
+    return result
+
+
+def find_adjudication(
+    record: Record, adjudications: dict[str, dict[str, str]]
+) -> dict[str, str] | None:
+    identities = [f"key:{record.key}", f"title:{record.norm_title}"]
+    if record.arxiv:
+        identities.insert(1, "arxiv:" + record.arxiv.casefold())
+    matches = {id(adjudications[identity]): adjudications[identity] for identity in identities if identity in adjudications}
+    if len(matches) > 1:
+        raise ValueError(f"conflicting adjudications for {record.key}: {record.title}")
+    return next(iter(matches.values()), None)
+
+
 def write_manifest(rows: list[dict[str, object]]) -> None:
     fields = [
         "area",
@@ -1411,7 +1606,14 @@ def extract_existing_shelves() -> dict[tuple[str, str], tuple[str, str, str]]:
     result: dict[tuple[str, str], tuple[str, str, str]] = {}
     for dossier, directory in DOSSIERS.items():
         for path in (directory / "Academic-Status").rglob("*.md"):
-            for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
+            text = path.read_text(encoding="utf-8", errors="replace")
+            if GENERATED_SHELF_BEGIN in text:
+                before, remainder = text.split(GENERATED_SHELF_BEGIN, 1)
+                if GENERATED_SHELF_END not in remainder:
+                    raise ValueError(f"{path}: generated shelf block lacks an end marker")
+                _, after = remainder.split(GENERATED_SHELF_END, 1)
+                text = before + after
+            for line in text.splitlines():
                 if not line.startswith("|") or line.startswith("| ---"):
                     continue
                 cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
@@ -1457,8 +1659,9 @@ def write_canonical_maps(
             ),
             "",
             "This generated map is the auditable bridge between the shared 2024–2026 corpus, "
-            "the dossier BibTeX, and the hand-written academic shelves. A record has one "
-            "canonical row per dossier; secondary shelves should link by citation key.",
+            "the dossier BibTeX, and the materialized academic shelves. A record has one "
+            "canonical row per dossier; generated shelf blocks preserve hand-written prose, "
+            "and secondary shelves should link by citation key.",
             "",
         ]
         grouped: dict[str, dict[str, list[dict[str, str]]]] = defaultdict(lambda: defaultdict(list))
@@ -1498,6 +1701,104 @@ def write_canonical_maps(
                     )
                 lines.append("")
         (directory / "Canonical-Corpus-Map.md").write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+
+
+def render_academic_shelves(
+    mappings: list[dict[str, str]], dossier_records: dict[str, list[Record]]
+) -> None:
+    """Materialize non-hand-written mappings without touching hand-written prose.
+
+    Existing full rows remain authoritative. Every other mapping is rendered
+    inside a stable generated block on its canonical shelf, separated by
+    evidence layer. On the next build, extract_existing_shelves deliberately
+    ignores these blocks so generated rows cannot masquerade as manual review.
+    """
+
+    manual_rows = extract_existing_shelves()
+    manual_keys = {
+        dossier: {
+            key for mapped_dossier, key in manual_rows if mapped_dossier == dossier
+        }
+        for dossier in DOSSIERS
+    }
+    records_by_key = {
+        dossier: {record.key: record for record in records}
+        for dossier, records in dossier_records.items()
+    }
+    grouped: dict[tuple[str, str], dict[str, list[dict[str, str]]]] = defaultdict(
+        lambda: defaultdict(list)
+    )
+    for row in mappings:
+        if row["citation_key"] in manual_keys[row["dossier"]]:
+            continue
+        grouped[(row["dossier"], row["shelf"])][row["evidence_layer"]].append(row)
+
+    for dossier, directory in DOSSIERS.items():
+        shelf_root = directory / "Academic-Status"
+        for path in sorted(shelf_root.rglob("*.md")):
+            if path.name == "Academic-Status.md":
+                continue
+            relative = path.relative_to(directory).as_posix()
+            text = path.read_text(encoding="utf-8", errors="replace")
+            if GENERATED_SHELF_BEGIN in text:
+                before, remainder = text.split(GENERATED_SHELF_BEGIN, 1)
+                if GENERATED_SHELF_END not in remainder:
+                    raise ValueError(f"{path}: generated shelf block lacks an end marker")
+                _, after = remainder.split(GENERATED_SHELF_END, 1)
+                text = before.rstrip("\n")
+                if after.strip():
+                    text += "\n\n" + after.strip("\n")
+            else:
+                text = text.rstrip("\n")
+
+            layers = grouped.get((dossier, relative), {})
+            generated_lines = [
+                GENERATED_SHELF_BEGIN,
+                "## Generated Canonical Corpus Rows",
+                "",
+                "The builder maintains this block from the shared screening and mapping ledgers. "
+                "Hand-written rows and analysis above remain authoritative where present.",
+                "",
+            ]
+            rendered = 0
+            for layer, heading in (
+                ("formal-venue", "Formal Venue Papers"),
+                ("frontier-preprint", "Frontier Preprints"),
+                ("supplementary", "Supplementary or Out-of-Ledger Evidence"),
+            ):
+                rows = layers.get(layer, [])
+                if not rows:
+                    continue
+                generated_lines.extend(
+                    (
+                        f"### {heading}",
+                        "",
+                        "| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |",
+                        "| --- | --- | ---: | --- | --- | --- | --- |",
+                    )
+                )
+                for row in sorted(rows, key=lambda item: (item["year"], item["citation_key"])):
+                    record = records_by_key[dossier].get(row["citation_key"])
+                    title = (record.title if record else row["title"]).replace("|", r"\|")
+                    url = record.url if record else row["url"]
+                    paper = f"[{title}](<{url}>)" if url else title
+                    generated_lines.append(
+                        "| {key} | {paper} | {year} | {source} | {role} | {contribution} | {evidence} |".format(
+                            key=row["citation_key"],
+                            paper=paper,
+                            year=row["year"],
+                            source=row["verified_source_status"].replace("|", r"\|"),
+                            role=row["research_role"].replace("|", r"\|"),
+                            contribution=row["contribution"].replace("|", r"\|"),
+                            evidence=layer,
+                        )
+                    )
+                    rendered += 1
+                generated_lines.append("")
+            if rendered:
+                generated_lines.append(GENERATED_SHELF_END)
+                text += "\n\n" + "\n".join(generated_lines).rstrip()
+            path.write_text(text.rstrip() + "\n", encoding="utf-8")
 
 
 def write_taxonomy_audit(mappings: list[dict[str, str]]) -> None:
@@ -1573,6 +1874,8 @@ def main() -> int:
     args = parser.parse_args()
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
+    formal_adjudications = read_adjudications(FORMAL_ADJUDICATIONS)
+    frontier_adjudications = read_adjudications(FRONTIER_ADJUDICATIONS)
     existing_by_dossier, preserved_keys, existing_membership = collect_existing()
     specs = build_venue_years()
     all_records: list[Record] = []
@@ -1645,7 +1948,22 @@ def main() -> int:
         decision, reason, evidence = frontier_screening_decision(
             record, formal_identity_tokens
         )
-        assignments = assign_frontier_dossiers(record) if decision == "include" else set()
+        adjudication = find_adjudication(record, frontier_adjudications)
+        if adjudication:
+            decision = adjudication["decision"]
+            reason = adjudication["reason"]
+            evidence = "manual-abstract-or-paper-review"
+            assignments = {
+                item for item in adjudication["dossiers"].split(";") if item
+            }
+            review_status = "human-adjudicated"
+        else:
+            assignments = assign_frontier_dossiers(record) if decision == "include" else set()
+            review_status = (
+                "needs-primary-object-review"
+                if decision == "candidate"
+                else "automated-title-abstract-screening"
+            )
         frontier_screening_rows.append(
             {
                 "citation_key": record.key,
@@ -1659,11 +1977,7 @@ def main() -> int:
                 "pass2_evidence": evidence,
                 "dossiers": ";".join(sorted(assignments)),
                 "formal_supersession": "yes" if evidence == "formal-supersession" else "no",
-                "review_status": (
-                    "adjudicated"
-                    if decision in {"include", "exclude"}
-                    else "needs-primary-object-review"
-                ),
+                "review_status": review_status,
                 "url": record.url,
             }
         )
@@ -1683,7 +1997,32 @@ def main() -> int:
 
     for record in formal_records:
         decision, reason = screening_decision(record, existing_membership)
-        assignments = assign_dossiers(record, existing_membership) if decision == "include" else set()
+        adjudication = find_adjudication(record, formal_adjudications)
+        if adjudication:
+            decision = adjudication["decision"]
+            reason = adjudication["reason"]
+            assignments = {
+                item for item in adjudication["dossiers"].split(";") if item
+            }
+            pass2_evidence = "manual-abstract-or-paper-review"
+            review_status = "human-adjudicated"
+        else:
+            assignments = assign_dossiers(record, existing_membership) if decision == "include" else set()
+            manually_mapped = record.norm_title in existing_membership
+            pass2_evidence = (
+                "manual-existing-map"
+                if manually_mapped
+                else "automated-title-rule"
+                if decision == "include"
+                else "not-inspected"
+            )
+            review_status = (
+                "human-adjudicated"
+                if manually_mapped
+                else "needs-abstract-review"
+                if decision == "candidate"
+                else "automated-title-screening"
+            )
         screening_rows.append(
             {
                 "citation_key": record.key,
@@ -1691,11 +2030,11 @@ def main() -> int:
                 "venue": record.venue,
                 "year": record.year,
                 "pass1_title_signal": "yes" if HIGH_RECALL_RE.search(record.title) else "no",
-                "pass2_evidence": "manual-existing-map" if record.norm_title in existing_membership else ("title-direct" if decision == "include" else "not-inspected"),
+                "pass2_evidence": pass2_evidence,
                 "decision": decision,
                 "reason": reason,
                 "dossiers": ";".join(sorted(assignments)),
-                "review_status": "adjudicated" if decision in {"include", "exclude"} else "needs-abstract-review",
+                "review_status": review_status,
             }
         )
         if decision != "include":
@@ -1755,8 +2094,37 @@ def main() -> int:
             record.keywords.discard("formal-venue")
             record.keywords.add(evidence)
             existing_map = existing_shelves.get((dossier, record.key))
-            shelf = existing_map[0] if existing_map else choose_shelf(dossier, record.title)
-            contribution = existing_map[1] if existing_map and existing_map[1] else concise_contribution(record)
+            mapping_adjudication = find_adjudication(record, formal_adjudications)
+            if mapping_adjudication is None:
+                mapping_adjudication = find_adjudication(record, frontier_adjudications)
+            adjudicated_shelf = (
+                mapping_adjudication.get("shelf", "").strip()
+                if mapping_adjudication
+                else ""
+            )
+            shelf = (
+                existing_map[0]
+                if existing_map
+                else adjudicated_shelf
+                if adjudicated_shelf
+                else choose_shelf(dossier, record.title + " " + record.abstract[:1200])
+            )
+            if not (DOSSIERS[dossier] / shelf).is_file():
+                raise ValueError(
+                    f"canonical shelf does not exist for {dossier}/{record.key}: {shelf}"
+                )
+            adjudicated_contribution = (
+                mapping_adjudication.get("contribution", "").strip()
+                if mapping_adjudication
+                else ""
+            )
+            contribution = (
+                existing_map[1]
+                if existing_map and existing_map[1]
+                else adjudicated_contribution
+                if adjudicated_contribution
+                else concise_contribution(record)
+            )
             label = existing_map[2] if existing_map and existing_map[2] else (
                 "Published" if record.publication_status == "proceedings" else
                 "Accepted/program record" if record.publication_status == "accepted-program" else
@@ -1863,6 +2231,18 @@ def main() -> int:
     )
     frontier_query_manifest.update(
         {
+            "screening_policy": {
+                "automatic_include_boundary": (
+                    "title must name a primary ordinary-software/code, software/cyber-"
+                    "security, or LLM/agent-system engineering object; generic agent, "
+                    "API, testing, or security mentions are insufficient"
+                ),
+                "non_dossier_domain_policy": (
+                    "medical, biological, vision, robotics, and other domain-first "
+                    "titles remain candidates unless manually adjudicated"
+                ),
+                "manual_override_file": FRONTIER_ADJUDICATIONS.name,
+            },
             "normalized_candidates": len(frontier_candidates),
             "screened_include": len(screened_frontier_2026),
             "screened_candidate": sum(
@@ -1876,6 +2256,10 @@ def main() -> int:
             ),
             "decision_counts": dict(
                 Counter(row["decision"] for row in frontier_screening_rows)
+            ),
+            "human_adjudications": sum(
+                row["review_status"] == "human-adjudicated"
+                for row in frontier_screening_rows
             ),
         }
     )
@@ -1893,6 +2277,7 @@ def main() -> int:
     )
     write_taxonomy_audit(mapping_rows)
     write_canonical_maps(mapping_rows, dossier_records)
+    render_academic_shelves(mapping_rows, dossier_records)
     summary = {
         "snapshot_date": SNAPSHOT_DATE,
         "formal_records": len(formal_records),

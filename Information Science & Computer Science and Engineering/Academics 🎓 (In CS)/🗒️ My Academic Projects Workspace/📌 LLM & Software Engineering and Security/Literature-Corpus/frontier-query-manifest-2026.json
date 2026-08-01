@@ -33,14 +33,20 @@
   "page_size": 500,
   "retrieval_date": "2026-07-31",
   "scope_note": "Exhaustive for the two declared arXiv query universes, not for every repository or every synonym that may describe LLM-related work.",
+  "screening_policy": {
+    "automatic_include_boundary": "title must name a primary ordinary-software/code, software/cyber-security, or LLM/agent-system engineering object; generic agent, API, testing, or security mentions are insufficient",
+    "non_dossier_domain_policy": "medical, biological, vision, robotics, and other domain-first titles remain candidates unless manually adjudicated",
+    "manual_override_file": "frontier-adjudications-2026.csv"
+  },
   "normalized_candidates": 5558,
-  "screened_include": 2556,
-  "screened_candidate": 560,
-  "screened_exclude": 2442,
+  "screened_include": 1522,
+  "screened_candidate": 1005,
+  "screened_exclude": 3031,
   "formal_supersessions": 321,
   "decision_counts": {
-    "candidate": 560,
-    "exclude": 2442,
-    "include": 2556
-  }
+    "include": 1522,
+    "exclude": 3031,
+    "candidate": 1005
+  },
+  "human_adjudications": 5
 }

@@ -52,3 +52,24 @@ PatchWeaver’s canonical row is in [Security Repair And Patch Validation](../Vu
 - `Yang2025KNighter` is canonically filed under [Program Analysis](../Security-Analysis/Program-Analysis.md) because its main contribution is LLM-synthesized static checkers; Linux-kernel evaluation makes it the strongest SOSP cross-tag.
 - Device/protocol fuzzing remains a child method in [Program Analysis](../Security-Analysis/Program-Analysis.md); this page is its system/domain view.
 - Generic serving throughput, scheduling, kernel optimization, and systems-for-LLM papers stay outside this security dossier.
+
+<!-- BEGIN GENERATED CANONICAL CORPUS ROWS -->
+## Generated Canonical Corpus Rows
+
+The builder maintains this block from the shared screening and mapping ledgers. Hand-written rows and analysis above remain authoritative where present.
+
+### Frontier Preprints
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Chen2026IterinjectIndirectPrompt | [IterInject: Indirect Prompt Injection Against LLM Agents via Feedback-Guided Iterative Optimization](<https://arxiv.org/abs/2605.24659>) | 2026 | arXiv / frontier-preprint | Systems And OS Security | Introduce \oursys, a feedback-guided iterative framework that closes the loop between injection, diagnosis, and refinement: a rule-based diagnoser produces structured outcome labels with behavioral…. | frontier-preprint |
+| Gong2026LocalalignEnablingGeneralizable | [LocalAlign: Enabling Generalizable Prompt Injection Defense via Generation of Near-Target Adversarial Examples for Alignment Training](<https://arxiv.org/abs/2605.01462>) | 2026 | arXiv / frontier-preprint | Systems And OS Security | To address this challenge, we propose LocalAlign, a more generalizable prompt injection defense inspired by adversarial training. | frontier-preprint |
+| He2026DefendingAgainstAdaptive | [Defending against Adaptive Prompt Injection Attacks via Reasoning-enabled Task Alignment](<https://arxiv.org/abs/2606.15441>) | 2026 | arXiv / frontier-preprint | Systems And OS Security | To address these gaps, we propose RETA, a training-based method that grounds defense decisions on the user tasks rather than attacker-controlled data. | frontier-preprint |
+| Li2026LlmAsReviewer | [LLM-as-a-Reviewer: Benchmarking Their Ability, Divergence, and Prompt Injection Resistance as Paper Reviewers](<https://arxiv.org/abs/2605.25415>) | 2026 | arXiv / frontier-preprint | Systems And OS Security | Present a systematic benchmark of LLM-as-a-Reviewer on 898 papers stratified from NeurIPS and ICLR, evaluating 12 LLMs along three axes: rating calibration, divergence from…. | frontier-preprint |
+| MayoralVilches2026CybersecurityAiGame | [Cybersecurity AI: A Game-Theoretic AI for Guiding Attack and Defense](<https://arxiv.org/abs/2601.05887>) | 2026 | arXiv / frontier-preprint | Systems And OS Security | Present Generative Cut-the-Rope (G-CTR), a game-theoretic guidance layer that extracts attack graphs from agent's context, computes Nash equilibria with effort-aware scoring, and feeds a…. | frontier-preprint |
+| Pirch2026TowardSecuringAi | [Toward Securing AI Agents Like Operating Systems](<https://arxiv.org/abs/2605.14932>) | 2026 | arXiv / frontier-preprint | Systems And OS Security | Investigate the security of LLM-based agents through the lens of operating systems. | frontier-preprint |
+| Sygletos2026KernelBasedRelu | [Kernel-Based ReLU Approximation for Homomorphic Encryption-Compatible Privacy-preserving Deep Learning Models](<https://arxiv.org/abs/2605.23641>) | 2026 | arXiv / frontier-preprint | Systems And OS Security | This paper proposes a kernel-based approximation of ReLU, enabling its use within HE-constrained settings and thus contributing a critical step toward supporting privacy-preserving LLMs. | frontier-preprint |
+| Yang2026DeviceContextProtocol | [Device Context Protocol: A Compact, Safety-First Architecture for LLM-Driven Control of Constrained Devices](<https://arxiv.org/abs/2605.26159>) | 2026 | arXiv / frontier-preprint | Systems And OS Security | Present the Device Context Protocol (DCP): a sub-50-byte typical frame (6-byte header + CBOR payload + optional 16-byte HMAC), a manifest schema in which…. | frontier-preprint |
+| Zhao2026AgenticosIntentOriented | [AgenticOS: An Intent-Oriented Secure Operating System Architecture for Autonomous AI Agents](<https://arxiv.org/abs/2606.21129>) | 2026 | arXiv / frontier-preprint | Systems And OS Security | To address this, we propose AgenticOS, an intent-oriented secure OS architecture that consolidates delegable, auditable software capabilities into OS-native ones rather than replacing all…. | frontier-preprint |
+
+<!-- END GENERATED CANONICAL CORPUS ROWS -->

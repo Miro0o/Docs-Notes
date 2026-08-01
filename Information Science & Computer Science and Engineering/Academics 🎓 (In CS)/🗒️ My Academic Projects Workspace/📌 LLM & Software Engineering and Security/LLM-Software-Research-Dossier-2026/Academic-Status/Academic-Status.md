@@ -129,7 +129,7 @@ Exhaustiveness applies to the [shared source corpus](../../Literature-Corpus/REA
 14. [Human-Facing Software, UI/UX, Education, and Developer Experience](Human-Facing-Software-UI-UX-Education-And-Developer-Experience.md)
 15. [Performance Optimization and Compilation](Performance-Optimization-And-Compilation.md)
 16. [Systems, OS, Cloud, and Infrastructure Software](Systems-OS-Cloud-And-Infrastructure-Software.md)
-17. [Trends and Research Frontiers](../Trends-And-Research-Frontiers.md), then [Human Factor](../Human-Factor.md) and [Non-Academic Status](../Non-Academic-Status.md)
+17. [Trends and Research Frontiers](../Trends-And-Research-Frontiers.md), then the [shared Human Factor](../../LLM-Software-Security-Research-Dossier-2026/Human-Factor.md) and [Non-Academic Status](../Non-Academic-Status.md)
 
 ## Research Gaps
 

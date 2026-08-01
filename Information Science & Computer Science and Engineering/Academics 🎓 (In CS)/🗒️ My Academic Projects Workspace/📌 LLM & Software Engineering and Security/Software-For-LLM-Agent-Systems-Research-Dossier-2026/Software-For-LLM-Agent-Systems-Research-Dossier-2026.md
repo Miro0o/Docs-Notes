@@ -48,7 +48,7 @@ The field is still immature. Many evaluations conflate model quality with framew
 - [Testing, Debugging, and Observability](Academic-Status/Testing-Debugging-And-Observability.md)
 - [Architecture, Evolution, and Operations](Academic-Status/Architecture-Evolution-And-Operations.md)
 - [Benchmarks and Surveys](Academic-Status/Benchmarks-And-Surveys.md)
-- [Human Factor](Human-Factor.md): how people design, inspect, supervise, and remain accountable for agent systems.
+- [Shared Human Factor](../LLM-Software-Security-Research-Dossier-2026/Human-Factor.md): how people and organizations design, test, inspect, operate, secure, supervise, and remain accountable for LLM-integrated software and agent systems.
 - [Non-Academic Status](Non-Academic-Status.md): standards, open protocols, frameworks, and practitioner signals.
 - [Canonical Corpus Map](Canonical-Corpus-Map.md): generated formal-venue, frontier-preprint, and supplementary rows with one canonical mapping per record.
 - [Mapped BibTeX](Software-For-LLM-Agent-Systems-Research-Dossier-2026.bib): every record assigned to this dossier, with preserved supplementary material.
@@ -83,7 +83,7 @@ The field is still immature. Many evaluations conflate model quality with framew
 3. Continue with [Types, Contracts, and Structured Interaction](Academic-Status/Types-Contracts-And-Structured-Interaction.md): DOMINO, XGrammar, and Agent Data Protocol.
 4. Read [Compilers, Runtimes, and Workflow Orchestration](Academic-Status/Compilers-Runtimes-And-Workflow-Orchestration.md): SGLang, Parrot, Murakkab, and Agentix.
 5. Read [Testing, Debugging, and Observability](Academic-Status/Testing-Debugging-And-Observability.md): Watson, DoVer, AgenTracer, and ISSTA 2026 accepted work.
-6. Finish with [Architecture, Evolution, and Operations](Academic-Status/Architecture-Evolution-And-Operations.md), including EvoMAC and DEI, then [Human Factor](Human-Factor.md) and [Non-Academic Status](Non-Academic-Status.md).
+6. Finish with [Architecture, Evolution, and Operations](Academic-Status/Architecture-Evolution-And-Operations.md), including EvoMAC and DEI, then the [shared Human Factor](../LLM-Software-Security-Research-Dossier-2026/Human-Factor.md) and [Non-Academic Status](Non-Academic-Status.md).
 
 ## Bibliographic Policy
 

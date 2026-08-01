@@ -78,3 +78,23 @@ For every benchmark result, record:
 - using an LLM judge as the only oracle for code correctness;
 - counting build/environment failures as model reasoning failures without separation;
 - duplicating a full paper record here when a canonical topic page already owns it.
+
+<!-- BEGIN GENERATED CANONICAL CORPUS ROWS -->
+## Generated Canonical Corpus Rows
+
+The builder maintains this block from the shared screening and mapping ledgers. Hand-written rows and analysis above remain authoritative where present.
+
+### Formal Venue Papers
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Allamanis2024UnsupervisedEvaluationCode | [Unsupervised Evaluation of Code LLMs with Round-Trip Correctness](<https://proceedings.mlr.press/v235/allamanis24a.html>) | 2024 | ICML / proceedings | Benchmarks Datasets And Evaluation | Benchmarks or evaluates unsupervised Evaluation of Code LLMs with Round-Trip Correctness; abstract-level contribution review remains pending. | formal-venue |
+| Chen2024RmcbenchBenchmarkingLarge | [RMCBench: Benchmarking Large Language Models' Resistance to Malicious Code.](<https://doi.org/10.1145/3691620.3695480>) | 2024 | ASE / proceedings | Benchmarks Datasets And Evaluation | Introduces or evaluates rMCBench: Benchmarking Large Language Models' Resistance to Malicious Code; abstract-level contribution review remains pending. | formal-venue |
+| Gong2024EvaluationLlmsSyntax | [Evaluation of LLMs on Syntax-Aware Code Fill-in-the-Middle Tasks](<https://proceedings.mlr.press/v235/gong24f.html>) | 2024 | ICML / proceedings | Benchmarks Datasets And Evaluation | Benchmarks or evaluates evaluation of LLMs on Syntax-Aware Code Fill-in-the-Middle Tasks; abstract-level contribution review remains pending. | formal-venue |
+| OBrien2024ArePromptEngineering | [Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot.](<https://doi.org/10.1145/3597503.3639176>) | 2024 | ICSE / proceedings | Benchmarks Datasets And Evaluation | Benchmarks or evaluates are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot; abstract-level contribution review remains pending. | formal-venue |
+| Chi2025CopilotArenaPlatform | [Copilot Arena: A Platform for Code LLM Evaluation in the Wild](<https://proceedings.mlr.press/v267/chi25a.html>) | 2025 | ICML / proceedings | Benchmarks Datasets And Evaluation | Benchmarks or evaluates copilot Arena: A Platform for Code LLM Evaluation in the Wild; abstract-level contribution review remains pending. | formal-venue |
+| Jain2025LivecodebenchHolisticContamination | [LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](<https://openreview.net/forum?id=chfJJYC3iL>) | 2025 | ICLR / accepted-program | Benchmarks Datasets And Evaluation | Benchmarks or evaluates liveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code; abstract-level contribution review remains pending. | formal-venue |
+| Si2026ScratchnetMultiModal | [ScratchNet: A Multi-modal Benchmark for Evaluating and Advancing LLMs on Scratch Programming Tasks](<https://conf.researchr.org/track/issta-2026/issta-2026-research-papers#event-e6154318-368a-4be8-aa97-9ba47babfe93>) | 2026 | ISSTA / accepted-program | Benchmarks Datasets And Evaluation | Benchmarks or evaluates scratchNet: A Multi-modal Benchmark for Evaluating and Advancing LLMs on Scratch Programming Tasks; abstract-level contribution review remains pending. | formal-venue |
+| normalization2026InteractbenchBenchmarkingLlms | [InteractBench: Benchmarking LLMs on Competitive Programming under Unrevealed Information](<https://icml.cc/virtual/2026/poster/63326>) | 2026 | ICML / accepted-program | Benchmarks Datasets And Evaluation | Introduces or evaluates interactBench: Benchmarking LLMs on Competitive Programming under Unrevealed Information; abstract-level contribution review remains pending. | formal-venue |
+
+<!-- END GENERATED CANONICAL CORPUS ROWS -->

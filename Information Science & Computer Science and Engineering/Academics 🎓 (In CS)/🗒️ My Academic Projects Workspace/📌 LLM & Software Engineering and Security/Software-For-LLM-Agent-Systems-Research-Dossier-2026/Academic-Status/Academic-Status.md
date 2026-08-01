@@ -107,7 +107,7 @@ Exhaustiveness applies to the [shared source corpus](../../Literature-Corpus/REA
 5. [Compilers, Runtimes, and Workflow Orchestration](Compilers-Runtimes-And-Workflow-Orchestration.md)
 6. [Testing, Debugging, and Observability](Testing-Debugging-And-Observability.md)
 7. [Architecture, Evolution, and Operations](Architecture-Evolution-And-Operations.md)
-8. [Human Factor](../Human-Factor.md) and [Non-Academic Status](../Non-Academic-Status.md)
+8. [Shared Human Factor](../../LLM-Software-Security-Research-Dossier-2026/Human-Factor.md) and [Non-Academic Status](../Non-Academic-Status.md)
 
 ## Research Gaps
 

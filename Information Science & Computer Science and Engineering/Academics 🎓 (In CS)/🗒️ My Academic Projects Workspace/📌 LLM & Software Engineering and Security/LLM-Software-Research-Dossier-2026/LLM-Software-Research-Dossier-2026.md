@@ -55,7 +55,7 @@ Code-specific data and adaptation are also an independent research layer, not a 
 - [Benchmarks, Datasets, and Evaluation](Academic-Status/Benchmarks-Datasets-And-Evaluation.md)
 - [Surveys and Systematization](Academic-Status/Surveys-And-Systematization.md)
 - [Trends and Research Frontiers](Trends-And-Research-Frontiers.md): evidence-backed trend synthesis without duplicate paper records.
-- [Human Factor](Human-Factor.md): developer behavior, trust, review, adoption, and work design.
+- [Shared Human Factor](../LLM-Software-Security-Research-Dossier-2026/Human-Factor.md): developer and team behavior, correctness and review, maintenance, performance, operations, trust, learning, adoption, and work design across LLM/software systems.
 - [Non-Academic Status](Non-Academic-Status.md): industry measurements, product signals, and practitioner evidence.
 - [Canonical Corpus Map](Canonical-Corpus-Map.md): generated formal-venue, frontier-preprint, and supplementary rows with one canonical mapping per record.
 - [Mapped BibTeX](LLM-Software-Research-Dossier-2026.bib): every record assigned to this dossier, with preserved supplementary material.

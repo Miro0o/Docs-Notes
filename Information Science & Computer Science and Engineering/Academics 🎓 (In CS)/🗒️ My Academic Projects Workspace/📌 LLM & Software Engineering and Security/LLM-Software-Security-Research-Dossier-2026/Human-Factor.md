@@ -1,36 +1,64 @@
 ---
 ai-generated: true
-last-reviewed: 2026-07-30
+last-reviewed: 2026-08-01
 ---
 
-# Human Factor: LLMs For Software Security And Analysis
+# Human Factor: LLMs, Software Engineering, Systems, And Security
 
-Date: 2026-07-30
+Date: 2026-08-01
 
-Home: [LLM-Software-Security-Research-Dossier-2026.md](LLM-Software-Security-Research-Dossier-2026.md)
+Dossier homes:
 
-This file covers the socio-technical layer of LLMs for software security and analysis: developer behavior, SOC analyst collaboration, reverse-engineering assistance, red-team labor, bug-bounty and maintainer workflows, oversight, approval burden, trust calibration, and the research ecosystem around human-facing security systems.
+- [LLMs for software engineering](LLM-Software-Research-Dossier-2026/LLM-Software-Research-Dossier-2026.md)
+- [LLMs and software security](LLM-Software-Security-Research-Dossier-2026.md)
+- [Software for LLM and agent systems](Software-For-LLM-Agent-Systems-Research-Dossier-2026/Software-For-LLM-Agent-Systems-Research-Dossier-2026.md)
 
-## Main Focus: United States And China As Of 2026-07-30
+This is the shared socio-technical and people/ecosystem map for all three dossiers. It covers both directions:
+
+1. **LLMs for software**: requirements, architecture, generation, comprehension, search, review, testing, debugging, repair, maintenance, migration, refactoring, verification, formalization, compilation, performance optimization, systems/OS/cloud operations, security work, education, and developer experience.
+2. **Software engineering, systems, and security for LLMs**: languages, runtimes, orchestration, testing, observability, evaluation, incident response, supply-chain assurance, privacy, access control, agent permissions, model/tool/data provenance, deployment, evolution, efficiency, reliability, safety, and governance.
+
+The unit of analysis is therefore not a model in isolation. It is a person or team working through a model, interface, repository context, retrieval layer, toolchain, tests and verifiers, runtime permissions, organizational process, and accountability structure. A system can generate locally correct code yet reduce overall quality through review overload, weak requirements, architectural drift, performance regressions, insecure dependencies, loss of team knowledge, or unowned operational risk.
+
+This file keeps the existing institution → group/unit → people → focus → relevance → evidence → sources structure. Academic `People` fields name current principal investigators or directly relevant faculty where an official group or personal page supports the association; they are discovery leads, not claims that every named person has published an LLM paper. Company records name product or research units rather than inferring a PI. First-party institution, group, product, and personal pages are preferred; papers and independent reports are used for empirical claims.
+
+
+## Intro
+### Main Focus: United States And China As Of 2026-08-01
 
 The United States and China should be treated as the primary country pair for this dossier.
 
-- The United States has the densest direct evidence for human factors: controlled secure-coding user studies, human-LLM reverse-engineering experiments, SOC fieldwork, HCI work on LLM red teaming, agent-approval research, AIxCC-style cyber reasoning systems, bug-bounty telemetry, and large security-product deployments.
-- China has the densest non-U.S. ecosystem around Chinese-language cybersecurity benchmarks, model-safety contests, public generative-AI security regulation, code/agent platforms, and security vendors. Direct published human-subject work on LLM + software security is thinner than in the United States, so China should be mapped as a mixed evidence base: benchmark/contest/platform/guidance evidence plus a watchlist of labs and companies likely to produce human-facing studies.
+- The United States has the densest direct evidence for human factors: controlled coding studies, developer telemetry, DORA-style organizational research, human-LLM program-comprehension and reverse-engineering experiments, software-engineering-agent evaluations, SOC fieldwork, HCI work on red teaming and approval, AIxCC-style cyber reasoning systems, and large developer/security product deployments.
+- China has the densest non-U.S. combination of code-model research, AI-for-SE and SE-for-AI laboratories, large domestic coding-agent deployments, systems and compiler work, Chinese-language software/security benchmarks, model-safety contests, security regulation, and security vendors. Direct public human-subject evidence is still thinner than the platform and technical record, so controlled and longitudinal studies of Chinese developer and operator practice remain a priority.
 - For both countries, the practical unit of analysis is not just the model. It is the human plus model plus scaffold plus tool permissions plus UI plus audit logs plus validation harness plus organizational governance.
 
-### Confidence Labels Used Below
+#### Confidence Labels Used Below
 
-- `Core`: direct LLM + security + human/organizational evidence, or an official source that directly shapes human-facing deployment.
-- `Strong adjacent`: active in LLM/software/security or AI security with clear human-factor relevance, but not always a human-subject study.
-- `Watch`: important ecosystem actor whose public record is relevant but where direct human-factors evidence needs follow-up before citation in a paper.
+- `Core`: direct human/organizational evidence about LLM-assisted software work, or direct work at the LLM × software-engineering/systems/security intersection with an identifiable human-facing workflow.
+- `Core/strong adjacent`: a mixed record: at least one direct intersection plus a broader program whose human evidence is incomplete.
+- `Strong adjacent`: a leading PL, OS/systems, SE, security, AI, HCI, or formal-methods group with a clear route into this topic, but no direct human-subject result should be inferred.
+- `Watch`: an important ecosystem actor, product, platform, contest, or general research group whose specific intersection or human evidence needs confirmation before it is cited as direct evidence.
 
-## Core Human-Factors Threads
+Labels apply to relevance for this map, not institutional quality. Product claims, benchmark scores, telemetry, interviews, controlled experiments, ethnography, and peer-reviewed field studies are different evidence classes and must not be collapsed.
+
+### Core Human-Factors Threads
 
 These threads summarize the evidence that should be mapped back to the institution, lab, unit, or platform entries below. They are synthesis, not the organizing spine of the file.
 
+- End-to-end engineering value: the outcome is accepted, correct, maintainable, efficient, secure, and operable software—not tokens generated or suggestions accepted. Measure requirements clarification, implementation, test and verification effort, review load, rework, incidents, handoff, and later change cost.
+- Correctness and reliability: syntactic validity and passing visible tests are weak proxies. Human reviewers need specifications, generated-test provenance, semantic checks, differential/metamorphic tests, static analysis, proof obligations, uncertainty signals, and clear abstention. Automation can move defects from typing time into review, integration, or production.
+- Performance and optimization: LLMs can propose algorithms, compiler transformations, kernels, configurations, and database/cloud changes, but plausible speedups may be input-specific, numerically unstable, non-portable, or obtained by weakening correctness. Evaluation needs workload provenance, baselines, semantic equivalence, cost/energy, hardware and compiler versions, and regression envelopes.
+- Systems, OS, cloud, and operations: assistants act on logs, traces, configurations, infrastructure-as-code, incident tickets, shell commands, and production controls. Situation awareness, rollback, blast radius, least privilege, change windows, escalation, post-incident learning, and durable operator skill matter as much as diagnosis accuracy.
+- Maintenance and evolution: repository-scale agents change how teams understand architecture, migrate APIs, refactor, review, document, and own code. Study architectural drift, duplicated logic, dependency choices, traceability, contributor attribution, review bottlenecks, and whether future maintainers can reconstruct intent.
+- Formal methods and proof engineering: proof assistants, constraint solvers, types, static analyzers, model checkers, and executable specifications can ground LLM output. The human question is whether generated lemmas, invariants, repairs, and explanations reduce proof effort while preserving a small trusted base and auditable proof lineage.
+- Software for LLM and agent systems: prompt programs, retrieval pipelines, memory, tool schemas, orchestration graphs, model routing, guardrails, evaluators, and fallbacks are software artifacts. Engineers need debuggable traces, reproducible replays, typed/contracted interfaces, versioning, test coverage, release gates, and clear ownership of stochastic behavior.
+- Security, privacy, and supply chain for AI software: model weights, datasets, prompts, vector stores, plugins/MCP servers, generated dependencies, containers, CI/CD, telemetry, and third-party APIs form an attack surface. Secure-by-design work must include developer usability, permission comprehension, secret handling, provenance, incident reporting, and patch acceptance.
 - Secure coding with AI assistants: Stanford's controlled study found that AI-assistant access can make users write less secure code while also increasing their confidence that the code is secure; prompt behavior and trust mattered. NYU's `Lost at C` study found a smaller effect in a C/pointer task, which is useful because it shows that task design, participant skill, interface, and language strongly shape results. Sources: https://arxiv.org/abs/2211.03622 ; https://par.nsf.gov/biblio/10472129-do-users-write-more-insecure-code-ai-assistants ; https://arxiv.org/abs/2208.09727 ; https://zenodo.org/record/7187358.
 - Developer training and secure prompting: newer studies are shifting from "does the model emit insecure code?" to "can developers be trained to use LLM assistance more safely?" UCF SEAL work reports a quasi-experimental developer study where targeted security training reduced validated weaknesses in LLM-assisted backend code. Sources: https://seal.cs.ucf.edu/ ; https://arxiv.org/abs/2604.17763.
+- Professional developer productivity: Google’s internal hybrid completion study, DORA’s qualitative and survey programs, GitHub research, and IDE-vendor studies show why perceived speed, suggestion acceptance, and organizational delivery metrics must be separated. AI frequently acts as an amplifier of repository health, platform quality, review culture, and organizational capability rather than an independent productivity treatment. Sources: https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/ ; https://research.google/pubs/dora-2025-state-of-ai-assisted-software-development-report/ ; https://research.google/pubs/dora-impact-of-generative-ai-in-software-development/ ; https://lp.jetbrains.com/research/hax/.
+- Program comprehension, scientific software, and expertise: LLMs can help users cross unfamiliar APIs, languages, and domains, but explanations may hide incorrect assumptions and erode learning. Studies should distinguish experts, professional developers, students, scientists who program, operators, security analysts, and end-user programmers, and include delayed recall, transfer, and handoff measures.
+- Code review and team coordination: AI increases the volume and breadth of proposed changes. Review tooling must surface intent, provenance, affected invariants, test adequacy, security and performance evidence, and unresolved uncertainty; otherwise nominal human approval becomes a throughput bottleneck or rubber stamp.
+- Education and skill formation: tutoring, explanation, example generation, and feedback can widen access, while answer substitution can weaken debugging, decomposition, and security judgment. Measure learning gains and unaided transfer, not assignment completion alone.
 - SOC analyst collaboration: the strongest empirical line is in-the-wild SOC work. CSIRO Data61's study analyzes real analyst LLM use over time; USF / KU / USC ISI / Resideo work uses practitioner-centered SOC field methods to study whether LLM tools can be introduced without disrupting high-stress operational workflows. Sources: https://arxiv.org/abs/2508.18947 ; https://www.isi.edu/results/publications/65207/a-sociotechnical-practitioner-centered-approach-to-technology-adoption-in-cybersecurity-operations-an-llm-case ; https://www.ndss-symposium.org/ndss-paper/auto-draft-741/.
 - Reverse engineering and analyst tooling: the NDSS 2026 human-LLM software reverse-engineering study surveyed practitioners and ran a controlled LLM-assisted reverse-engineering experiment, finding that LLMs can narrow novice/expert gaps while still misleading analysts through hallucinated or overconfident explanations. Sources: https://www.eurecom.fr/en/publication/8548 ; https://adamdoupe.com/publications/decompiling-synergy-ndss2026.pdf.
 - Agent-human interaction security: UCLA's 2026 work argues that LLM-agent security is an agent-human interaction problem because production systems rely heavily on policy specification, runtime approval, and scope configuration, creating approval-fatigue and cognitive-burden tradeoffs. Sources: https://arxiv.org/abs/2605.24309 ; https://ucla-sec-lab.netlify.app/.
@@ -39,7 +67,31 @@ These threads summarize the evidence that should be mapped back to the instituti
 - Red teaming as human work: AI red teaming is becoming a socio-technical labor practice involving dataset design, practitioner judgment, risk framing, and evaluation standards, not only jailbreak success rates. Sources: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314658 ; https://research.ibm.com/publications/red-teaming-llms-as-socio-technical-practice-from-exploration-and-data-creation-to-evaluation ; https://doi.org/10.1145/3772318.3790792.
 - Human oversight in cyber reasoning systems: AIxCC, OSS-CRS, foundation-model cyber programs, bug-bounty platforms, and autonomous pentesting tools all show that humans remain essential at target selection, policy setting, result triage, patch review, coordinated disclosure, and maintainer acceptance. Sources: https://www.darpa.mil/research/programs/ai-cyber ; https://www.darpa.mil/news/2025/ai-cyber-challenge-winners-def-con-33 ; https://openssf.org/tag/cyber-reasoning-systems/ ; https://www.hackerone.com/press-release/hackerone-report-finds-210-spike-ai-vulnerability-reports-amid-rise-ai-autonomy.
 
-## United States Detailed Record
+#### Shared Human-Control Model
+
+| Lifecycle stage | Human responsibility | LLM/software-system risk | Minimum evidence |
+| --- | --- | --- | --- |
+| Intent and requirements | state goals, constraints, forbidden outcomes, priorities, and acceptance criteria | ambiguity becomes latent behavior or silently narrowed scope | original request, clarifications, requirement versions, decision owner |
+| Architecture and composition | select components, models, tools, data, memory, permissions, and trust boundaries | hidden coupling, architectural drift, incompatible assumptions, excessive privilege | architecture record, dependency/model/tool inventory, threat model |
+| Implementation and optimization | choose or approve code, transformations, kernels, configurations, and migrations | plausible but incorrect code; benchmark gaming; non-portable optimization | diff/provenance, build, semantic checks, representative workloads |
+| Verification and review | design tests and proof obligations; challenge generated evidence | automation bias, test overfitting, reviewer overload, correlated generator/evaluator errors | independent oracles, coverage, static/formal checks, rejected alternatives |
+| Deployment and operation | set rollout, monitoring, escalation, rollback, and incident policy | blast-radius expansion, alert flooding, loss of situation awareness | staged rollout, audit log, observability, rollback rehearsal, named owner |
+| Maintenance and learning | preserve intent, update assets, hand off knowledge, learn from incidents | model/API/data drift, skill atrophy, orphaned generated systems | versioned prompts/configuration, regression history, incident record, handoff test |
+
+#### Evidence And Study-Design Requirements
+
+- identify participant population, expertise, domain knowledge, language/ecosystem, accessibility needs, and prior tool exposure;
+- record model, version, interface, context/retrieval policy, autonomy, permissions, tools, prompts/rules/skills, repository state, and hardware/runtime where relevant;
+- compare equivalent task scope and assurance standards, not raw output volume;
+- separate perceived productivity, acceptance rate, task completion, functional correctness, security, performance, maintainability, learning, and organizational delivery;
+- include verification and review time, false-positive burden, rework, escalation, coordination, and delayed maintenance or handoff;
+- use representative hidden tests and independent oracles; disclose when the same model generates and judges;
+- for optimization, report semantic equivalence, workload distribution, variance, cost, energy, and portability;
+- for agent systems, log tool calls, denied actions, approvals, retries, failures, state changes, and rollback;
+- report non-use, rejection, workarounds, and harmful or low-value assistance, not only successful interactions;
+- distinguish peer-reviewed evidence from vendor telemetry, marketing claims, contests, benchmarks, standards, and informed watchlist status.
+
+## 🇺‍🇸 United States Detailed Record
 
 The U.S. record is organized by institution, lab, product group, standards body, or platform. Homepages are the first source for the profile; papers, contests, grants, and product launches are listed as activities or evidence under the host group. The order is loosely influence-weighted rather than alphabetical.
 
@@ -132,6 +184,36 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Activities / evidence`: adversarial misuse reports and threat actor AI-use analysis.
 - `Sources`: https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai ; https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools/.
 
+##### Google Research Software Engineering And Programming Languages
+
+- `Homepage`: https://research.google/teams/software-engineering-and-programming-languages/
+- `Label`: `Core`
+- `People`: Satish Chandra, Maxim Tabachnyk, Petros Maniatis, Ciera Jaspan, Caitlin Sadowski and collaborators across Google developer infrastructure.
+- `Focused area`: developer tools, productivity, program analysis and refactoring, ML for code, language design, testing, CI, and large-repository engineering.
+- `Human-factor relevance`: This is the Google unit most directly suited to studying whether AI improves professional engineering rather than merely generating plausible code. Its official program explicitly combines interviews, surveys, experiments, telemetry, formal models, and tool building.
+- `Activities / evidence`: hybrid semantic/ML completion study with more than 10,000 internal developers; AI across Google’s IDE, review, search, bug-management, and planning surfaces; cross-tool development logs.
+- `Sources`: https://research.google/teams/software-engineering-and-programming-languages/ ; https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/ ; https://www.research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/.
+
+##### DORA And Developer Productivity Research
+
+- `Homepage`: https://dora.dev/
+- `Label`: `Core`
+- `People`: Derek DeBellis, Kevin Storer, Nathen Harvey, Ambar Murillo, Eirini Kalliamvakou and report collaborators.
+- `Focused area`: organizational software delivery, developer experience, platform engineering, AI adoption, team performance, and mixed-method industry research.
+- `Human-factor relevance`: DORA supplies the organizational level missing from task benchmarks. Its 2025 evidence treats AI as an amplifier of the surrounding system, making platform quality, work visibility, review culture, and organizational capability part of the causal model.
+- `Activities / evidence`: 2025 State of AI-assisted Software Development; developer interviews and survey work on perceived and realized value.
+- `Sources`: https://research.google/pubs/dora-2025-state-of-ai-assisted-software-development-report/ ; https://research.google/pubs/dora-impact-of-generative-ai-in-software-development/ ; https://research.google/pubs/how-gen-ai-affects-the-value-of-development-work/.
+
+##### Google Research Scientific And Data Software
+
+- `Homepage`: https://research.google/
+- `Label`: `Core/strong adjacent`
+- `People`: Michael Brenner, Lizzie Dorfman, John Platt and collaborators.
+- `Focused area`: expert scientific coding, computational experiments, data analysis, optimization, and AI-assisted scientific discovery.
+- `Human-factor relevance`: Scientific users often program without identifying primarily as software engineers. Study domain correctness, reproducibility, library/API understanding, computational cost, provenance, and whether an expert can audit or reproduce generated experiments.
+- `Activities / evidence`: Empirical Research Assistance and Computational Discovery trusted-tester work.
+- `Sources`: https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/.
+
 #### Microsoft
 
 ##### Microsoft Security Copilot
@@ -142,6 +224,34 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Human-factor relevance`: Security Copilot is a major production example of LLM assistance for named security personas. Track evidence visibility, analyst authority, generated KQL/query trust, plugin grounding, and auditability.
 - `Activities / evidence`: embedded Defender/Sentinel/Entra/Purview experiences, custom agents, promptbooks, audit-log features.
 - `Sources`: https://learn.microsoft.com/en-us/copilot/security/ ; https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot.
+
+##### Microsoft Research AI-Driven Software Engineering
+
+- `Homepage`: https://www.microsoft.com/en-us/research/project/967350/
+- `Label`: `Core`
+- `People`: Sriram Rajamani, Akash Lal, Arun Iyer, Aseem Rastogi, Pantazis Deligiannis, Sameer Segal and the AI-Driven Software Engineering team.
+- `Focused area`: AI assistance across the software lifecycle, repository-scale reasoning, code transformation, testing, verification, developer tools, and trustworthy agentic engineering.
+- `Human-factor relevance`: This group joins code-model capability with program analysis and professional workflows. Track how formal/static evidence, repository context, and human review are composed, and whether developer effort moves from construction into specification and assurance.
+- `Activities / evidence`: archived AI-Driven Software Engineering project (the official page says the project has concluded); RiSE work on trustworthy code generation, proof/invariant generation, migration, and software agents.
+- `Sources`: https://www.microsoft.com/en-us/research/project/967350/ ; https://www.microsoft.com/en-us/research/project/967350/people/ ; https://www.microsoft.com/en-us/research/research-area/programming-languages-software-engineering/.
+
+##### Microsoft Research Developer Experience, HCI, And Empirical SE
+
+- `Homepage`: https://www.microsoft.com/en-us/research/research-area/human-computer-interaction/
+- `Label`: `Core/strong adjacent`
+- `People`: Advait Sarkar, Denae Ford, Thomas Zimmermann, Eirini Kalliamvakou and collaborators across HCI, developer productivity, and software engineering.
+- `Focused area`: developer experience, AI-assisted work, programming interfaces, empirical software engineering, collaboration, inclusion, and productivity measurement.
+- `Human-factor relevance`: This is the Microsoft-side bridge between technical coding agents and their effects on professional work. Relevant outcomes include cognitive load, interruption, agency, inclusion, review behavior, team coordination, and what developers consider valuable work.
+- `Sources`: https://www.microsoft.com/en-us/research/research-area/human-computer-interaction/ ; https://www.microsoft.com/en-us/research/research-area/programming-languages-software-engineering/.
+
+##### Azure Reliability, AIOps, And Automated Incident Response
+
+- `Homepage`: https://azure.microsoft.com/
+- `Label`: `Core/strong adjacent`
+- `Focused area`: cloud operations, incident diagnosis, reliability engineering, safe automation, configuration, rollout, observability, and operational copilots.
+- `Human-factor relevance`: Production operations turn generated advice into state changes with real blast radius. Track evidence-linked diagnosis, operator situation awareness, approval boundaries, rollback, postmortem quality, and skill retention.
+- `Activities / evidence`: Azure incident-management and AIOps research should be separated from product marketing and mapped to public empirical or peer-reviewed evidence when available.
+- `Sources`: https://www.microsoft.com/en-us/research/research-area/systems-and-networking/ ; https://azure.microsoft.com/en-us/products/monitor.
 
 #### GitHub
 
@@ -231,6 +341,48 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Human-factor relevance`: IBM Research is a primary U.S. node for the labor and dataset-design side of AI red teaming: who creates adversarial examples, which harms are prioritized, and how evaluation artifacts encode practitioner assumptions.
 - `Activities / evidence`: `Red Teaming LLMs as Socio-Technical Practice`, DARE red teaming, IBM red-team methodology posts.
 - `Sources`: https://research.ibm.com/topics/fairness-accountability-transparency ; https://research.ibm.com/publications/red-teaming-llms-as-socio-technical-practice-from-exploration-and-data-creation-to-evaluation.
+
+##### IBM Research AI For Code
+
+- `Homepage`: https://research.ibm.com/topics/ai-for-code
+- `Label`: `Core`
+- `People`: Saurabh Sinha, Ruchir Puri, Vaibhav Saxena and collaborators in IBM Research AI for Code.
+- `Focused area`: enterprise code modernization, code understanding, refactoring, translation, testing, program analysis, software agents, and legacy/mainframe software.
+- `Human-factor relevance`: Enterprise modernization is a long-horizon human problem: generated translations must preserve business rules, integrate with tests and operations, remain reviewable by scarce legacy experts, and transfer knowledge rather than merely replace syntax.
+- `Activities / evidence`: Granite code models, software-engineering agents, code modernization and analysis for enterprise languages.
+- `Sources`: https://research.ibm.com/topics/ai-for-code ; https://research.ibm.com/people/saurabh-sinha.
+
+#### Amazon / AWS
+
+##### Amazon Science Automated Reasoning And AWS Developer Tools
+
+- `Homepage`: https://www.amazon.science/research-areas/automated-reasoning
+- `Label`: `Core/strong adjacent`
+- `Focused area`: automated reasoning, formal verification, cloud policy and configuration, code development, software agents, and operational assurance.
+- `Human-factor relevance`: AWS is important in both directions: assistants help developers build and operate cloud software, while formal reasoning and policy analysis can constrain high-impact changes. Study whether explanations and counterexamples help users understand permissions, configurations, and proof-backed findings.
+- `Activities / evidence`: Amazon Q Developer, automated reasoning for cloud security and policy, code-development planning and agent research.
+- `Sources`: https://www.amazon.science/research-areas/automated-reasoning ; https://aws.amazon.com/q/developer/.
+
+#### Meta
+
+##### Meta AI And Developer Infrastructure
+
+- `Homepage`: https://ai.meta.com/research/
+- `Label`: `Strong adjacent`
+- `Focused area`: code models, software testing and analysis, compiler/runtime efficiency, ML systems, generated-code evaluation, and large-scale developer infrastructure.
+- `Human-factor relevance`: Meta is a watch point for combining learned code generation with mature static analysis, testing, and performance infrastructure. Public evidence should distinguish model capability from effects on engineers, code review, quality, and production reliability.
+- `Activities / evidence`: Code Llama and successor code-model work, Infer static analysis, Sapienz-style testing, internal developer tooling.
+- `Sources`: https://ai.meta.com/research/ ; https://engineering.fb.com/2023/08/24/developer-tools/code-llama-ai-for-coding/ ; https://fbinfer.com/.
+
+#### Galois
+
+##### Formal Methods And High-Assurance Software
+
+- `Homepage`: https://galois.com/
+- `Label`: `Strong adjacent`
+- `Focused area`: formal methods, programming languages, verification, secure systems, cryptography, and high-assurance engineering.
+- `Human-factor relevance`: Galois represents the assurance counterweight to unconstrained generation. Track tools that make formal specifications, proofs, and verified components usable in AI-assisted workflows while keeping a small trusted base and explicit responsibility.
+- `Sources`: https://galois.com/ ; https://galois.com/research/.
 
 #### HackerOne
 
@@ -498,6 +650,16 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Focused area`: IDE-native AI assistance, refactoring, code explanation, and inspections.
 - `Human-factor relevance`: Track how security warnings, inspections, and AI suggestions interact inside professional IDE workflows.
 
+##### JetBrains Research: AI For SE And Human-AI Experience
+
+- `Homepage`: https://www.jetbrains.com/research/
+- `Label`: `Core`
+- `People`: Timofey Bryksin, Maliheh Izadi, Agnia Sergeyuk, Ekaterina Koshchenko and collaborators across JetBrains Research and academic partners.
+- `Focused area`: AI in software engineering, human-AI experience, testing, collaboration, education, IDE instrumentation, context engineering, agent evaluation, and developer surveys.
+- `Human-factor relevance`: JetBrains provides unusually direct access to professional IDE workflows. Its HAX program explicitly studies mental models, developer satisfaction, longitudinal logs, AI-generated-code review, reasoning handoff, and in-IDE interaction rather than treating model score as the endpoint.
+- `Activities / evidence`: HAX Research; AI4SE partnership with TU Delft; runtime traces for software agents; AI debugging; code-review and developer-needs studies.
+- `Sources`: https://www.jetbrains.com/research/ ; https://lp.jetbrains.com/research/software-engineering/ ; https://lp.jetbrains.com/research/hax/ ; https://lp.jetbrains.com/research/ai-for-se/.
+
 #### SANS
 
 ##### SANS Cybersecurity Training
@@ -608,6 +770,16 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Focused area`: AI research, agents, learning, NLP, robotics, and AI systems.
 - `Human-factor relevance`: SAIL is a watch group for future agentic software/security work and human-AI collaboration methods.
 
+##### Stanford Programming Languages, Compilers, And Pervasive Parallelism
+
+- `Homepage`: https://ppl.stanford.edu/
+- `Label`: `Core/strong adjacent`
+- `People`: Alex Aiken, Kunle Olukotun and collaborators in programming languages, compilers, systems, and AI-assisted optimization.
+- `Focused area`: program analysis and verification, compilers, parallel and heterogeneous systems, code reasoning, kernel and accelerator optimization, and self-improving agentic systems.
+- `Human-factor relevance`: Optimization agents need a stricter evidence contract than ordinary code completion: semantic equivalence, workload coverage, hardware/compiler versions, energy and cost, and a reviewer-visible account of what changed. The group is also a strong node for joining LLM reasoning with established program semantics.
+- `Activities / evidence`: LLMs for program reasoning and optimization; agentic compiler/library development; GPU-kernel and accelerator optimization.
+- `Sources`: https://ppl.stanford.edu/ ; https://theory.stanford.edu/~aiken/ ; https://cs.stanford.edu/~anjiang/.
+
 #### New York University / NYU Tandon
 
 ##### Center for Cybersecurity
@@ -626,6 +798,15 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Label`: `Strong adjacent`
 - `Focused area`: energy-aware, secure, and reliable computing; hardware security; ML and secure hardware.
 - `Human-factor relevance`: Relevant for AI-assisted hardware/security design, where human reviewers may miss subtle generated hardware vulnerabilities.
+
+##### Analysis of Computer Systems Group
+
+- `Homepage`: https://cs.nyu.edu/acsys/
+- `Label`: `Strong adjacent`
+- `People`: Patrick Cousot, Thibault Dardinier, Benjamin Goldberg, Joseph Tassarotti, Sam Westrick, Thomas Wies and collaborators.
+- `Focused area`: formal methods, programming languages, verification, abstract interpretation, compilers, concurrency, and reliable systems.
+- `Human-factor relevance`: ACSys is a grounding and assurance node for LLM-generated code, invariants, optimizations, and system changes. Track whether generated proof obligations and counterexamples reduce expert effort without disguising assumptions or expanding the trusted base.
+- `Sources`: https://cs.nyu.edu/acsys/ ; https://cs.nyu.edu/dynamic/people/faculty/type/20/?area=Formal+Methods%2C+Verification%2C+and+Programming+Languages ; https://cs.nyu.edu/~pcousot/researchinterests.html ; https://cs.nyu.edu/~jt4767/.
 
 #### Arizona State University
 
@@ -699,6 +880,24 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Focused area`: AI research, agents, learning, responsible AI, and human-in-the-loop evaluation.
 - `Human-factor relevance`: BAIR is a watch group for agentic software engineering and safety work that may become security-facing.
 
+##### Berkeley Programming Systems Research
+
+- `Homepage`: https://ps.berkeley.edu/
+- `Label`: `Core/strong adjacent`
+- `People`: Sarah Chasins, Alvin Cheung, Koushik Sen, Sanjit Seshia, Max Willsey, Katherine Yelick and affiliated faculty.
+- `Focused area`: formal methods, programming environments, human factors, compilers, runtimes, testing, synthesis, language design, optimization, and education.
+- `Human-factor relevance`: This umbrella is directly aligned with the broadened map because it connects human-facing programming environments to semantic assurance and efficient execution. It is a high-value discovery node for verified generation, debugging, testing, and end-user programming.
+- `Sources`: https://ps.berkeley.edu/ ; https://www2.eecs.berkeley.edu/Research/Areas/PS/.
+
+##### Sky Computing Lab / AI Systems And LLM Programs
+
+- `Homepage`: https://sky.cs.berkeley.edu/
+- `Label`: `Core/strong adjacent`
+- `People`: Ion Stoica, Matei Zaharia and Sky Lab collaborators.
+- `Focused area`: cloud and AI systems, LLM-program frameworks, optimization, semantic data systems, efficient runtimes, and production deployment.
+- `Human-factor relevance`: Frameworks such as DSPy make prompts, modules, optimizers, and evaluators into software artifacts. Study debuggability, provenance, evaluator validity, cost control, version drift, and whether engineers can understand the optimized program they deploy.
+- `Sources`: https://sky.cs.berkeley.edu/ ; https://people.eecs.berkeley.edu/~matei/.
+
 #### Carnegie Mellon University
 
 ##### Software Engineering Institute
@@ -715,6 +914,15 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Label`: `Strong adjacent`
 - `Focused area`: usable privacy/security, security warnings, privacy tools, IoT labels, and user studies.
 - `Human-factor relevance`: Agent approval prompts and AI-generated security explanations are new forms of usable-security warning and consent design.
+
+##### Software And Societal Systems Department
+
+- `Homepage`: https://s3d.cmu.edu/
+- `Label`: `Core`
+- `People`: Claire Le Goues, Bogdan Vasilescu and collaborators across software engineering, program repair, empirical SE, AI engineering, and societal computing.
+- `Focused area`: construction, maintenance, evolution, repair, assurance, developer productivity, open-source communities, team processes, and responsible software systems.
+- `Human-factor relevance`: S3D joins technical repair and assurance with the social organization of software work. It is central for studying whether coding agents improve accepted repairs and team outcomes, how generated contributions affect review and governance, and how benefits or burdens are distributed.
+- `Sources`: https://s3d.cmu.edu/ ; https://s3d.cmu.edu/people/core-faculty/legoues-claire.html ; https://sc.cs.cmu.edu/people/faculty/vasilescu-bogdan.html.
 
 #### Georgia Tech
 
@@ -751,6 +959,24 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Focused area`: emerging-technology security and privacy, agentic security, usable security, and AR/security.
 - `Human-factor relevance`: Track for agentic-security work where human oversight, privacy, and system permissions interact.
 - `Sources`: https://seclab.cs.washington.edu/ ; https://agent-security.cs.washington.edu/.
+
+##### Programming Languages And Software Engineering Group
+
+- `Homepage`: https://www.cs.washington.edu/research/software-hardware-systems/
+- `Label`: `Strong adjacent`
+- `People`: Michael Ernst, Dan Grossman, Zachary Tatlock, Alvin Cheung, Emina Torlak and PLSE collaborators.
+- `Focused area`: programming environments, analysis, language design, synthesis, compilers, testing, verification, security, and programmer productivity.
+- `Human-factor relevance`: PLSE supplies semantic and tooling foundations for making generated software correct and understandable. Track LLM-assisted specification, test and invariant generation, compiler correctness, repository tools, and interfaces that expose proof or analysis results to developers.
+- `Sources`: https://www.cs.washington.edu/research/software-hardware-systems/ ; https://homes.cs.washington.edu/~mernst/research/ ; https://homes.cs.washington.edu/~djg/ ; https://homes.cs.washington.edu/~ztatlock/.
+
+##### Code And Cognition Lab / Human-Centered Software Development
+
+- `Homepage`: https://faculty.washington.edu/ajko/
+- `Label`: `Core/strong adjacent`
+- `People`: Amy J. Ko and collaborators in the Code & Cognition Lab and developer education.
+- `Focused area`: programming cognition, developer tools, debugging, programming education, accessibility, inclusion, and human-centered software engineering.
+- `Human-factor relevance`: This line is essential for separating task completion from durable comprehension and learning. LLM tools should be evaluated for debugging skill, transfer, accessibility, self-efficacy, and who gains or loses agency.
+- `Sources`: https://faculty.washington.edu/ajko/.
 
 #### University of Notre Dame
 
@@ -864,6 +1090,16 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Human-factor relevance`: This HATLab is a separate human-factors lab signal and should not be conflated with the HAT-Lab agent-mediated deception platform unless author/lab membership is confirmed.
 - `Sources`: https://hatlab.org/.
 
+##### SEMERU - Software Engineering Maintenance And Evolution Research Unit
+
+- `Homepage`: https://www.cs.wm.edu/semeru/
+- `Label`: `Core`
+- `People`: Denys Poshyvanyk and SEMERU collaborators.
+- `Focused area`: maintenance and evolution, program comprehension, traceability, repository mining, testing, privacy, licensing, neural code models, generated-code smells, hallucination analysis, and human-centered explanation.
+- `Human-factor relevance`: SEMERU is a direct broadened-scope node: it studies code-model reliability and interpretability alongside the long-term work of understanding, reviewing, licensing, testing, and maintaining software.
+- `Activities / evidence`: human-centered explanations for code/test generation; trust mapping for LLMs in SE; developer perspectives on generative-AI licensing; deterministic AST checks for hallucinated code; maintenance and evolution tooling.
+- `Sources`: https://www.cs.wm.edu/semeru/ ; https://www.cs.wm.edu/~denys/research.html ; https://www.cs.wm.edu/~denys/publications.html.
+
 #### Pennsylvania State University
 
 ##### PLAINTEXT Lab
@@ -912,6 +1148,33 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Human-factor relevance`: CERIAS is the broader Purdue security center; keep it separate from ASSET because its human-centric security and training focus is organizational rather than code-agent-specific.
 - `Sources`: https://www.cerias.purdue.edu/.
 
+##### Human-Centered Software Systems Lab
+
+- `Homepage`: https://hcss.cs.purdue.edu/
+- `Label`: `Core`
+- `People`: Tianyi Zhang and HCSS collaborators.
+- `Focused area`: software engineering, HCI, AI-assisted programming, code visualization, debugging, human expertise, programmer productivity, robustness, and developer decision support.
+- `Human-factor relevance`: HCSS is a direct fit for the broadened dossier because it treats developers as partners in intelligent systems. Track repair strategies, mental models, explanation, code search, robustness, and when proactive assistance helps or interrupts.
+- `Sources`: https://hcss.cs.purdue.edu/ ; https://www.cs.purdue.edu/research/software-engineering.html.
+
+##### Software Reliability And Large Language Models
+
+- `Homepage`: https://www.cs.purdue.edu/homes/lintan/
+- `Label`: `Core`
+- `People`: Lin Tan and collaborators in software reliability, agents, code reasoning, testing, review, and vulnerability repair.
+- `Focused area`: LLMs and agents across requirements, design, generation, test generation, review, bug/security detection and repair, binary code, and software benchmarks.
+- `Human-factor relevance`: The research line explicitly spans the whole lifecycle; human evaluation should test whether agent outputs support root-cause understanding, reviewer confidence, maintainable repairs, and safe use across source, binary, and robotic software.
+- `Sources`: https://www.cs.purdue.edu/homes/lintan/ ; https://www.cs.purdue.edu/homes/lintan/ongoingProjects.html.
+
+##### PurPL And Reliable Systems
+
+- `Homepage`: https://purpl.cs.purdue.edu/
+- `Label`: `Strong adjacent`
+- `People`: Milind Kulkarni, Tiark Rompf, Suresh Jagannathan, Xiangyu Zhang, Pedro Fonseca and associated faculty.
+- `Focused area`: programming languages, compilers, formal methods, systems, software engineering, optimization, verification, secure and reliable systems.
+- `Human-factor relevance`: This is a discovery umbrella for grounding code agents with language/system semantics and for evaluating AI-generated optimizations and systems changes under correctness, performance, and reliability constraints.
+- `Sources`: https://purpl.cs.purdue.edu/ ; https://www.cs.purdue.edu/homes/pfonseca/ ; https://www.cs.purdue.edu/research/software-engineering.html.
+
 #### MIT
 
 ##### CSAIL Computer Systems Security Group
@@ -930,6 +1193,33 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Human-factor relevance`: PDOS is relevant when AI-assisted coding or cyber reasoning produces formally grounded artifacts. Track whether verification-backed outputs reduce human review burden or simply move the cognitive burden to proof interpretation.
 - `Sources`: https://pdos.csail.mit.edu/.
 
+##### CSAIL Programming Languages And Software Engineering
+
+- `Homepage`: https://projects.csail.mit.edu/pl/
+- `Label`: `Core/strong adjacent`
+- `People`: Saman Amarasinghe, Michael Carbin, Martin Rinard, Armando Solar-Lezama, Adam Chlipala and collaborators.
+- `Focused area`: program synthesis, analysis and transformation, compilers, resilient and efficient systems, language design, proof engineering, security, and human-facing programming tools.
+- `Human-factor relevance`: MIT’s umbrella makes the key complementarity explicit: LLMs broaden specifications and search, while program analysis, synthesis, compilers, and theorem proving can enforce semantics. Evaluate whether the resulting tools help humans express intent and audit results.
+- `Sources`: https://projects.csail.mit.edu/pl/ ; https://www.csail.mit.edu/research/computer-aided-programming ; https://www.csail.mit.edu/research/programming-languages-verification.
+
+##### Computer-Aided Programming Group
+
+- `Homepage`: https://www.csail.mit.edu/research/computer-aided-programming
+- `Label`: `Core`
+- `People`: Armando Solar-Lezama and group collaborators.
+- `Focused area`: program synthesis, intent specification, executable constraints, neuro-symbolic programming, verification-guided generation, and programming tools.
+- `Human-factor relevance`: This group directly targets the hardest human question in code generation: how a user conveys intent when natural-language specifications are incomplete or ambiguous. Study clarification, counterexample interaction, specification repair, and confidence grounded in execution or proof.
+- `Sources`: https://www.csail.mit.edu/research/computer-aided-programming ; https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm.
+
+##### Commit Compiler Research Group
+
+- `Homepage`: https://commit.csail.mit.edu/
+- `Label`: `Core/strong adjacent`
+- `People`: Saman Amarasinghe and Commit collaborators.
+- `Focused area`: high-performance languages and compilers, program optimization, DSLs, autotuning, dynamic analysis, and LLM-integrated programming.
+- `Human-factor relevance`: Performance assistance should reduce optimization expertise barriers without producing opaque, fragile, or input-specific speedups. Track specification of numerical/performance goals, semantic equivalence, tuning cost, portability, and maintainers’ ability to understand generated optimizations.
+- `Sources`: https://commit.csail.mit.edu/ ; https://people.csail.mit.edu/saman/.
+
 #### UC San Diego
 
 ##### Center for Machine-Intelligence, Computing and Security
@@ -939,6 +1229,15 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Focused area`: machine intelligence, computing systems, security and privacy, hardware/software/data integration, and cyber-physical security.
 - `Human-factor relevance`: UCSD should not be represented by only a CSE research-area page. MICS is a more concrete center for AI/security/system integration; track whether security-AI tools are evaluated with expert users, not only benchmark labels.
 - `Sources`: https://mics.ucsd.edu/node/267.
+
+##### Programming Systems Group / Trustworthy Code Generation
+
+- `Homepage`: https://cseweb.ucsd.edu/~ldantoni/
+- `Label`: `Core`
+- `People`: Loris D'Antoni and Programming Systems collaborators.
+- `Focused area`: specification-aligned language models, formal constraints, synthesis, personalized compilers, compiler fuzzing, and code that satisfies semantic requirements.
+- `Human-factor relevance`: This line treats correctness constraints as a first-class interface between humans and generators. Study whether developers can author, inspect, and repair the specifications; whether constrained decoding gives calibrated confidence; and how compiler personalization affects portability and ownership.
+- `Sources`: https://cseweb.ucsd.edu/~ldantoni/.
 
 #### University of Chicago
 
@@ -960,6 +1259,16 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Human-factor relevance`: UIUC should not be a generic CS-security placeholder here. SALT is the specific human-facing security group identified in this pass; future technical security groups should be added only with their own pages.
 - `Sources`: https://salt.ischool.illinois.edu/.
 
+##### Code Intelligence, Software Reliability, And LLM Agents
+
+- `Homepage`: https://lingming.cs.illinois.edu/
+- `Label`: `Core`
+- `People`: Lingming Zhang and collaborators in software engineering, programming languages, ML, formal methods, systems, and security.
+- `Focused area`: code models and agents, software testing, analysis, repair, synthesis, fuzzing, AI for systems/security, and open code models.
+- `Human-factor relevance`: The technical breadth makes this a major source of agent and oracle designs, but human benefit must be measured separately from benchmark performance: reviewability, failure detection, cost, maintainability, and deployment effects remain open.
+- `Activities / evidence`: TitanFuzz, AlphaRepair, ChatRepair, Agentless, code-world-model work, LLM-agent software-engineering courses.
+- `Sources`: https://lingming.cs.illinois.edu/ ; https://grainger.illinois.edu/about/directory/faculty/lingming.
+
 #### Princeton University
 
 ##### Center for Information Technology Policy
@@ -968,6 +1277,26 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Label`: `Watch`
 - `Focused area`: AI governance, platform policy, security, privacy, and accountability.
 - `Human-factor relevance`: CITP matters for accountability when AI-generated code or AI-generated vulnerability reports cause downstream harm.
+
+##### Princeton Programming Languages Group
+
+- `Homepage`: https://pl.cs.princeton.edu/
+- `Label`: `Strong adjacent`
+- `People`: Aarti Gupta, Zachary Kincaid, Mae Milano, David Walker and collaborators; Andrew Appel is emeritus.
+- `Focused area`: semantics, analysis, verification, decision procedures, defect detection, design, implementation, optimization, DSLs, theorem proving, and verified software toolchains.
+- `Human-factor relevance`: Princeton is a grounding node for generated code, proofs, and systems artifacts. Track whether LLM-assisted proof and specification work reduces expert labor while preserving checkability, modularity, and end-to-end guarantees.
+- `Sources`: https://pl.cs.princeton.edu/ ; https://vst.cs.princeton.edu/ ; https://www.cs.princeton.edu/~appel/.
+
+#### Cornell University
+
+##### Programming Languages Group
+
+- `Homepage`: https://pl.cs.cornell.edu/
+- `Label`: `Strong adjacent`
+- `People`: Nate Foster, Adrian Sampson, Andrew Myers, Ross Tate, Alexandra Silva, François Guimbretière and affiliated collaborators.
+- `Focused area`: language design, semantics, security, synthesis, verification, compilers, networks, systems, and human-facing programming abstractions.
+- `Human-factor relevance`: Cornell is a broad PL/systems discovery node for reliable agent interfaces, language-based security, provenance, and formally grounded generation. Add a `Core` label only when a direct LLM/software or human study is mapped.
+- `Sources`: https://pl.cs.cornell.edu/.
 
 #### Cornell Tech
 
@@ -1004,18 +1333,67 @@ The U.S. record is organized by institution, lab, product group, standards body,
 - `Focused area`: HCI, usable privacy/security, security warnings, and human-centered systems.
 - `Human-factor relevance`: AI-agent approval prompts are a new kind of security warning; track whether warning-design lessons transfer to dynamic, model-generated actions.
 
+#### University of California, Irvine
+
+##### STAIRS Lab
+
+- `Homepage`: https://stairs.ics.uci.edu/
+- `Label`: `Core`
+- `People`: Iftekhar Ahmed and STAIRS collaborators.
+- `Focused area`: AI-assisted software engineering and testing, agentic and multi-agent methods, maintainability, accessibility, reliability, interpretability, and quality of AI-integrated systems.
+- `Human-factor relevance`: STAIRS explicitly frames LLM software work around empowering developers and maintaining human values. Track explanation, robust testing, accessible tooling, bias, and whether agent efficiency translates into maintainable and reliable software.
+- `Sources`: https://stairs.ics.uci.edu/.
+
+##### CRADL - Collaboration Research In Action, Design, And Learning
+
+- `Homepage`: https://cradl.ics.uci.edu/
+- `Label`: `Strong adjacent`
+- `People`: David Redmiles and collaborators.
+- `Focused area`: collaborative software engineering, design work, reflection, learning, and interdisciplinary study of development teams.
+- `Human-factor relevance`: Coding agents change coordination and reflection, not only individual typing. CRADL is a discovery node for team-level methods, handoffs, awareness, and how organizations learn from failed AI-assisted work.
+- `Sources`: https://cradl.ics.uci.edu/.
+
+#### University of Texas at Austin
+
+##### Trishul Lab / Programming Languages And Formal Methods
+
+- `Homepage`: https://www.cs.utexas.edu/~swarat/
+- `Label`: `Core`
+- `People`: Swarat Chaudhuri and Trishul collaborators; Isil Dillig and the broader PL/formal-methods community are relevant adjacent leads.
+- `Focused area`: program synthesis, automated reasoning, neurosymbolic programming, LLM agents for theorem proving, formally verified code generation, trustworthy AI, and safe systems.
+- `Human-factor relevance`: Trishul connects natural-language and learned search with specifications and proof. The human questions are how users state intent, inspect generated arguments, repair failed specifications, and retain authority when an assistant handles low-level code or proof steps.
+- `Activities / evidence`: Copra; CLEVER; LLM-aided synthesis and reasoning; AI for code, systems, math, and science.
+- `Sources`: https://www.cs.utexas.edu/~swarat/ ; https://www.cs.utexas.edu/~swarat/pubs/index.html.
+
+#### Columbia University
+
+##### Software Systems And Programming Systems Laboratory
+
+- `Homepage`: https://www.cs.columbia.edu/areas/software/
+- `Label`: `Core/strong adjacent`
+- `People`: Baishakhi Ray, Gail Kaiser, Ronghui Gu, Suman Jana, Junfeng Yang and collaborators across software systems, programming systems, languages, compilers, and security.
+- `Focused area`: software design, implementation, analysis, verification and evaluation; program analysis, testing, binaries, AI4SE, systems, security, and developer tooling.
+- `Human-factor relevance`: Columbia spans generated-code quality, systems correctness, security, and developer-facing tooling. Track whether AI-generated changes are testable and explainable across source and binary artifacts and whether review evidence survives deployment.
+- `Sources`: https://www.cs.columbia.edu/areas/software/ ; https://psl.cs.columbia.edu/.
+
 ### USA: Main Focus Areas To Track
 
+- Developer work and organizational delivery: requirements, architecture, code generation, comprehension, search, documentation, review, maintenance, coordination, perceived versus realized productivity, and distribution of gains and burdens.
+- Correctness and reliability: specification quality, generated tests, independent oracles, static/formal evidence, repair validation, regressions, incidents, and long-term maintainability.
+- Performance and efficiency: semantic equivalence, workload coverage, compiler/kernel/database/cloud optimization, latency, throughput, energy, cost, portability, and performance-review expertise.
+- Systems, OS, cloud, and operations: configuration, infrastructure-as-code, diagnosis, incident response, rollout, situation awareness, least privilege, blast radius, escalation, and rollback.
 - Developer secure-code behavior: over-trust, prompt quality, AI-suggestion acceptance, generated-dependency risk, insecure code review, and training interventions.
 - SOC analyst work: alert fatigue, situation awareness, evidence grounding, analyst authority, low-level telemetry interpretation, and handoff between AI summaries and human decisions.
 - Reverse engineering and binary analysis: LLM-generated symbol names, type recovery, decompiler comments, explanation confidence, hallucinated control-flow summaries, and novice/expert gap reduction.
 - Agent oversight: policy specification, runtime approval, scope configuration, audit logs, identity, data-access permissions, tool-call transparency, and approval fatigue.
 - Red-team labor: who creates adversarial examples, how risk categories are chosen, how datasets become benchmarks, and whether model providers ignore user specificity and interaction context.
 - Bug-bounty and maintainer workflows: AI-generated report volume, invalid-report burden, agentic validation, coordinated disclosure, and evidence thresholds for maintainers.
+- Software for LLM systems: prompt/program debugging, orchestration, evaluation, observability, provenance, model/data/tool drift, release governance, and ownership.
+- Education, inclusion, and expertise: durable learning, novice/expert differences, scientific and end-user programming, accessibility, skill atrophy, unaided transfer, and equitable access to review and assurance capacity.
 
-## China Detailed Record
+## 🇨🇳 China Detailed Record
 
-China should be treated as the second main focus, but with a different evidence profile. The public record is strongest in Chinese-language cybersecurity benchmarks, model-safety evaluation platforms, contests, standards, AI coding products, and security-vendor ecosystems. Direct human-subject studies on LLM-assisted secure coding, SOC analysts, or reverse engineering are less visible than in the United States, so many entries are marked `Strong adjacent` or `Watch`. Entries below are organized by institution, lab, company, standards body, or platform; projects and contests appear as activities unless the host institution is not yet clear enough.
+China should be treated as the second main focus, but with a different evidence profile. The public record is strongest in code models and agents, AI4SE/SE4AI research, repository and software-lifecycle tooling, compiler and systems work, Chinese-language software/security benchmarks, model-safety evaluation platforms, contests, standards, and security-vendor ecosystems. Direct human-subject studies of developer, reviewer, operator, or analyst work are less visible than in the United States, so many entries are marked `Strong adjacent` or `Watch`. Entries below are organized by institution, lab, company, standards body, or platform; projects and contests appear as activities unless the host institution is not yet clear enough.
 
 ### China: Companies, Platforms, Standards Bodies, And Security Ecosystem
 
@@ -1030,12 +1408,14 @@ China should be treated as the second main focus, but with a different evidence 
 - `Activities / evidence`: CS-Eval / CyberSec-Eval collaboration, Alibaba Cloud AI security challenge, security platform work.
 - `Sources`: https://security.alibaba.com/ ; https://cs-eval.com/ ; https://github.com/CS-EVAL/CS-Eval.
 
-##### Alibaba Cloud Tongyi Lingma (阿里云通义灵码)
+##### Alibaba Cloud Qoder CN / Former Tongyi Lingma (阿里云 Qoder CN / 原通义灵码)
 
-- `Homepage`: https://tongyi.aliyun.com/lingma/
-- `Label`: `Strong adjacent`
-- `Focused area`: AI coding assistant, code generation, enterprise developer tools, and developer workflow.
-- `Human-factor relevance`: Tongyi Lingma is the developer-facing workflow surface. Track secure-code suggestions, repository context, code privacy, generated-code review, and enterprise governance.
+- `Homepage`: https://www.alibabacloud.com/help/en/lingma/product-overview/introduction-of-lingma
+- `Label`: `Core/strong adjacent`
+- `Focused area`: lifecycle-wide coding agents, IDE and CLI workflows, enterprise private knowledge, multi-model selection, regulated-industry deployment, code generation, testing, and repository work.
+- `Human-factor relevance`: The suite is a large Chinese developer-workflow surface. Track task clarification, autonomous long-running work, code and terminal permissions, use of private repositories, generated-diff review, tests, enterprise filtering, behavior telemetry, and whether domestic deployment changes trust and compliance decisions.
+- `Activities / evidence`: Tongyi Lingma was renamed Qoder CN in May 2026; the suite now spans coding, CLI, cloud agents, and enterprise deployment.
+- `Sources`: https://www.alibabacloud.com/help/en/lingma/product-overview/introduction-of-lingma ; https://www.alibabacloud.com/help/en/lingma/product-overview/changelogs-of-202602.
 
 ##### Qwen Team (通义千问团队)
 
@@ -1060,6 +1440,15 @@ China should be treated as the second main focus, but with a different evidence 
 - `Focused area`: foundation models, coding/productivity tools, enterprise AI deployment.
 - `Human-factor relevance`: Hunyuan is the model/provider surface. Track safeguards, enterprise deployment controls, and whether coding/security assistants expose evidence and uncertainty to users.
 
+##### Tencent Cloud CodeBuddy
+
+- `Homepage`: https://www.codebuddy.cn/
+- `Label`: `Core/strong adjacent`
+- `Focused area`: AI IDE, CLI and plugins, multi-file coding agents, code completion, unit tests, intelligent review and repair, MCP integration, mini-program development, and enterprise R&D.
+- `Human-factor relevance`: CodeBuddy is a major current Chinese coding-agent surface. Track how professional and novice developers review multi-file changes, how Skills/MCP expand authority, whether generated tests are independent, and how product telemetry, retention, and benchmark results relate to correctness and maintainability.
+- `Activities / evidence`: CodeBuddy 4.3 for WeChat development; WorkBuddy/CodeBuddy agent stack; Tencent WorkBuddy Bench.
+- `Sources`: https://www.codebuddy.cn/ ; https://cloud.tencent.com/document/product/1749/111914 ; https://intl.cloud.tencent.com/document/product/1300/81494.
+
 #### Huawei Cloud (华为云)
 
 ##### Pangu Large Models (盘古大模型)
@@ -1069,6 +1458,15 @@ China should be treated as the second main focus, but with a different evidence 
 - `Focused area`: enterprise foundation models, cloud AI deployment, private deployment, and industry-specific model services.
 - `Human-factor relevance`: Huawei Cloud is important for regulated-sector and enterprise adoption. Track how private/cloud deployment, access control, and auditability affect organizational willingness to use LLMs for security or code work.
 
+##### Huawei Cloud CodeArts / CodeArts Snap (华为云码道 / 智能开发助手)
+
+- `Homepage`: https://www.huaweicloud.com/intl/en-us/product/codearts/ai.html
+- `Label`: `Core/strong adjacent`
+- `Focused area`: AI-native IDE and coding agent, specification-guided development, enterprise codebases, generation, explanation, debugging, translation, checks, optimization, unit tests, Skills, and repository indexing.
+- `Human-factor relevance`: CodeArts is the human-facing Huawei engineering surface. Track whether organizational standards and private knowledge actually improve generated changes, how users inspect unit tests and optimization claims, and how HarmonyOS/enterprise specialists supervise autonomous work.
+- `Activities / evidence`: 2026 CodeArts coding-agent public beta and commercial release; existing CodeArts Snap workflows.
+- `Sources`: https://www.huaweicloud.com/intl/en-us/product/codearts/ai.html ; https://www.huaweicloud.com/news/2026/20260226150052593.html.
+
 #### Baidu (百度)
 
 ##### ERNIE / Qianfan (文心一言 / 千帆)
@@ -1077,6 +1475,15 @@ China should be treated as the second main focus, but with a different evidence 
 - `Label`: `Strong adjacent`
 - `Focused area`: foundation models, model platform services, public-facing assistants, and enterprise AI deployment.
 - `Human-factor relevance`: Baidu should be tracked for model-platform governance and developer/SOC-facing AI integrations, especially access, logging, approval, content reliability, and user-facing assistant design.
+
+##### Baidu Comate (文心快码)
+
+- `Homepage`: https://cloud.baidu.com/doc/COMATE/index.html
+- `Label`: `Core/strong adjacent`
+- `Focused area`: AI IDE and plugins, repository exploration, code generation and editing, tests, refactoring, debugging, custom agents, subagents, Skills, Rules, MCP, memory, automation, enterprise deployment, and R&D-efficiency measurement.
+- `Human-factor relevance`: Comate exposes many control dimensions that human studies should record rather than hide under “AI assistance”: Agent/Plan/Ask modes, subagent delegation, remembered context, custom rules, tool access, model choice, and queued/asynchronous work. Enterprise telemetry should be analyzed separately from developer benefit and software quality.
+- `Activities / evidence`: Comate 4.0 and AI IDE; enterprise SaaS/hybrid/private deployment; internal adoption claims should remain vendor telemetry until independently studied.
+- `Sources`: https://cloud.baidu.com/doc/COMATE/s/xlnvqe047 ; https://cloud.baidu.com/doc/COMATE/s/qm7yrpa11 ; https://cloud.baidu.com/doc/COMATE/s/2mjzerjsp.
 
 #### ByteDance (字节跳动)
 
@@ -1094,6 +1501,14 @@ China should be treated as the second main focus, but with a different evidence 
 - `Focused area`: AI IDE, coding agents, repository editing, developer workflow, and multi-step code changes.
 - `Human-factor relevance`: Trae is the developer-facing product surface. Track approval design, generated-diff review, context display, test execution, rollback, and secure-coding support.
 
+##### ByteDance Seed / Seed-Coder
+
+- `Homepage`: https://seed.bytedance.com/direction/llm
+- `Label`: `Strong adjacent`
+- `Focused area`: code models, code-data curation, generation, completion, editing, reasoning, software-engineering tasks, agents, inference efficiency, and open models.
+- `Human-factor relevance`: Seed is the model/research layer beneath developer products. Model-centric data curation raises provenance and feedback-loop questions; faster generation changes review pressure but does not establish correctness. Track downstream use in Trae and enterprise tooling separately from benchmark results.
+- `Sources`: https://seed.bytedance.com/direction/llm ; https://seed.bytedance.com/en/blog/seed-coder-open-sourced-llm-based-code-data-building-method-validated ; https://github.com/ByteDance-Seed/Seed-Coder.
+
 #### Ant Group (蚂蚁集团)
 
 ##### Ant Ling / LingGuang (Ant Ling / 灵光) / Privacy-Preserving AI
@@ -1102,6 +1517,15 @@ China should be treated as the second main focus, but with a different evidence 
 - `Label`: `Strong adjacent`
 - `Focused area`: financial technology, privacy-preserving AI, enterprise AI services, assistant workflows, and natural-language app generation.
 - `Human-factor relevance`: Ant Group is a strong watch actor because financial and consumer contexts require trust, privacy, and user comprehension. Natural-language-to-app workflows raise software-security questions around auth, data flow, and permissions.
+
+##### CodeFuse
+
+- `Homepage`: https://codefuse.ai/
+- `Label`: `Core/strong adjacent`
+- `Focused area`: code models and AI-native software development across requirements, coding, testing, build, deployment, operations, insight analysis, IDEs, DevOps, and agent frameworks.
+- `Human-factor relevance`: CodeFuse is a direct full-lifecycle China node. Its public record is valuable for studying enterprise human feedback, how agents cross lifecycle boundaries, and whether DevOps and testing integrations produce auditable evidence rather than only more generated artifacts.
+- `Activities / evidence`: CodeFuse models and IDE plugins; CodeFuse-DevOps, TestGPU, muAgent, and full-lifecycle tooling.
+- `Sources`: https://codefuse.ai/aboutDocs/aboutdocs/ ; https://github.com/codefuse-ai.
 
 #### DeepSeek (深度求索)
 
@@ -1375,6 +1799,25 @@ China should be treated as the second main focus, but with a different evidence 
 - `Focused area`: AI governance, international cooperation, policy frameworks, and AI governance forums.
 - `Human-factor relevance`: AIIG should be kept separate from technical cyber labs. It is relevant to responsibility, auditing, filing/approval norms, and governance of public LLM services.
 
+##### T-ISE - Intelligent Software Engineering Research Group (智能化软件工程课题组)
+
+- `Homepage`: https://collegeai.tsinghua.edu.cn/en/Research/Research_Groups/Tsinghua_Intelligent_Software_Engineering_Lab.htm
+- `Label`: `Core`
+- `People`: Jia Li (PI), Ge Li, Zhi Jin and collaborators.
+- `Focused area`: AI for software engineering and software engineering for AI; reliable, efficient and secure code generation, testing and repair; hallucination, alignment, code models, and repository-grounded evaluation.
+- `Human-factor relevance`: T-ISE is almost exactly the broadened scope of this page. It should be a primary China node for studying how developers use reliable code generation and how SE methods make AI systems performant, efficient, secure, evaluable, and maintainable.
+- `Activities / evidence`: DevEval, EvoCodeBench, aiXcoder, code editing/search/translation, poisoning and detection, real-repository evaluation.
+- `Sources`: https://collegeai.tsinghua.edu.cn/en/Research/Research_Groups/Tsinghua_Intelligent_Software_Engineering_Lab.htm ; https://lj2lijia.github.io/.
+
+##### Knowledge Engineering Group / CodeGeeX (知识工程实验室)
+
+- `Homepage`: https://keg.cs.tsinghua.edu.cn/
+- `Label`: `Strong adjacent`
+- `People`: Jie Tang and KEG/CodeGeeX collaborators.
+- `Focused area`: knowledge engineering, foundation models, code models, multilingual generation, developer tools, and open model ecosystems.
+- `Human-factor relevance`: CodeGeeX is a major China-facing code-model and deployment line. Track multilingual developer behavior, privacy and provenance, IDE integration, suggestion review, and whether model evaluation predicts repository work.
+- `Sources`: https://keg.cs.tsinghua.edu.cn/ ; https://keg.cs.tsinghua.edu.cn/codegeex/index_zh.html.
+
 #### Fudan University (复旦大学)
 
 ##### System Software and Security Lab (系统软件与安全实验室) / Whitzard-AI
@@ -1386,6 +1829,16 @@ China should be treated as the second main focus, but with a different evidence 
 - `Human-factor relevance`: This is a primary China group for Chinese-language LLM safety evaluation. JADE should be treated as an activity under the Fudan SSS/Whitzard-AI profile, not as the profile itself.
 - `Activities / evidence`: JADE safety evaluation platform, JADE-DB, TC260 standards participation, CS-Eval collaboration.
 - `Sources`: https://mi-zhang-fdu.github.io/index.html ; https://whitzard-ai.github.io/jade_en.html ; https://cs-eval.com/.
+
+##### Software Engineering Lab / CodeWisdom (软件工程实验室)
+
+- `Homepage`: https://www.se.fudan.edu.cn/
+- `Label`: `Core`
+- `People`: Xin Peng, Wenyun Zhao and CodeWisdom collaborators.
+- `Focused area`: AI4SE and SE4AI; intelligent development and operations, program analysis and testing, repository mining, software supply-chain governance, AI-system engineering, inference/compiler optimization, robotics, embedded and industrial software.
+- `Human-factor relevance`: This is one of the broadest China records in the target space. It connects human-machine collaborative development with quality, maintenance, operations, supply chains, AI-system reliability and efficiency, and deployment in enterprise and industrial contexts.
+- `Activities / evidence`: code digital twins and context; repository-scale assistance; program analysis plus LLMs; AIOps; software-supply-chain risk; AI-system quality and efficient deployment.
+- `Sources`: https://www.se.fudan.edu.cn/ ; http://cspengxin.github.io/.
 
 #### Peking University (北京大学)
 
@@ -1410,6 +1863,15 @@ China should be treated as the second main focus, but with a different evidence 
 - `Focused area`: open-source software analytics, repository mining, developer behavior, and software ecosystems.
 - `Human-factor relevance`: OSS-Lab is a natural China node for studying whether AI coding changes maintainer burden, PR review behavior, vulnerability fix patterns, and contributor dynamics.
 
+##### Laboratory For Future Networks / Hui Li Group (未来网络实验设施 / 李挥团队)
+
+- `Homepage`: https://www.ece.pku.edu.cn/en/info/1029/1429.htm
+- `Label`: `Core/strong adjacent`
+- `People`: Hui Li, Bin Wang and collaborators.
+- `Focused area`: software engineering, networked systems, LLM-assisted security-code generation, sensitive-information leakage detection, directed fuzzing, and multi-agent security.
+- `Human-factor relevance`: This line joins repository engineering and security with agent workflows. Track how developers and security reviewers interpret leakage findings, fuzzing guidance, and generated security code, and how evidence is reproduced.
+- `Sources`: https://www.ece.pku.edu.cn/en/info/1029/1429.htm.
+
 #### Shanghai Jiao Tong University (上海交通大学)
 
 ##### LLM for Software Engineering Lab (大语言模型软件工程实验室)
@@ -1433,6 +1895,25 @@ China should be treated as the second main focus, but with a different evidence 
 - `Label`: `Strong adjacent`
 - `Focused area`: network security, privacy protection, mobile/wireless network security.
 - `Human-factor relevance`: NSEC is relevant to SOC/network-security uses of LLMs, especially analyst interpretation of network telemetry.
+
+##### IPADS - Institute Of Parallel And Distributed Systems
+
+- `Homepage`: https://ipads.se.sjtu.edu.cn/
+- `Label`: `Strong adjacent`
+- `People`: Haibo Chen and IPADS collaborators.
+- `Focused area`: operating systems, distributed systems, virtualization, architecture, security, reliability, performance, and system software.
+- `Human-factor relevance`: IPADS is a high-priority OS/systems discovery node. Add direct LLM entries when work uses models for kernel/configuration/code generation, diagnosis, or optimization; evaluate generated changes for correctness, performance portability, operability, and expert review.
+- `Sources`: https://ipads.se.sjtu.edu.cn/.
+
+##### Efficient Computing Hardware And System Lab
+
+- `Homepage`: https://sites.gc.sjtu.edu.cn/zouan/
+- `Label`: `Core/strong adjacent`
+- `People`: An Zou and collaborators.
+- `Focused area`: architecture, circuits, low-level software, efficient/reliable computing, compilers, CUDA programming, and LLM-assisted systems development.
+- `Human-factor relevance`: This line extends the map beyond application code. AI-assisted CUDA and low-level optimization requires expert-visible equivalence, numerical validation, workload/hardware disclosure, and maintainable generated kernels.
+- `Activities / evidence`: 2026 work on LLMs for CUDA programming.
+- `Sources`: https://sites.gc.sjtu.edu.cn/zouan/.
 
 #### Zhejiang University (浙江大学)
 
@@ -1495,6 +1976,16 @@ China should be treated as the second main focus, but with a different evidence 
 - `Focused area`: national cybersecurity research, vulnerability analysis, AI security, and benchmark infrastructure.
 - `Human-factor relevance`: CAS IIE is a high-priority watch institution for national evaluation infrastructure and analyst-facing security-AI systems.
 
+##### Institute Of Computing Technology: Advanced Computer Systems And Processor-Chip Labs
+
+- `Homepage`: https://acs.ict.ac.cn/english/aboutacs_acs_en/overview_acs_en/
+- `Label`: `Core/strong adjacent`
+- `People`: Qi Guo and collaborators across the Center for Advanced Computer Systems and processor-chip research.
+- `Focused area`: AI/system software-hardware co-design, open-source systems and chips, compilers, OS configuration, ML for systems, LLM-generated high-performance kernels and toolchains, and benchmark engineering.
+- `Human-factor relevance`: This is a key China node for efficiency and optimization. Claims must retain semantic correctness, workload/hardware context, search cost, energy, portability, and human maintenance; automatically generated OS/compiler settings can create hard-to-diagnose operational failures even when benchmarks improve.
+- `Activities / evidence`: LLM-guided OS-kernel configuration; generated compiler toolchains; high-performance matrix multiplication; LLM-oriented compiler and IR data.
+- `Sources`: https://acs.ict.ac.cn/english/aboutacs_acs_en/overview_acs_en/ ; https://novel.ict.ac.cn/qguo/ ; https://sklp.ict.ac.cn/xwzx/202505/t20250509_542558.html.
+
 #### HKUST - Hong Kong University of Science and Technology (香港科技大学)
 
 ##### Cybersecurity Lab
@@ -1521,6 +2012,24 @@ China should be treated as the second main focus, but with a different evidence 
 - `Human-factor relevance`: This is the strongest HKUST lab-directory signal for human-facing LLM agents. It should be prioritized for paper-to-lab mapping.
 - `Sources`: https://cse.hkust.edu.hk/pg/research/labs/.
 
+##### TACO Lab - Types, Abstraction, Compilers And Optimization
+
+- `Homepage`: https://home.cse.ust.hk/~parreaux/
+- `Label`: `Strong adjacent`
+- `People`: Lionel Parreaux and TACO collaborators.
+- `Focused area`: type systems, language abstraction, compilers, optimization, safety, reliability, and performance.
+- `Human-factor relevance`: TACO is an assurance/efficiency node for AI-generated software and agent languages. Track whether types and abstractions make generated behavior comprehensible and whether compiler optimizations remain inspectable and portable.
+- `Sources`: https://home.cse.ust.hk/~parreaux/.
+
+##### Security And Machine Learning / LLM Security Group
+
+- `Homepage`: https://home.cse.ust.hk/~dongdong/
+- `Label`: `Core`
+- `People`: Dongdong She, Shuai Wang and collaborators.
+- `Focused area`: LLM and agent security, security of LLM harnesses, prompt injection against coding agents, semantic-cache attacks, LLMs for vulnerability discovery, program analysis, causality-based evaluation, and fuzzing.
+- `Human-factor relevance`: This group spans both directions in the dossier. Track how developers understand harness and cache trust boundaries, how coding-agent attacks are surfaced, and how security findings are reproduced and handed to maintainers.
+- `Sources`: https://home.cse.ust.hk/~dongdong/ ; https://home.cse.ust.hk/~shuaiw/.
+
 #### Chinese University of Hong Kong (香港中文大学)
 
 ##### Computer Security Lab
@@ -1536,9 +2045,10 @@ China should be treated as the second main focus, but with a different evidence 
 - `Homepage`: https://ariselab.cse.cuhk.edu.hk/
 - `Label`: `Strong adjacent`
 - `People`: Michael R. Lyu and ARISE members.
-- `Focused area`: automated reliable intelligent software engineering, software quality, intelligent SE, reliability, and LLM/software-engineering methods.
-- `Human-factor relevance`: ARISE is the concrete CUHK software-engineering lab for future code-LLM mapping. Human-factor questions include how developers review generated tests, explanations, and reliability evidence.
-- `Sources`: https://ariselab.cse.cuhk.edu.hk/.
+- `Focused area`: automated reliable intelligent software engineering, software quality, code intelligence, AIOps, failure analysis, cloud reliability, LLM training failures, UI code, and reliability engineering for code models.
+- `Human-factor relevance`: ARISE is a primary reliability node: human-factor questions include how developers review generated tests, explanations and UI code; how operators use RAG/root-cause assistance; and whether LLM training and production failures become diagnosable and actionable.
+- `Activities / evidence`: active projects on evaluation and reliability engineering for LLM code intelligence; AIOps and LLM-training-failure diagnosis; interactive code-generation evaluation.
+- `Sources`: https://ariselab.cse.cuhk.edu.hk/ ; https://research.cuhk.edu.hk/en/persons/rung-tsong-michael-lyu/.
 
 ##### Human-Computer Interaction Research Area
 
@@ -1665,6 +2175,16 @@ China should be treated as the second main focus, but with a different evidence 
 - `Focused area`: large language models, multimodal large models, embodied intelligence, world models, training, inference, and evaluation.
 - `Human-factor relevance`: NJU-LINK is relevant to LLM/agent capability and evaluation; add security-specific evidence only when publications connect to cyber or developer workflows.
 - `Sources`: https://www.nju-link.com/en/.
+
+##### Nanjing University Large-Model Collaborative Innovation Center
+
+- `Homepage`: https://cs.nju.edu.cn/lm/
+- `Label`: `Core/strong adjacent`
+- `People`: faculty and groups across NJU computer science, software, AI, systems, and formal methods; map individual work to the smaller host group when possible.
+- `Focused area`: scalable LLM systems, efficient learning/platforms, code translation, scientific and embodied models, agents, neuro-symbolic reasoning, and automated formal proof for foundational software.
+- `Human-factor relevance`: The center connects model/system infrastructure with code and proof. Track proof-author review, trusted kernels, reproducibility, system efficiency, and how generated proofs for seL4/distributed protocols change expert workload.
+- `Activities / evidence`: 2026 neuro-symbolic automated proof work; code translation; large-model systems and agents.
+- `Sources`: https://cs.nju.edu.cn/lm/.
 
 #### Beihang University (北京航空航天大学)
 
@@ -1874,16 +2394,24 @@ China should be treated as the second main focus, but with a different evidence 
 ### China: Main Focus Areas To Track
 
 - Chinese-language cybersecurity evaluation: CS-Eval/CyberSec-Eval, SecBench-like efforts, LiveSecBench-style dynamic safety benchmarks, and contest datasets. Focus on whether tasks measure knowledge recall, reasoning, operational action, or human-usefulness.
-- AI coding assistants and code models: Alibaba Lingma/Qwen, ByteDance Trae, DeepSeek-Coder, Huawei/Baidu/Tencent/Ant model platforms. Focus on code privacy, context retention, generated dependency risk, secure-code prompts, and enterprise governance.
+- AI coding assistants and code models: Alibaba Qoder CN/Qwen, Tencent CodeBuddy, Huawei CodeArts, Baidu Comate, ByteDance Trae/Seed, Ant CodeFuse, DeepSeek-Coder, and academic code-model groups. Focus on requirements clarification, repository context, code privacy, generated dependency risk, test and review quality, maintenance, enterprise governance, and the difference between adoption telemetry and delivered value.
+- AI4SE and SE4AI: Tsinghua T-ISE, Fudan CodeWisdom, SJTU LLMSE, CUHK ARISE, NJU ISE/large-model center, PKU groups, ByteDance SE Lab, and Ant CodeFuse. Focus on lifecycle coverage, software quality and reliability, hallucination and alignment, AI-system testing, observability, provenance, supply chains, and ownership.
+- Systems, compilers, OS, and performance: CAS ICT, SJTU IPADS/efficient computing, Fudan systems/AI engineering, HUST OS3/ONE, Beihang, USTC, Huawei and domestic hardware/software ecosystems. Require semantic equivalence, workload and hardware provenance, energy/cost, portability, rollback, and expert review of generated configurations, kernels, and toolchains.
+- Open-source and organizational work: PKU OSS-Lab, Fudan CodeWisdom, university-industry laboratories, Gitee/OpenAtom ecosystems, and large enterprise developer platforms. Study maintainer burden, review throughput, contributor attribution, licensing, team knowledge, and how agent-generated changes affect open-source governance.
 - Model safety red teaming: JADE, Tianwang Cup large-model track, Tencent Zhuque, Alibaba/Tencent/Baidu/DeepSeek safety activity. Focus on prompt injection, jailbreaks, data leakage, content reliability, model supply-chain attacks, and how human judges score reports.
 - SOC and security-vendor deployment: Qihoo 360, Qi-Anxin, NSFOCUS, Sangfor, Topsec, DBAPPSecurity, Chaitin, Knownsec, ThreatBook, Alibaba/Tencent/Huawei/Baidu cloud security. Focus on analyst workload, false positives, incident explanation quality, and Chinese enterprise compliance.
 - Governance and standards: CAC generative-AI measures, TC260 basic security requirements, CAICT vulnerability/security evaluation, Chinese AI Safety Network. Focus on how security assessment requirements shape human approval, content review, and operational auditability.
-- Research gap: China has strong technical capability and benchmark/contest signals, but public direct human-subject studies for LLM-assisted secure coding, SOC, reverse engineering, and bug-bounty triage are still much less visible than in the U.S. This is a high-value research gap.
+- Education and expertise: CTF/range platforms, university SE/PL/OS courses, coding-agent use by students and professional developers, and Chinese-language documentation. Measure unaided learning, debugging and review skill, not only completion.
+- Research gap: China has strong technical, platform, benchmark, contest, and enterprise signals, but public direct human-subject and longitudinal studies of coding, review, maintenance, AIOps, optimization, secure coding, SOC, reverse engineering, and bug-bounty triage remain much less visible than in the U.S. This is a high-value bilingual and cross-organizational research opportunity.
 
 ## USA-China Comparison For Human Factors
 
 | Human-factor layer | United States | China | Research implication |
 | --- | --- | --- | --- |
+| Developer productivity and work design | Google/DORA, Microsoft Research, GitHub, JetBrains, IBM and academic HCI/SE groups provide telemetry, surveys, interviews and controlled studies | Large deployment surfaces through Qoder CN, CodeBuddy, CodeArts, Comate, Trae and CodeFuse; public causal and longitudinal human evidence is thinner | Use comparable professional tasks and organizational measures; separate acceptance/adoption from correctness, review, delivery, learning and maintenance. |
+| Correctness, testing and repair | Strong PL/SE/formal-methods ecosystem plus code-agent, program-repair and developer-study lines | Strong AI4SE groups at Tsinghua, Fudan, SJTU, NJU, CUHK, HKUST and industry; many benchmark/tool results | Compare independent oracles, human review effort, repair acceptance, regression rates and delayed maintenance, including bilingual requirements and codebases. |
+| Performance, compilers and systems | MIT, Stanford, Berkeley, UCSD, Microsoft, Google, IBM and systems/PL groups join generation with analysis and optimization | CAS ICT, SJTU, Fudan, HUST, Huawei and other systems groups provide strong OS/compiler/hardware-software work | Require equivalence, workload/hardware provenance, energy/cost, portability and operator review; study whether speedups survive real workloads and handoff. |
+| Software for LLM and agent systems | Strong work on languages, orchestration, observability, evaluation, permissions and production AI engineering | Growing SE4AI programs, agent platforms and enterprise private deployment; standards and compliance are prominent | Compare debugging, trace inspection, release gates, provenance, model/tool/data drift, incident response and responsibility allocation. |
 | Secure coding with AI | Strong direct user-study base from Stanford, NYU, UCF, plus broad GitHub/Copilot and AI IDE deployment | Strong model/platform base through Qwen/Lingma, Trae, DeepSeek-Coder, Code LLM labs; fewer visible controlled human studies | Replicate secure-coding user studies in Chinese developer settings and compare language, IDE, task, and training effects. |
 | SOC analyst collaboration | Direct fieldwork from Data61/eSentire and USF/KU/USC ISI/Resideo lines; major U.S. SOC vendors productizing copilots | Large security-vendor and MSSP ecosystem, but fewer public in-the-wild SOC LLM studies | Study Chinese SOC adoption with ethnographic and query-log methods, especially under regulatory and data-localization constraints. |
 | Reverse engineering | ASU/EURECOM/Padua NDSS 2026 gives direct human-LLM evidence | Strong binary/software-security labs and CTF teams; direct human-LLM reverse-engineering evidence appears thinner | Run controlled bilingual reverse-engineering experiments with Chinese analysts, decompilers, and local tooling. |
@@ -1894,120 +2422,663 @@ China should be treated as the second main focus, but with a different evidence 
 
 ## Secondary Country Profiles
 
-These profiles are kept as secondary context. The USA and China sections above remain the main focus, but the broader map is useful for tracking collaborators, comparative case studies, and non-U.S./non-China deployment patterns.
+These profiles are ordered by **relevance to this dossier**, not by a general national ranking. The working priority combines four signals: direct human/organizational evidence, depth across PL/OS/systems/SE/security/AI, identifiable LLM-for-software or software-for-LLM programs, and access to consequential industry or government deployment. Close ranks are judgment calls and should be updated as field evidence changes.
 
-### Canada
-
-- `Core` eSentire / University of Waterloo / SpyCloud-associated SOC research: Martin Lochner, Keegan Keplinger and collaborators. Live SOC LLM use, topic modeling of analyst queries, and human expert validation in MDR workflows. Sources: https://arxiv.org/abs/2508.18488 ; https://www.esentire.com/.
-- `Strong adjacent` University of Waterloo Cheriton School of Computer Science: Meng Xu, Sihang Liu and collaborators on LLM-agent security against malicious or vulnerable tools. Source: https://uwaterloo.ca/computer-science/news/meng-xu-sihang-liu-254k-funding-national-cybersecurity-consortium-strengthen-security-llm-agents.
-- `Watch` Queen's University L1NNA Lab, Concordia SPNET, University of Toronto / Schwartz Reisman Institute / Vector Institute, University of British Columbia, McGill, Carleton, Royal Military College of Canada. Track for AI security, human-AI collaboration, autonomous-system policy, and critical-infrastructure security.
-- `Companies/sectors` eSentire, BlackBerry Cylance, OpenText Cybersecurity, Arctic Wolf Canada presence, Cohere, National Cybersecurity Consortium, and Canadian Centre for Cyber Security.
-
-### United Kingdom
-
-- `Core/strong adjacent` UK AI Security Institute: frontier model cyber evaluations, human-influence risk, pre-release testing, and government-facing safety science. Source: https://www.aisi.gov.uk/about.
-- `Core/strong adjacent` Laboratory for AI Security Research (LASR): UK public-private AI-security partnership connecting academia, industry, and government. Source: https://lasr.ac.uk/.
-- `Strong adjacent` King's College London Cybersecurity Group: AI/ML for cybersecurity, verification/testing, trust, explainability, and human factors. Source: https://www.kcl.ac.uk/research/cys.
-- `Strong adjacent` Imperial College London AI Security and Privacy Lab: privacy and safety of AI systems, LLMs, and agentic systems. Source: https://aisp.doc.ic.ac.uk/.
-- `Watch` RISCS, UCL human-centered security, University of Bristol cyber/human factors, Newcastle Secure and Resilient Systems, University of Oxford Cyber Security Centre, University of Cambridge, University of Edinburgh, University of Sheffield, University of Southampton, Royal Holloway.
-- `Companies/sectors` NCSC, Darktrace, NCC Group, PortSwigger, Mind Foundry, OutThink, BT Security, BAE Systems Digital Intelligence, GCHQ/NCSC ecosystem, Plexal, Cisco UK, and UK defense/critical-infrastructure AI-security suppliers.
-
-### Australia
-
-- `Core` CSIRO Data61: Shahroz Tariq, Ronal Singh, Fatemeh Jalalvand, Mohan Baruwal Chhetri, Surya Nepal, Cecile Paris, Martin Lochner and collaborators. Human-AI collaboration in SOCs, alert fatigue, expertise-gap studies, and responsible AI/software-systems engineering. Sources: https://arxiv.org/abs/2508.18947 ; https://arxiv.org/abs/2505.03179 ; https://research.csiro.au/ss/ ; https://www.csiro.au/en/about/people/research-units/Data61.
-- `Watch` Cyber Security Cooperative Research Centre, UNSW Canberra Cyber, University of Melbourne, Monash, University of Adelaide/AIML, RMIT, University of Queensland, Macquarie, Australian National University. Track for human-centered cybersecurity, AI safety, cyber ranges, and critical-infrastructure security.
-- `Government/industry` ASD Australian Cyber Security Centre, Home Affairs, CSIRO, CyberCX, Telstra, Atlassian, Canva, and Australian financial/critical-infrastructure SOCs. Five Eyes guidance makes Australia important for secure agentic-AI adoption in operational settings. Source: https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services.
-
-### France
-
-- `Core` IRT SystemX / Airbus Protect / Reseau de Transport d'Electricite (RTE): Reda Yaich, Alexandre Balondrade, Antoine Sicard, Christelle Fouquiau, Guillaume Giraud, Kahina Amokrane-Ferka, Emmanuel Arbaretier. Human-AI SOC collaboration, cognitive profiling, agentic coordination, and VOWEL+U oversight framework. Source: https://ojs.aaai.org/index.php/AAAI-SS/article/download/36072/38227/40160.
-- `Core` EURECOM: Simone Aonzo and collaborators in the human-LLM software reverse-engineering study. Source: https://www.eurecom.fr/en/publication/8548.
-- `Watch` INRIA, CEA LIST, CNRS, ANSSI, Institut Polytechnique de Paris, Sorbonne Universite, Grenoble Alpes, Telecom Paris, EURECOM, SystemX. Track for AI security, formal methods, SOC/critical-infrastructure cyber, and human-machine teaming.
-- `Companies/sectors` Airbus Protect / Airbus Defence and Space Cyber, Mistral AI, Thales, Dassault, Orange Cyberdefense, Capgemini, Atos/Eviden, Quarkslab, Stormshield, RTE and energy-sector SOCs. Source: https://cyber.airbus.com/en/offers/artificial-intelligence-in-cybersecurity.
+| Country or ecosystem | Why it ranks here |
+| --- | --- |
+| Germany | unusually dense security, PL, software-analysis, human-centered security, and explicit human-AI cybersecurity infrastructure |
+| Singapore | concentrated NUS/NTU/SMU/SUTD programs spanning AI-for-code, formal methods, intelligent SE, agent security, digital trust, and national deployment |
+| Canada | direct SOC evidence plus Waterloo-centered software reliability, maintenance, AIOps, formal methods, and agent security |
+| United Kingdom | national AI-security evaluation plus major PL/systems/security/RSE institutions and operational cyber organizations |
+| Switzerland | ETH, EPFL, UZH, IBM Research Zurich, and armasuisse provide exceptional depth in trustworthy AI, PL, systems, optimization, verification, and security |
+| Netherlands | TU Delft provides one of the clearest integrated AI4SE, empirical SE, testing, DevOps, and secure-code-model programs outside the U.S. |
+| Australia | direct SOC studies, Data61 operational research, and Monash's human-centered AI software-engineering program |
+| France | direct SOC and reverse-engineering human studies plus INRIA/CEA/EURECOM/SystemX and a large critical-systems industrial base |
+| Israel | globally significant software-security industry and strong academic security/systems research, with human-factor evidence still needing fuller mapping |
+| Japan | deep systems, software quality, formal methods, AI, and industrial R&D; direct public human-LLM evidence is comparatively fragmented |
+| South Korea | strong industrial AI/software ecosystem and emerging direct human-centered agent/security work |
+| Taiwan research ecosystem | strategically important systems, hardware/software co-design, AI, and security research; direct human-factor evidence remains thin |
+| Sweden | strong software systems, telecom, dependable systems, Cybercampus, and emerging LLM/software-security work |
+| Denmark | unusually direct qualitative LLM-red-team evidence, plus strong PL, HCI, and software-engineering communities |
+| Italy | direct reverse-engineering human study plus strong software security, formal methods, HCI, and cyber-range activity |
+| Spain | human-centered AI security and expert-grounded security-requirements work, with a substantial national cyber ecosystem |
+| Finland | strong Aalto/Helsinki software, usable security, systems, HCI, and AI research with major security-industry transfer |
+| Belgium | direct 2025-2029 programs on safe AI coding assistants and engineering secure LLM applications |
+| India | very large software-services and technical-education base with strong security/AI institutions, but less visible causal human-factor evidence |
+| Austria | strong formal methods, PL, software engineering, systems, and security, including TU Wien and ISTA |
+| Ireland | Lero provides a national software-research network with explicit LLM requirements-engineering work |
+| Norway | NTNU explicitly covers AI for SE and SE for AI; operational and human-factor evidence remains emerging |
+| Brazil | the largest Latin-American CS ecosystem, with strong critical systems, formal methods, SE, AI, and emerging agent research |
+| Poland | substantial PL, verification, software engineering, security, and industrial R&D; direct mapped human evidence is limited |
+| Czech Republic | strong usable security, cryptography, systems, and formal methods centered around Masaryk, CTU, and national cyber institutions |
+| Portugal | INESC-ID, University of Lisbon, University of Porto, and Minho provide relevant SE, PL, dependable-systems, AI, and security work |
+| Russia | large software/AI/security research and product ecosystem, with current public evidence and cross-border comparability requiring careful qualification |
+| Turkey | strong systems-security, requirements, software-engineering, and defense/industrial deployment base |
+| South Africa | the leading Sub-Saharan African operational cyber-research ecosystem and an essential multilingual/Global-South comparison |
+| Mexico | large developer and higher-education population with relevant UNAM/CINVESTAV/Tec research and nearshore software-engineering industry |
+| United Arab Emirates and Gulf | fast-growing sovereign AI, cyber-range, and critical-infrastructure deployment with a thinner public human-study record |
+| New Zealand | smaller ecosystem but important for Five Eyes guidance, usable security, research software, and operational adoption comparisons |
 
 ### Germany
 
-- `Core/strong adjacent` TU Darmstadt PEASEC / ATHENE HAICC: explicit `Human-AI Collaboration for Cybersecurity` work, cybersecurity/privacy, HCI, and peace/security studies. Source: https://peasec.de/.
-- `Core/strong adjacent` TU Berlin MLSEC: Konrad Rieck's group works at the ML/security intersection and includes LLMs in security, vulnerability discovery, and related evaluation. Source: https://mlsec.org/.
-- `Core/strong adjacent` CISPA Helmholtz Center / moosec: ML security, LLM security, agent systems, vulnerability analysis, fuzzing, and malware classification. Sources: https://cispa.de/en ; https://moosec.org/.
-- `Watch` KIT / KASTEL Security Research Labs, Fraunhofer AISEC/SIT, Ruhr University Bochum CASA/RC Trust/AISOC, Max Planck Institute for Security and Privacy, h_da User-Centered Security, TU Munich, Saarland University. Sources: https://intellisec.de/ ; https://kastel-labs.de/about-kastel/ ; https://informatik.rub.de/aisoc/.
-- `Companies/sectors` Aleph Alpha, SAP Security Research, Siemens, Bosch, Deutsche Telekom/T-Systems, Rohde & Schwarz, secunet, Fraunhofer transfer ecosystem, industrial/automotive/OT security vendors.
+Additional institutions to track: Max Planck Institute for Security and Privacy, Saarland University, KIT/KASTEL, Fraunhofer AISEC and SIT, TU Munich, LMU Munich, h_da User-Centered Security, TU Braunschweig, and DFKI. Industry includes SAP, Siemens, Bosch, Deutsche Telekom/T-Systems, Aleph Alpha, Rohde & Schwarz, secunet, and the German automotive/industrial/OT ecosystem.
 
-### Italy
+#### TU Darmstadt / ATHENE
 
-- `Core` University of Padua: Samuele Doria, Eleonora Losiouk and collaborators in the NDSS 2026 human-LLM reverse-engineering study. Source: https://www.research.unipd.it/handle/11577/3588620.
-- `Watch` Politecnico di Milano, University of Trento, Sapienza University of Rome, University of Cagliari, IMT Lucca, FBK. Track for software security, HCI/security, AI assurance, and cyber ranges.
-- `Companies/sectors` Leonardo, Engineering Group, Reply, Yarix/Var Group, Italian National Cybersecurity Agency ecosystem.
+##### Human-AI Collaboration For Cybersecurity (HAICC)
 
-### Denmark
+- `Homepage`: https://www.informatik.tu-darmstadt.de/haicc/about_haicc/index.en.jsp
+- `Label`: `Core`
+- `People`: Iryna Gurevych (project lead), Christian Reuter / PEASEC, Mira Mezini, Kristian Kersting, Michael Waidner, and the HAICC work-package PIs.
+- `Focused area`: co-constructive cybersecurity agents, expert preference modeling, structured memory, multimodal security data and code, explainability, advisability, agent integrity, security configuration, and realistic expert workflows.
+- `Human-factor relevance`: HAICC directly asks how AI agents can complement security experts without displacing expert judgment or compromising agent integrity. Its work packages explicitly cover interaction protocols, trust in explanations, expert feedback, objective manipulation, and cross-application operational work.
+- `Activities / evidence`: ATHENE-funded program launched in 2026; planned benchmark and reusable framework; scenarios include vulnerability and protocol analysis, access-control and firewall configuration, SIEM work, and human-AI co-construction.
+- `Sources`: https://www.informatik.tu-darmstadt.de/haicc/about_haicc/index.en.jsp ; https://www.informatik.tu-darmstadt.de/haicc/research_haicc/index.en.jsp ; https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_561280.en.jsp.
 
-- `Core` IT University of Copenhagen: Nanna Inie and Leon Derczynski's grounded-theory work on LLM red teaming; Leon Derczynski also has NVIDIA affiliation. Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314658.
-- `Watch` University of Copenhagen, Aalborg University, Aarhus University, Technical University of Denmark, Alexandra Institute. Track for HCI, NLP, trustworthy AI, cybersecurity, and human-centered security.
-- `Companies/sectors` Nordic financial SOCs, TDC NET, Trifork, Systematic, LEGO/enterprise secure AI adoption, and Danish Centre for AI Innovation / national AI-safety activity.
+#### CISPA Helmholtz Center For Information Security
 
-### Sweden And Nordics
+##### Software, LLM, And Agent Security Groups
 
-- `Core/strong adjacent` KTH Royal Institute of Technology / NTU / William & Mary HAT-Lab collaboration: public coverage identifies KTH as part of the agent-mediated-deception user study, making it a direct Nordic signal for human-centric agent security. Sources: https://arxiv.org/abs/2602.21127 ; https://www.secrss.com/articles/89556.
-- `Watch` Linkoping University RESIST Center, KTH Cybercampus Sverige / CDIS / Royal Hacking Lab, Orebro University MPI Lab, Chalmers, Lund University, Stockholm University, Uppsala University, RISE Research Institutes of Sweden, Karlstad University SIGS-CyberSec. Sources: https://resist-center.se/en ; https://lab.cybercampus.se/ ; https://mpi.aass.oru.se/ ; https://sola.kau.se/sigscybersec/.
-- `Companies/sectors` Ericsson, Saab, Sectra, Combitech, Truesec, Recorded Future, Nordic Sentinel, Swedish telecom/defense/industrial SOCs, and Nordic financial-sector security teams.
+- `Homepage`: https://cispa.de/en/research/research-groups
+- `Label`: `Core/strong adjacent`
+- `People`: Andreas Zeller, Michael Pradel, Thorsten Holz, Mario Fritz, Lea Schönherr, Ben Stock, Christian Rossow, Fanny Lalande, Bernd Finkbeiner, and associated group leaders.
+- `Focused area`: software testing, program analysis, vulnerability discovery and repair, fuzzing, web and systems security, formal methods, ML/LLM security, agent security, and evaluation rigor.
+- `Human-factor relevance`: CISPA connects AI-based reasoning about software with concrete developer/security workflows and is also a leading source of methodological criticism about unreliable LLM evaluation. Track analyst review, false-positive burden, reproducibility, and how AI-native security tools integrate with real development.
+- `Activities / evidence`: C-Mind-Security for contextual vulnerability analysis and remediation; SiSWiss for secure language models; LLM-security projects; work on pitfalls in LLM security and software-engineering research; software-analysis groups with direct AI-agent agendas.
+- `Sources`: https://cispa.de/en/research/research-groups ; https://cispa.de/en/ndss-2026 ; https://career.cispa.de/jobs/group-pradel-2025-75.
 
-### Spain
+#### TU Berlin
 
-- `Core/strong adjacent` HASP Lab at INGENIO / CSIC / Universitat Politecnica de Valencia: human-centered AI security, ethics, privacy, HCI, and work on malicious LLM-based conversational AI. Source: https://hasp-lab.github.io/.
-- `Core/strong adjacent` Universidad Politecnica de Madrid: AI-augmented cybersecurity requirements generation evaluated against human expert ground truth. Source: https://portalcientifico.upm.es/en/ipublic/item/10450496.
-- `Watch` INCIBE, Universidad Carlos III de Madrid, Universidad de Malaga, University of Granada, Barcelona Supercomputing Center, Spanish AI and cybersecurity research networks.
-- `Companies/sectors` Telefonica Tech, Indra/Minsait, S2 Grupo, GMV, BBVA/Santander security labs, IBM Spain language-model collaboration ecosystem.
+##### Machine Learning And Security (MLSEC)
 
-### Netherlands, Switzerland, Belgium, And EU-Level Actors
+- `Homepage`: https://www.tu.berlin/mlsec
+- `Label`: `Core/strong adjacent`
+- `People`: Konrad Rieck and MLSEC collaborators.
+- `Focused area`: intelligent attack detection, vulnerability discovery, malware analysis, learning-system security and privacy, and rigorous evaluation of ML/LLM use in security.
+- `Human-factor relevance`: MLSEC supplies the technical and methodological layer needed to study when analysts can trust learned detectors, explanations, and LLM-supported vulnerability workflows rather than merely consume model scores.
+- `Activities / evidence`: research at the AI × security boundary; collaborations across BIFOLD, CASA, CISPA, and German security institutions.
+- `Sources`: https://www.tu.berlin/mlsec ; https://mlsec.org/.
 
-- `Watch` TU Delft, University of Twente, Radboud, Eindhoven University of Technology, Leiden, KU Leuven, Vrije Universiteit Brussel, ETH Zurich, EPFL, University of Zurich, IBM Research Zurich, Cyber-Defence Campus armasuisse. Track for usable security, privacy engineering, software verification, AI safety, and human-centered AI.
-- `EU-level` ENISA, European Cybersecurity Competence Centre, European AI Office, Europol EC3, NATO CCDCOE, ELLIS, CLAIRE, Horizon Europe AI/cyber programs. These matter for governance, certification, incident reporting, cyber ranges, and human-in-the-loop assurance requirements.
+#### Ruhr University Bochum
+
+##### CASA / RC Trust / AI And Society
+
+- `Homepage`: https://casa.rub.de/en/research
+- `Label`: `Core/strong adjacent`
+- `People`: Thorsten Holz, Bilal Zafar, Christof Paar, Angela Sasse and collaborators across CASA's research hubs.
+- `Focused area`: security from hardware and trustworthy systems through human-centered security, societal trust, and trustworthy AI.
+- `Human-factor relevance`: CASA's current structure explicitly spans software platforms, users, and society, making it an unusually complete environment for studying how AI security tools affect users, operators, organizations, and public trust.
+- `Activities / evidence`: six research hubs including Trustworthy Systems, Human-Centered Security and Privacy, and Security & Societal Trust in Emerging Technologies; AISOC research on LLM understanding and trustworthy AI.
+- `Sources`: https://casa.rub.de/en/research ; https://informatik.rub.de/aisoc/ ; https://casa.rub.de/en/research/publications/detail/dos-and-donts-of-machine-learning-in-computer-security.
 
 ### Singapore
 
-- `Core/strong adjacent` NTU Cyber Security Lab, NTU Digital Trust Centre, NTU/Singtel SCALE, Imperial-NTU IN-CYPHER. Track for AI for cybersecurity, trustworthy AI, health cybersecurity, automation, vulnerability discovery, and human/machine verification. Sources: https://www.ntu.edu.sg/computing/research/institutes-centres/csl ; https://www.ntu.edu.sg/dtc ; https://www.imperial.ac.uk/about/global/singapore/research/in-cypher/.
-- `Core/strong adjacent` NTU / KTH / William & Mary HAT-Lab collaboration: agent-mediated deception and human perception vulnerability in LLM-driven agentic systems. Source: https://arxiv.org/abs/2602.21127.
-- `Watch` National University of Singapore, SUTD iTrust, Singapore Management University, AI Singapore, Centre for Strategic Infocomm Technologies, DSO National Laboratories, GovTech. Track for secure software engineering, cyber ranges, AI governance, and trustworthy AI.
-- `Companies/sectors` Singtel/NCS, ST Engineering, Mastercard-NTU lab, Ant International-NTU PET/LLM collaboration, financial-sector SOCs, CSA Singapore and Digital Trust Centre ecosystem.
+Additional institutions and sectors: AI Singapore, CSIT, DSO National Laboratories, GovTech, CSA Singapore, Singtel/NCS, ST Engineering, Mastercard-NTU, Ant International-NTU, and financial-sector SOCs.
 
-### Japan
+#### Singapore Management University
 
-- `Watch` NICT Cybersecurity Research Institute / CREATE, AIST Intelligent Platform Research Institute, University of Tokyo, Kyoto University, Osaka University, Waseda, Keio, Tokyo Institute of Science, JAIST. Track for AI security, LLM evaluation, cybersecurity training, human resources, and industry-government collaboration. Sources: https://www.nict.go.jp/en/research/index.html ; https://create.nict.go.jp/en/ ; https://unit.aist.go.jp/ipri/en/.
-- `Companies/sectors` NTT, NEC, Fujitsu, Hitachi, KDDI, Rakuten, Trend Micro Japan, Preferred Networks, automotive/robotics/OT security suppliers, JPCERT/CC and NISC ecosystem.
+##### Centre For Research On Intelligent Software Engineering (RISE)
 
-### South Korea
+- `Homepage`: https://rise.smu.edu.sg/
+- `Label`: `Core`
+- `People`: David Lo, Lingxiao Jiang, Sun Jun, Xiaofei Xie, Christoph Treude and affiliated faculty.
+- `Focused area`: AI × software engineering × cybersecurity; reliable, secure, efficient, maintainable, and intelligent software systems; program analysis, testing, empirical SE, code models, and human-AI collaboration.
+- `Human-factor relevance`: RISE is directly aligned with this dossier's expanded scope and explicitly targets practitioner productivity, software reliability and security, and industrial application rather than isolated model accuracy.
+- `Activities / evidence`: nationally and industrially funded centre; LLM4Code robustness/security/privacy; AI4SE; software analytics; work on programmer adoption of AI-generated code and taxonomies of human-AI collaboration in SE.
+- `Sources`: https://rise.smu.edu.sg/ ; https://computing.smu.edu.sg/research ; https://news.smu.edu.sg/news/2023/07/24/rising-build-better-faster-and-cheaper-software ; https://ink.library.smu.edu.sg/etd_coll/666/.
 
-- `Core/strong adjacent` Ewha Womans University / Kumoh National Institute of Technology / Coretrustlink: Gyuyeon Na, Minjung Park, Hyeonjeong Cha, Sangmi Chai on a human-centered LLM-agent system for digital-asset anomaly detection. Source: https://arxiv.org/abs/2510.20102.
-- `Watch` KAIST, Korea University AIR Lab / cyber defense, Seoul National University HCI+AI, Sogang HAICoLab, Sungkyunkwan University InfoLab, POSTECH, Yonsei. Track for human-AI collaboration, AI for cybersecurity, trustworthy AI, and LLM-based agents. Sources: https://air.korea.ac.kr/ ; https://haicolab.sogang.ac.kr/.
-- `Companies/sectors` Samsung Research, LG AI Research, Naver, Kakao, SK Telecom, AhnLab, KISA, KOTRA cyber export ecosystem, Korean financial/blockchain security vendors.
+#### National University Of Singapore
 
-### India
+##### Trustworthy And Secure Software / AI For Code / PLSE
 
-- `Watch` IISc, IIT Madras, IIT Bombay, IIT Delhi, IIT Kanpur, IIT Kharagpur, IIIT Hyderabad, C-DAC, DRDO/CAIR, CERT-In-linked academic programs. Track for software security, AI security, secure code generation, and national cyber ranges; direct human-factors LLM-security work was not prominent in the current pass.
-- `Companies/sectors` TCS, Infosys, Wipro, HCLTech, Tech Mahindra, Zoho, Razorpay/financial security teams, and Indian SOC/MSSP vendors adopting LLM-assisted triage.
+- `Homepage`: https://www.comp.nus.edu.sg/cs/research/plse/
+- `Label`: `Core`
+- `People`: Abhik Roychoudhury, Ilya Sergey, Joxan Jaffar, Hugh Anderson, Wei-Ngan Chin, Shengchao Qin and collaborators in programming languages, software engineering, and trustworthy software.
+- `Focused area`: program analysis, testing, verification, concurrency, language-based security, compilers, code agents, automated repair, and trustworthy AI software engineering.
+- `Human-factor relevance`: NUS combines analysis-backed code agents with correctness and security machinery that can give developers inspectable evidence. It is a key site for studying how humans review repository-scale repairs, tests, and formal/static evidence.
+- `Activities / evidence`: AutoCodeRover and repository-level issue resolution; Singapore Manifesto on AI-driven innovations for code; PLSE and FOCS programs; practitioner and industry engagement.
+- `Sources`: https://www.comp.nus.edu.sg/cs/research/plse/ ; https://www.comp.nus.edu.sg/features/ai-in-sw-development-autocoderover/ ; https://ai.nus.edu.sg/singapore-manifesto-on-ai-driven-innovations-for-code/ ; https://focs-lab.comp.nus.edu.sg/.
+
+#### Nanyang Technological University
+
+##### Digital Trust Centre / Cyber Security Lab
+
+- `Homepage`: https://www.ntu.edu.sg/dtc
+- `Label`: `Core/strong adjacent`
+- `People`: Kwok Yan Lam, Luke Ong, Anwitaman Datta, Jun Luo, Dusit Niyato, Tianwei Zhang, and researchers listed by DTC and the Cyber Security Lab.
+- `Focused area`: AI safety, digital trust, privacy-enhancing technologies, AI/LLM security, agent red teaming, OS and cloud security, cyber risk governance, and translation to government and industry.
+- `Human-factor relevance`: DTC houses the Singapore AI Safety Institute and explicitly mixes technical research, sandboxes, governance, industry problem statements, and user-centered design. This creates a strong setting for studying operational adoption and responsibility.
+- `Activities / evidence`: national centre funded by IMDA/NRF; AI-safety and trust-technology programs; publications on agent workflows and security; NTU/Singtel SCALE and Imperial-NTU IN-CYPHER collaborations.
+- `Sources`: https://www.ntu.edu.sg/dtc/about-us ; https://www.ntu.edu.sg/dtc/our-people ; https://www.ntu.edu.sg/dtc/publications ; https://www.ntu.edu.sg/computing/research/institutes-centres/csl ; https://www.imperial.ac.uk/about/global/singapore/research/in-cypher/.
+
+##### Agent-Mediated Deception Collaboration
+
+- `Homepage`: https://arxiv.org/abs/2602.21127
+- `Label`: `Core`
+- `People`: NTU, KTH, and William & Mary HAT-Lab collaborators.
+- `Focused area`: how users perceive and respond to deception mediated through trusted LLM agents, including professional software-development scenarios.
+- `Human-factor relevance`: this is direct human-subject evidence about compromised agents, trust transfer, user susceptibility, and the limits of oversight.
+- `Activities / evidence`: cross-national user study and attack scenarios involving agent-mediated behavior.
+- `Sources`: https://arxiv.org/abs/2602.21127 ; https://www.ntu.edu.sg/dtc.
+
+#### Singapore University Of Technology And Design
+
+##### iTrust Centre For Research In Cyber Security
+
+- `Homepage`: https://www.sutd.edu.sg/itrust/
+- `Label`: `Strong adjacent`
+- `People`: Aditya Mathur and iTrust faculty and researchers.
+- `Focused area`: cyber-physical and critical-infrastructure security, testbeds, threat modeling, digital forensics, and operational cyber exercises.
+- `Human-factor relevance`: iTrust provides realistic infrastructure and operator contexts for testing LLM agents, incident assistance, and human override under physical consequences.
+- `Activities / evidence`: sector-scale testbeds and national/industry cyber collaborations.
+- `Sources`: https://www.sutd.edu.sg/itrust/.
+
+### Canada
+
+Additional institutions: University of Toronto PL/systems/SE and Schwartz Reisman Institute, Vector Institute, Queen's L1NNA Lab, Concordia SPNET, UBC, McGill, Carleton, and Royal Military College. Industry/government includes BlackBerry Cylance, OpenText Cybersecurity, Arctic Wolf, Cohere, the National Cybersecurity Consortium, and the Canadian Centre for Cyber Security.
+
+#### eSentire / University Of Waterloo Partner Line
+
+##### Live MDR/SOC LLM-Use Research
+
+- `Homepage`: https://www.esentire.com/
+- `Label`: `Core`
+- `People`: Martin Lochner, Keegan Keplinger and academic/industry collaborators.
+- `Focused area`: live SOC LLM queries, topic modeling, expert validation, managed detection and response, and analyst practice.
+- `Human-factor relevance`: the work observes what analysts actually ask LLMs inside an operational environment, rather than inferring use from benchmarks. It supports studies of task mix, expertise, validation, and organizational controls.
+- `Activities / evidence`: analysis of real analyst interaction data with human expert interpretation.
+- `Sources`: https://arxiv.org/abs/2508.18488 ; https://www.esentire.com/.
+
+#### University Of Waterloo
+
+##### SENSE Lab
+
+- `Homepage`: https://sense.eng.uwaterloo.ca/
+- `Label`: `Core/strong adjacent`
+- `People`: Weiyi Shang and SENSE Lab collaborators.
+- `Focused area`: software logs, performance assurance, AIOps, release engineering, maintainability, observability, and AI-assisted software development.
+- `Human-factor relevance`: SENSE connects LLM assistance to reliability and operational evidence. Relevant measures include diagnostic effort, alert comprehension, performance-regression review, and whether operators retain causal understanding.
+- `Activities / evidence`: empirical studies and tools for large-scale software systems, logs, performance, and operations.
+- `Sources`: https://sense.eng.uwaterloo.ca/.
+
+##### Software Engineering, SWAG, WatForm, WISE, And Software REBELs
+
+- `Homepage`: https://uwaterloo.ca/computer-science/research/research-areas/software-engineering
+- `Label`: `Core/strong adjacent`
+- `People`: Joanne Atlee, Michael Godfrey, Shane McIntosh, Mei Nagappan, Krzysztof Czarnecki, Patrick Lam, Weiyi Shang and collaborators.
+- `Focused area`: requirements, architecture, evolution, mining repositories, release engineering, formal methods, safety, intelligent systems, testing, and maintenance.
+- `Human-factor relevance`: Waterloo has breadth across the lifecycle needed to evaluate whether coding agents improve long-term software outcomes or merely accelerate local edits.
+- `Activities / evidence`: multiple dedicated labs and industry-facing SE programs; direct work on LLM-agent security against malicious or vulnerable tools.
+- `Sources`: https://se.uwaterloo.ca/ ; https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/ ; https://rebels.cs.uwaterloo.ca/ ; https://uwaterloo.ca/computer-science/news/meng-xu-sihang-liu-254k-funding-national-cybersecurity-consortium-strengthen-security-llm-agents.
+
+### United Kingdom
+
+Additional institutions: Cambridge PL/Security/Systems groups, Oxford PL and cyber security, UCL CREST and usable security, Imperial AI Security and Privacy Lab and software systems, King's Cybersecurity Group, Edinburgh PL/AI, Bristol, Newcastle, Southampton, Sheffield, Royal Holloway, and the Software Sustainability Institute. Operational actors include NCSC, GCHQ, Darktrace, NCC Group, PortSwigger, BT Security, and BAE Systems Digital Intelligence.
+
+#### UK AI Security Institute
+
+##### Frontier-Model Security Evaluation
+
+- `Homepage`: https://www.aisi.gov.uk/about
+- `Label`: `Core/strong adjacent`
+- `People`: institutional evaluation, safeguards, and research teams; use official staff/project pages for individual attribution.
+- `Focused area`: frontier-model cyber capabilities, safeguards, human-influence risk, pre-release evaluation, and government-facing safety science.
+- `Human-factor relevance`: AISI shapes which model and agent behaviors are tested before deployment and how evidence reaches policy and operational decision makers. It is relevant to evaluator judgment, reproducibility, disclosure, and governance.
+- `Activities / evidence`: model evaluations, research collaborations, evaluation tooling, and public technical reports.
+- `Sources`: https://www.aisi.gov.uk/about.
+
+#### Laboratory For AI Security Research
+
+##### LASR Public-Private Research Program
+
+- `Homepage`: https://lasr.ac.uk/
+- `Label`: `Core/strong adjacent`
+- `People`: participating UK academic, government, and industry researchers; attribute project leadership from the relevant LASR project page.
+- `Focused area`: AI security, resilient systems, evaluation, national-security applications, and translation across academia, industry, and government.
+- `Human-factor relevance`: LASR is a natural site for studying how assurance evidence is shared across institutions and how responsibility is allocated when agentic systems enter high-consequence workflows.
+- `Activities / evidence`: coordinated research calls, test and evaluation programs, and public-private partnership.
+- `Sources`: https://lasr.ac.uk/.
+
+#### University Of Cambridge
+
+##### Research Software Engineering Community And Research Computing Services
+
+- `Homepage`: https://rse.group.cam.ac.uk/
+- `Label`: `Core/strong adjacent`
+- `People`: Christopher Edsall, the Research Computing Services RSE team, departmental RSEs, and Institute of Computing for Climate Science contributors.
+- `Focused area`: scientific-software design, refactoring, legacy modernization, HPC/GPU migration, performance optimization, training, and collaboration with domain researchers.
+- `Human-factor relevance`: Cambridge provides a high-value population often omitted from coding-assistant studies: scientists and RSEs maintaining performance-sensitive, reproducible software whose requirements are distributed across code and domain knowledge.
+- `Activities / evidence`: RSE consulting and delivery; optimization and modernization projects; community seminars; research/industry collaborations.
+- `Sources`: https://rse.group.cam.ac.uk/ ; https://rse.group.cam.ac.uk/people ; https://www.csd3.cam.ac.uk/research-software-engineering ; https://www.hpc.cam.ac.uk/team.
+
+### Switzerland
+
+Additional actors: armasuisse Cyber-Defence Campus, the Swiss National Cyber Security Centre, Idiap, CERN's research-software ecosystem, Sonar, Proton, Scandit, and Swiss financial/pharmaceutical engineering and security teams.
+
+#### ETH Zurich
+
+##### Secure, Reliable, And Intelligent Systems (SRI) Lab
+
+- `Homepage`: https://www.sri.inf.ethz.ch/
+- `Label`: `Core`
+- `People`: Martin Vechev and SRI researchers.
+- `Focused area`: reliable, secure, and trustworthy ML/LLMs; coding and mathematical reasoning; controllability, security, privacy, evaluation, program analysis, synthesis, and rigorous software engineering.
+- `Human-factor relevance`: SRI directly joins AI for code, security for agents, and formal/software assurance. Its spin-off record also exposes a path from research prototypes to developer tools and operational agent security.
+- `Activities / evidence`: BigCode/statistical programming engines, DeepCode, LogicStar, Invariant Labs, secure AI agents, and courses/research on reliable AI and software engineering.
+- `Sources`: https://www.sri.inf.ethz.ch/ ; https://www.sri.inf.ethz.ch/research/plml ; https://www.sri.inf.ethz.ch/teaching/.
+
+##### Programming Languages And Software Engineering Area
+
+- `Homepage`: https://inf.ethz.ch/research/programming-languages-software-engineering.html
+- `Label`: `Strong adjacent`
+- `People`: David Basin, Torsten Hoefler, Ralf Jung, Michalis Kokologiannakis, Peter Müller, Markus Püschel, Shweta Shinde, Zhendong Su, Martin Vechev, April Yi Wang and associated faculty.
+- `Focused area`: verification, testing, program generation, compilers, optimization, concurrency, systems security, trustworthy AI, HCI for programming, and computing education.
+- `Human-factor relevance`: the area covers nearly every assurance mechanism needed to ground LLM-produced software, as well as the human interfaces and education questions around programming with AI.
+- `Activities / evidence`: SRI, Advanced Software Technologies, Programming Language Foundations, verification, high-performance computing, security, and educational-technology groups.
+- `Sources`: https://inf.ethz.ch/research/programming-languages-software-engineering.html ; https://plf.inf.ethz.ch/ ; https://ast.ethz.ch/.
+
+#### EPFL
+
+##### Dependable Systems, HexHive, And SYSTEMF
+
+- `Homepage`: https://www.epfl.ch/schools/ic/research/
+- `Label`: `Core/strong adjacent`
+- `People`: George Candea, Mathias Payer, Clément Pit-Claudel and collaborators.
+- `Focused area`: dependable and efficient systems, automated testing, software and systems security, fuzzing, formal verification, compilers, interactive theorem proving, and full-assurance system components.
+- `Human-factor relevance`: these labs provide complementary evidence channels for coding agents: security testing, performance contracts, machine-checked correctness, and interactive proof/programming interfaces.
+- `Activities / evidence`: verified systems components, automated testing and symbolic execution, HexHive software-security tooling, and SYSTEMF's verified critical-systems work.
+- `Sources`: https://dslab.epfl.ch/ ; https://hexhive.epfl.ch/ ; https://systemf.epfl.ch/ ; https://www.epfl.ch/schools/ic/education/master/cyber-security/projects-labs-cs/.
+
+#### University Of Zurich
+
+##### Software Evolution And Architecture Lab (SEAL)
+
+- `Homepage`: https://www.ifi.uzh.ch/en/seal.html
+- `Label`: `Core/strong adjacent`
+- `People`: Thomas Fritz, Harald Gall and SEAL collaborators.
+- `Focused area`: software evolution, architecture, repository mining, developer productivity, multi-team development, software quality, and AI-assisted software engineering.
+- `Human-factor relevance`: SEAL is especially relevant to long-term maintenance, developer cognition, coordination, and whether AI-generated changes preserve architectural and organizational knowledge.
+- `Activities / evidence`: empirical software engineering, developer studies, software analytics, and industry collaboration.
+- `Sources`: https://www.ifi.uzh.ch/en/seal.html.
+
+#### IBM Research Europe - Zurich
+
+##### AI, Security, And Systems Research
+
+- `Homepage`: https://research.ibm.com/labs/zurich
+- `Label`: `Strong adjacent`
+- `People`: Teodoro Laino, Elli Androulaki and Zurich research teams; AI-for-Code work is organized across IBM Research locations.
+- `Focused area`: AI and novel algorithms for engineering simulation, optimization, system/software security analysis, robust AI, and next-generation computing.
+- `Human-factor relevance`: IBM Zurich adds enterprise deployment, scientific/engineering optimization, and security-assurance contexts to the Swiss academic map.
+- `Activities / evidence`: AI for engineering simulations, security research, EU projects, and IBM-wide AI-for-Code modernization.
+- `Sources`: https://research.ibm.com/labs/zurich ; https://research.ibm.com/topics/ai-for-code.
+
+### Netherlands
+
+Additional institutions: Vrije Universiteit Amsterdam (systems/security/software analytics), University of Twente, Radboud University, Eindhoven University of Technology, Leiden University, Centrum Wiskunde & Informatica, and TNO. Industry includes JetBrains Amsterdam, ING, ASML, Philips, Booking.com, Adyen, and Dutch critical-infrastructure operators.
+
+#### Delft University Of Technology
+
+##### Software Engineering Research Group / AI4SE / FUSE
+
+- `Homepage`: https://serg.ewi.tudelft.nl/
+- `Label`: `Core`
+- `People`: Arie van Deursen, Andy Zaidman, Annibale Panichella, Luis Cruz, Sebastian Proksch, Maliheh Izadi, Georgios Gousios and collaborators.
+- `Focused area`: empirical and human-centered SE, AI4SE, SE4AI, software testing, DevOps, evolution, architecture, software analytics, green AI/software, and secure LLMs for code.
+- `Human-factor relevance`: TU Delft explicitly studies how people build and evolve software and couples that mission to AI-enabled development and secure-code-model research. It is a primary comparative site for developer productivity, review, testing, maintenance, and organizational adoption.
+- `Activities / evidence`: SERG research lines, AI4SE, AISE, CISELab, FUSE secure-LLM track, and partnerships with software-tool companies and industrial developers.
+- `Sources`: https://serg.ewi.tudelft.nl/about/ ; https://serg.ewi.tudelft.nl/members/ ; https://se.ewi.tudelft.nl/ai4se/ ; https://se.ewi.tudelft.nl/fuse-lab/tracks/05_secure_llms4code/.
+
+### Australia
+
+Additional institutions: UNSW/UNSW Canberra Cyber, University of Melbourne, University of Adelaide/AIML, RMIT, Australian National University, University of Queensland, Macquarie, and the Cyber Security CRC. Industry/government includes ASD/ACSC, Home Affairs, Atlassian, Canva, CyberCX, Telstra, banks, and critical-infrastructure SOCs. Source: https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services.
+
+#### CSIRO Data61
+
+##### Software And Computational Systems / Cybersecurity
+
+- `Homepage`: https://www.csiro.au/en/about/people/research-units/Data61
+- `Label`: `Core`
+- `People`: Shahroz Tariq, Ronal Singh, Fatemeh Jalalvand, Mohan Baruwal Chhetri, Surya Nepal, Cecile Paris, Sharif Abuadbba, Jon Whittle, and collaborators.
+- `Focused area`: human-AI SOC collaboration, alert fatigue, distributed and secure systems, AI-generated-code security, threat modeling, software engineering for AI, and responsible AI.
+- `Human-factor relevance`: Data61 combines direct analyst studies with technical software/security research and public-sector deployment. It is one of the strongest non-U.S. sources for operational human-LLM evidence.
+- `Activities / evidence`: in-the-wild SOC study; expertise-gap and alert-fatigue work; AI assurance; collaborative intelligence for AI-generated-code security; ThreatModelling-GPT and distributed-systems security projects.
+- `Sources`: https://arxiv.org/abs/2508.18947 ; https://arxiv.org/abs/2505.03179 ; https://research.csiro.au/ss/ ; https://people.csiro.au/A/S/sharif-abuadbba ; https://www.csiro.au/en/about/people/research-units/Data61.
+
+#### Monash University
+
+##### HumanAISE And Software Engineering
+
+- `Homepage`: https://www.monash.edu/it/humanaise-lab/home
+- `Label`: `Core`
+- `People`: Rashina Hoda, Chetan Arora, John Grundy, Aldeida Aleti, Chakkrit Tantithamthavorn, Markus Wagner and collaborators.
+- `Focused area`: human-centric AI software engineering, AI × SE, requirements, software quality, testing, agile work, human values, trustworthy AI software, and socio-technical methods.
+- `Human-factor relevance`: HumanAISE places engineers, users, organizations, and social values at the center of AI software engineering. It supports qualitative and mixed-method work on how GenAI changes roles, skills, projects, and software outcomes.
+- `Activities / evidence`: renewed HumanAISE program; prior HumaniSE living-lab work; projects on GenAI effects in agile software work; roadmap on software engineering by and for humans in an AI era.
+- `Sources`: https://www.monash.edu/it/humanaise-lab/home ; https://www.monash.edu/it/humanaise-lab/people ; https://www.monash.edu/it/ssc/software-engineering ; https://research.monash.edu/en/publications/software-engineering-by-and-for-humans-in-an-ai-era/.
+
+### France
+
+Additional institutions: INRIA, CEA LIST, CNRS, ANSSI, Institut Polytechnique de Paris, Télécom Paris, Sorbonne Université, Université Grenoble Alpes, and Paris-Saclay. Industry includes Mistral AI, Thales, Dassault Systèmes, Orange Cyberdefense, Capgemini, Eviden, Quarkslab, Stormshield, Airbus, and RTE.
+
+#### IRT SystemX / Airbus Protect / RTE
+
+##### Human-AI SOC Collaboration
+
+- `Homepage`: https://www.irt-systemx.fr/en/
+- `Label`: `Core`
+- `People`: Reda Yaich, Alexandre Balondrade, Antoine Sicard, Christelle Fouquiau, Guillaume Giraud, Kahina Amokrane-Ferka, Emmanuel Arbaretier and collaborators.
+- `Focused area`: SOC analyst collaboration, cognitive profiling, agentic coordination, critical-infrastructure cybersecurity, and the VOWEL+U oversight framework.
+- `Human-factor relevance`: this line treats the SOC as a distributed human-agent organization and makes operator cognition, coordination, authority, and explainability part of system design.
+- `Activities / evidence`: applied research with Airbus Protect and the French electricity-transmission operator; published framework and operational scenarios.
+- `Sources`: https://www.irt-systemx.fr/en/ ; https://ojs.aaai.org/index.php/AAAI-SS/article/download/36072/38227/40160 ; https://cyber.airbus.com/en/offers/artificial-intelligence-in-cybersecurity.
+
+#### EURECOM
+
+##### Software And System Security / Human-LLM Reverse Engineering
+
+- `Homepage`: https://www.eurecom.fr/en/research
+- `Label`: `Core`
+- `People`: Simone Aonzo and collaborators with Arizona State University and the University of Padua.
+- `Focused area`: reverse engineering, malware and mobile security, binary analysis, and empirical human-LLM teaming.
+- `Human-factor relevance`: the NDSS 2026 study directly compares novice and expert reverse engineers working with LLM support, exposing gains, hallucination risks, and expertise effects.
+- `Activities / evidence`: practitioner survey and controlled study with 48 participants across novice/expert groups.
+- `Sources`: https://www.eurecom.fr/en/research ; https://www.eurecom.fr/en/research/networking-and-security-department/directory ; https://www.eurecom.fr/en/publication/8548 ; https://s3.eurecom.fr/docs/ndss26_basque.pdf.
 
 ### Israel
 
-- `Watch` Tel Aviv University, Technion, Hebrew University, Ben-Gurion University of the Negev, Reichman University. Track for AI security, web/app security, human-centered security, and cyber operations.
-- `Companies/sectors` Check Point, CyberArk, Wiz, Cato Networks, Checkmarx, Snyk Israel ecosystem, Orca Security, SentinelOne Israel R&D, Microsoft/Google/IBM Israeli security labs.
+- `Priority basis`: globally influential software-security and cloud-security industry; strong systems, PL, cryptography, web security, and human-centered security academia; extensive multinational R&D. Direct public studies of humans using LLM software/security agents remain less consolidated than the underlying ecosystem.
+- `Major institutions`: Tel Aviv University, Technion, Hebrew University, Ben-Gurion University of the Negev, Weizmann Institute, Reichman University, and Bar-Ilan University.
+- `Research directions`: AI and agent security, web/application security, usable security, vulnerability research, formal methods, cloud and identity security, cyber operations, and software supply chain.
+- `Companies/sectors`: Check Point, CyberArk, Wiz, Cato Networks, Checkmarx, Snyk's Israeli ecosystem, Orca Security, SentinelOne Israel R&D, Aqua Security, Armis, Torq, Microsoft/Google/IBM security labs, and the national cyber ecosystem.
+- `Evidence gap`: map current labs and PIs to direct developer, SOC, incident-response, or agent-oversight studies before promoting them to `Core`.
+
+### Japan
+
+- `Priority basis`: deep software-quality, systems, compilers, formal-methods, robotics, AI, and industrial R&D capacity; a large population of professional developers and high-reliability engineering domains; fragmented public human-LLM evidence.
+- `Major institutions`: NICT Cybersecurity Research Institute and CREATE, AIST Intelligent Platform Research Institute, National Institute of Informatics, University of Tokyo, Kyoto University, Osaka University, Waseda, Keio, Tokyo Institute of Science, JAIST, Nara Institute of Science and Technology, and RIKEN.
+- `Research directions`: AI security, code intelligence, testing and repair, formal verification, dependable/embedded systems, HCI, LLM evaluation, cyber training, and research-software productivity.
+- `Companies/sectors`: NTT, NEC, Fujitsu, Hitachi, KDDI, Rakuten, Trend Micro, Preferred Networks, Toyota and automotive suppliers, robotics/OT vendors, JPCERT/CC and NISC.
+- `Sources`: https://www.nict.go.jp/en/research/index.html ; https://create.nict.go.jp/en/ ; https://unit.aist.go.jp/ipri/en/.
+
+### South Korea
+
+Additional institutions: KAIST, Korea University AIR Lab and cyber defense, Seoul National University, Sogang HAICoLab, Sungkyunkwan University, POSTECH, Yonsei, and ETRI. Industry includes Samsung Research, LG AI Research, Naver, Kakao, SK Telecom, AhnLab, and KISA. Sources: https://air.korea.ac.kr/ ; https://haicolab.sogang.ac.kr/.
+
+#### Ewha Womans University / Kumoh National Institute Of Technology / Coretrustlink
+
+##### Human-Centered LLM Agent For Anomaly Detection
+
+- `Homepage`: https://arxiv.org/abs/2510.20102
+- `Label`: `Core/strong adjacent`
+- `People`: Gyuyeon Na, Minjung Park, Hyeonjeong Cha, Sangmi Chai and collaborators.
+- `Focused area`: human-centered LLM-agent support for digital-asset anomaly detection and expert decision support.
+- `Human-factor relevance`: direct attention to how an agent presents anomalies and supports human interpretation in a consequential financial/security domain.
+- `Activities / evidence`: designed and evaluated agent workflow; follow-up should verify participant population, longitudinal use, and operational deployment.
+- `Sources`: https://arxiv.org/abs/2510.20102.
+
+### Taiwan (China)
+
+- `Priority basis`: world-leading semiconductor and systems industry, strong hardware/software co-design, systems, PL, security, and AI research, and strategically important supply-chain assurance. This heading describes a research ecosystem and does not make a political-status claim.
+- `Major institutions`: Academia Sinica Institute of Information Science, National Taiwan University, National Tsing Hua University, National Yang Ming Chiao Tung University, National Cheng Kung University, and National Taiwan University of Science and Technology.
+- `Research directions`: secure and efficient AI systems, compilers, systems security, hardware/software verification, EDA, vulnerability analysis, trustworthy AI, and semiconductor/software supply chains.
+- `Companies/sectors`: TSMC, MediaTek, ASUS, Acer, Synopsys/Silicon Valley R&D links, Trend Micro, TeamT5, DEVCORE, and Taiwan's semiconductor-security ecosystem.
+- `Evidence gap`: identify current human-subject studies of coding agents, SOC copilots, and AI-assisted hardware/software design before assigning `Core`.
+
+### Sweden
+
+Additional institutions: Linköping RESIST, Chalmers, Lund, Stockholm University, Uppsala, Örebro MPI Lab, RISE Research Institutes of Sweden, Karlstad SIGS-CyberSec, and Blekinge Institute of Technology. Industry includes Ericsson, Saab, Sectra, Combitech, Truesec, and Recorded Future.
+
+#### KTH Royal Institute Of Technology
+
+##### Software And Computer Systems / Cybercampus / Agent-Security Collaboration
+
+- `Homepage`: https://www.kth.se/scs/
+- `Label`: `Core/strong adjacent`
+- `People`: David Broman and KTH Software and Computer Systems researchers; KTH collaborators in the NTU/William & Mary agent-mediated-deception study.
+- `Focused area`: software engineering, cloud and networked systems, security, applied AI, LLMs for code, network configuration, vulnerability detection, and national cybersecurity training.
+- `Human-factor relevance`: KTH couples direct agent-deception evidence with systems and software research, creating a route from user susceptibility to secure configuration, resilient infrastructure, and developer tooling.
+- `Activities / evidence`: LLM4Code work, LLM-powered vulnerability and configuration studies, Cybercampus graduate projects, and cross-national agent-security collaboration.
+- `Sources`: https://www.kth.se/scs/ ; https://www.kth.se/en/2.101513/research/cybercampus-graduate ; https://arxiv.org/abs/2602.21127.
+
+### Denmark
+
+Additional institutions: University of Copenhagen, DTU, Aalborg, Aarhus, and the Alexandra Institute. Industry includes TDC NET, Trifork, Systematic, LEGO, Danish financial SOCs, and national AI-compute/safety initiatives.
+
+#### IT University Of Copenhagen
+
+##### LLM Red Teaming And Human-AI Interaction
+
+- `Homepage`: https://en.itu.dk/
+- `Label`: `Core`
+- `People`: Nanna Inie, Leon Derczynski, Paolo Tell, Claus Brabrand and relevant ITU Software Engineering, NLP, HCI, and computing-education collaborators.
+- `Focused area`: human practices of LLM red teaming, generative-AI interaction, software teamwork, software processes, computing education, and security probing.
+- `Human-factor relevance`: the grounded-theory study directly investigates who red-teams LLMs, why they do it, and which strategies and social practices they use. This is stronger evidence than a jailbreak benchmark alone.
+- `Activities / evidence`: interviews with dozens of practitioners; grounded theory of LLM red teaming; garak security-probing framework; related human-AI and education research.
+- `Sources`: https://en.itu.dk/About-ITU/Press/News-from-ITU/2025/New-ITU-research-analyses-attacks-on-Large-Language-Models/ ; https://pure.itu.dk/en/publications/summon-a-demon-and-bind-it-a-grounded-theory-of-llm-red-teaming/ ; https://pure.itu.dk/en/persons/leon-derczynski/.
+
+### Italy
+
+Additional institutions: Politecnico di Milano, University of Trento, Sapienza University of Rome, University of Cagliari, IMT Lucca, University of Pisa/CNR-ISTI, and FBK. Industry includes Leonardo, Engineering Group, Reply, Yarix/Var Group, and the Italian National Cybersecurity Agency ecosystem.
+
+#### University Of Padua
+
+##### Human-LLM Software Reverse Engineering
+
+- `Homepage`: https://www.math.unipd.it/~elosiouk/
+- `Label`: `Core`
+- `People`: Samuele Doria, Eleonora Losiouk and collaborators with Arizona State University and EURECOM.
+- `Focused area`: software reverse engineering, mobile and application security, vulnerability repair, malware defense, and human-LLM teaming.
+- `Human-factor relevance`: Padua contributes the direct human-study and user-security expertise in the NDSS 2026 reverse-engineering work and connects it to broader software-security research.
+- `Activities / evidence`: controlled novice/expert reverse-engineering study; work on LLM vulnerability repair and user-centric malware defenses.
+- `Sources`: https://www.research.unipd.it/handle/11577/3588620 ; https://www.math.unipd.it/~elosiouk/publications.html.
+
+### Spain
+
+Additional institutions: INCIBE, Universidad Carlos III de Madrid, University of Málaga, University of Granada, Barcelona Supercomputing Center, and Spanish AI/cybersecurity networks. Industry includes Telefónica Tech, Indra/Minsait, S2 Grupo, GMV, and banking security labs.
+
+#### INGENIO / CSIC / Universitat Politècnica De València
+
+##### Human-Centered AI Security And Privacy (HASP) Lab
+
+- `Homepage`: https://hasp-lab.github.io/
+- `Label`: `Core/strong adjacent`
+- `People`: HASP Lab faculty and collaborators listed on the group site.
+- `Focused area`: human-centered AI security, ethics, privacy, HCI, and malicious or manipulative LLM-based conversational systems.
+- `Human-factor relevance`: HASP treats AI security as a user, organizational, and societal problem rather than only a model attack surface.
+- `Activities / evidence`: interdisciplinary human-centered AI and security projects and publications.
+- `Sources`: https://hasp-lab.github.io/.
+
+#### Universidad Politécnica De Madrid
+
+##### AI-Augmented Cybersecurity Requirements
+
+- `Homepage`: https://portalcientifico.upm.es/en/ipublic/item/10450496
+- `Label`: `Core/strong adjacent`
+- `People`: authors and UPM research groups identified on the official project/publication record.
+- `Focused area`: LLM/AI support for cybersecurity requirements generation and comparison with human expert ground truth.
+- `Human-factor relevance`: requirements work exposes whether AI expands coverage, introduces irrelevant controls, or changes expert review effort before code is written.
+- `Activities / evidence`: expert-grounded evaluation of generated security requirements.
+- `Sources`: https://portalcientifico.upm.es/en/ipublic/item/10450496.
+
+### Finland
+
+- `Priority basis`: Aalto/Helsinki provide strong software engineering, usable security, computing systems, HCI, AI, education, and national cybersecurity research; Finland also has an unusually important security-product ecosystem.
+- `Major institutions`: Aalto University Software and Service Engineering, Secure Systems Group, Helsinki-Aalto Institute for Cybersecurity, Finnish Center for AI, University of Helsinki, VTT, University of Oulu, and Tampere University.
+- `Research directions`: secure and usable systems, software/service engineering, AI engineering, human-computer interaction, privacy, computing education, dependable automation, and AI for industrial systems.
+- `Companies/sectors`: WithSecure/F-Secure, Nokia, SSH Communications Security, Relex, Silo AI/AMD, and Finnish telecom/industrial SOCs.
+- `Sources`: https://research.aalto.fi/en/organisations/department-of-computer-science/ ; https://ssg.aalto.fi/.
+
+### Belgium
+
+Additional institutions: KU Leuven HCI and DTAI, VUB Software Languages Lab, imec, Ghent University, Université catholique de Louvain, and University of Antwerp. Industry/government includes Sirris, Agoria, Proximus, financial institutions, and the Centre for Cybersecurity Belgium.
+
+#### KU Leuven / Vrije Universiteit Brussel
+
+##### DistriNet, Software Languages Lab, CODEGUARD, And LISA
+
+- `Homepage`: https://distrinet.cs.kuleuven.be/research/research
+- `Label`: `Core`
+- `People`: Bert Lagaisse, Wouter Joosen, Lieven Desmet, Stijn Volckaert, Tom Van Cutsem, Coen De Roover and collaborating researchers.
+- `Focused area`: secure software engineering, secure languages and compilation, distributed systems, AI code-assistant security, LLM application engineering, DevOps, testing, performance, reliability, and industrial knowledge transfer.
+- `Human-factor relevance`: CODEGUARD explicitly targets safe, efficient, responsible company adoption of AI code assistants, including workshops, demonstrators, guardrails, and recommendations. LISA translates SE/DevOps practice to secure LLM applications.
+- `Activities / evidence`: 2026-2029 CODEGUARD project; 2025-2027 LISA project; company-facing training and integration; static/dynamic analysis guardrails; secure software and distributed-systems research.
+- `Sources`: https://research.kuleuven.be/portal/en/project/3E260103 ; https://research.kuleuven.be/portal/en/project/3E250235 ; https://distrinet.cs.kuleuven.be/research/research ; https://iiw.kuleuven.be/nieuws-en-agenda/kalender/secure-software-engineering-in-a-genai-world.
+
+### India
+
+- `Priority basis`: enormous professional-developer and software-services population, strong technical institutions, national digital infrastructure, and rapidly growing GenAI deployment; the public record needs more controlled and longitudinal human-factor studies.
+- `Major institutions`: IISc, IIT Madras, IIT Bombay, IIT Delhi, IIT Kanpur, IIT Kharagpur, IIIT Hyderabad, IIIT Bangalore, C-DAC, and DRDO/CAIR.
+- `Research directions`: secure code generation, program analysis, formal methods, AI systems, multilingual developer tools, cyber ranges, software maintenance, and large-scale enterprise adoption.
+- `Companies/sectors`: TCS, Infosys, Wipro, HCLTech, Tech Mahindra, Zoho, Freshworks, Razorpay and financial-security teams, CERT-In, and Indian SOC/MSSP vendors.
+- `Evidence gap`: measure effects across outsourcing/product teams, multilingual requirements, review hierarchies, education and reskilling, and high-volume maintenance work.
+
+### Austria
+
+- `Priority basis`: strong formal methods, verification, PL, software engineering, systems, and security, with direct participation in critiques of LLM-security methodology.
+- `Major institutions`: TU Wien Software Engineering, Security and Privacy, and formal-methods groups; Institute of Science and Technology Austria; University of Vienna; Graz University of Technology/IAIK; Johannes Kepler University Linz; and SBA Research.
+- `Research directions`: program analysis, probabilistic programming, verification, compilers, systems security, cryptography, AI assurance, and empirical SE.
+- `Companies/sectors`: Dynatrace, Frequentis, Siemens Austria, A1, and critical-infrastructure/security vendors.
+- `Evidence gap`: connect strong technical assurance research to developer and operator studies of LLM-assisted workflows.
+
+### Ireland
+
+Additional institutions: University of Limerick, Trinity College Dublin, University College Dublin, University College Cork, Dublin City University, and Galway. Industry includes Microsoft Ireland, IBM Ireland, Intercom, Workhuman, Stripe, and multinational software/security engineering centers.
+
+#### Lero - The Irish Software Research Centre
+
+##### LLMs For Requirements And Trustworthy AI-Enabled Software
+
+- `Homepage`: https://lero.ie/
+- `Label`: `Core/strong adjacent`
+- `People`: Alessio Ferrari, Jacek Dąbrowski, Amel Bennaceur, Faeq Alrimawi and the distributed Lero investigator network.
+- `Focused area`: requirements engineering, software processes, trustworthy AI-enabled systems, LLM agents for elicitation and specification, safety-critical software, and industry collaboration.
+- `Human-factor relevance`: requirements agents directly affect stakeholder interviews, ambiguity resolution, traceability, and responsibility for what a system is supposed to do. Lero offers access to industry and safety-critical contexts.
+- `Activities / evidence`: `Prompt Me` intelligent requirements agent; LLM/NLP support for ambiguity and communication defects; national software-research and industry network.
+- `Sources`: https://symeco.lero.ie/fellows/dr-jacek-dabrowski/ ; https://rosetta.lero.ie/dr-alessio-ferrari/ ; https://lero.ie/.
+
+### Norway
+
+- `Priority basis`: NTNU explicitly covers AI in software development and software engineering for AI systems; Norway also offers safety-critical maritime, energy, telecom, and public-sector contexts.
+- `Major institutions`: NTNU Software Engineering and Information Security groups, University of Oslo, Simula Research Laboratory, SINTEF, University of Bergen, and Norwegian University of Life Sciences.
+- `Research directions`: AI4SE, SE4AI, software quality/security/reliability, model-driven engineering, socio-technical software work, dependable systems, and critical infrastructure.
+- `Companies/sectors`: DNV, Equinor, Telenor, Kongsberg, mnemonic, and Norwegian energy/maritime SOCs.
+- `Sources`: https://www.ntnu.edu/idi/se ; https://www.ntnu.edu/idi/about.
+
+### Brazil
+
+- `Priority basis`: largest Latin-American CS and software ecosystem, strong universities, critical/embedded systems, formal methods, SE, and an emerging agent/AI-safety research line.
+- `Major institutions`: University of São Paulo, UNICAMP, Federal University of Minas Gerais, Federal University of Pernambuco/CIn, Federal University of Rio de Janeiro/COPPE, PUC-Rio, and Federal University of Rio Grande do Sul.
+- `Research directions`: agentic systems and AI auditing, formal methods, critical embedded systems, software reliability, mining software repositories, testing, security, and AI-assisted engineering.
+- `Activities / evidence`: USP Agentic Complex Systems work on multi-agent systems and alignment auditing; USP LSEC on secure/dependable critical systems; LIAMF on logic, AI, planning, NLP, and formal methods.
+- `Sources`: https://acs.ime.usp.br/ ; https://www.lsec.icmc.usp.br/en/ ; https://liamf.ime.usp.br/ ; https://ciaam.usp.br/en/.
+
+### Poland
+
+- `Priority basis`: substantial PL, formal methods, algorithms, software engineering, security, and multinational product R&D, but no single direct human-factor LLM program was strong enough in this pass for `Core`.
+- `Major institutions`: University of Warsaw, Warsaw University of Technology, AGH University of Krakow, Wrocław University of Science and Technology, Poznań University of Technology, Jagiellonian University, and NASK.
+- `Research directions`: verification, language tooling, compilers, software analytics, cryptography, secure systems, AI engineering, and developer tools.
+- `Companies/sectors`: Google Warsaw, Microsoft, Samsung R&D Poland, Intel, Allegro, CD Projekt, Comarch, and Poland's large software-outsourcing/product-engineering sector.
+
+### Czech Republic
+
+- `Priority basis`: strong usable security, cryptography, systems, and formal methods with a mature national cyber-security environment.
+- `Major institutions`: Masaryk University Centre for Research on Cryptography and Security, Czech Technical University in Prague, Charles University, Brno University of Technology, and Czech Technical University AI Center.
+- `Research directions`: usable authentication, security measurement, formal verification, program analysis, AI security, malware, and cyber exercises.
+- `Companies/sectors`: Avast/Gen, Red Hat Brno, GoodData, Productboard, and the Czech National Cyber and Information Security Agency ecosystem.
+
+### Portugal
+
+- `Priority basis`: relevant SE, PL, dependable distributed systems, AI, HCI, and cybersecurity groups, plus a growing engineering-services and product sector.
+- `Major institutions`: INESC-ID / Instituto Superior Técnico, University of Lisbon, University of Porto, University of Minho, NOVA University Lisbon, and INESC TEC.
+- `Research directions`: software evolution, formal methods, dependable systems, compilers, security, AI engineering, human-centered computing, and critical systems.
+- `Companies/sectors`: Feedzai, OutSystems, Critical Software, Unbabel, Sword Health, and national cyber institutions.
+
+### Russia
+
+- `Priority basis`: large AI, software engineering, systems, cybersecurity, formal-methods, and developer-tool ecosystem. Current institutional affiliations, public datasets, international access, and comparability must be checked carefully because the research and product environment is affected by geopolitical and regulatory constraints.
+- `Major institutions`: HSE University School of Software Engineering, ITMO School of Computer Technologies and Control, Skoltech Artificial Intelligence and Engineering centers, Moscow Institute of Physics and Technology, Innopolis University, Ivannikov Institute for System Programming of the Russian Academy of Sciences, and Moscow State University.
+- `Research directions`: software and process engineering, AI systems security, MLOps/AIOps, multi-agent security, cyber-physical systems, program analysis and verification, compilers, and high-performance systems.
+- `Companies/sectors`: Yandex, Kaspersky, Positive Technologies, Sber AI, VK, MTS, JetBrains researchers with historical Russian links, and large finance/telecom/industrial engineering organizations.
+- `Evidence gap`: independent human-subject and organizational studies, transparent datasets, reproducible evaluation, and current institution/company relationships need verification before promotion to `Core`.
+- `Sources`: https://cs.hse.ru/en/dse/ ; https://en.itmo.ru/en/faculty/1/School_of_Computer_Technologies_and_Control.htm ; https://news.itmo.ru/en/education/students/news/14767/ ; https://www.skoltech.ru/en/center/ai.
+
+### Turkey
+
+- `Priority basis`: substantial computer-systems, security, software-engineering, requirements, and defense/industrial research, with direct 2025-2026 work on LLM security requirements and people/management debt in ML-integrated projects.
+- `Major institutions`: Middle East Technical University, Bilkent University, Boğaziçi University, Koç University, Sabancı University, Istanbul Technical University, and TÜBİTAK BİLGEM.
+- `Research directions`: systems and cloud security, autonomous-system security, security requirements, software process and management debt, formal modeling, AI engineering, cyber-physical systems, and human-computer interaction.
+- `Activities / evidence`: METU S2RL spans cloud, IoT, autonomous systems, access control, digital forensics, and formal security policies; METU records include LLM-based implicit-security-requirements classification and industry studies of ML-integrated software projects.
+- `Companies/sectors`: ASELSAN, HAVELSAN, Turkish Aerospace, Turkcell, Trendyol, Getir, and finance/telecom SOCs.
+- `Sources`: https://s2rl.iam.metu.edu.tr/ ; https://avesis.metu.edu.tr/ttemizel/yayinlar ; https://ceng.metu.edu.tr/en/node/216.
+
+### South Africa
+
+- `Priority basis`: the most important missing Sub-Saharan African comparison, combining national cyber R&D, digital forensics, cyber ranges, software development, critical infrastructure, skills development, and multilingual/social context.
+- `Major institutions`: CSIR Information and Cybersecurity Research Centre, University of Cape Town, University of the Witwatersrand, Stellenbosch University, University of Pretoria, and University of Johannesburg.
+- `Research directions`: sovereign cybersecurity, cybercrime and digital forensics, malware and dark-web analysis, critical infrastructure, cyber ranges, secure software, AI/ML security, human capacity, and public-sector deployment.
+- `Human-factor relevance`: South Africa enables study of skills shortages, uneven access to AI tooling, multilingual workflows, public-sector constraints, and whether LLM assistance broadens capability without increasing dependence or risk.
+- `Companies/sectors`: banks and fintech, telecom operators, mining/energy operators, Orange Cyberdefense/SensePost heritage, and national cyber institutions.
+- `Sources`: https://wwwprod.csir.co.za/information-and-cybersecurity-research-centre ; https://www.csir.co.za/what-we-do/defence-and-security/information-and-cybersecurity/cybersecurity-systems.
+
+### Mexico
+
+- `Priority basis`: large software-development, nearshore, higher-education, manufacturing, and financial-technology ecosystem; direct LLM/software human-factor evidence was not sufficiently consolidated in this pass.
+- `Major institutions`: National Autonomous University of Mexico, CINVESTAV, Tecnológico de Monterrey, Instituto Politécnico Nacional, and Centro de Investigación en Computación.
+- `Research directions`: software engineering, formal methods, cybersecurity, AI, embedded/industrial systems, HCI, and Spanish-language developer tooling.
+- `Companies/sectors`: nearshore software engineering, automotive and electronics manufacturing, banks/fintech, telecom, IBM/Microsoft/Oracle engineering centers, and national incident-response institutions.
+- `Evidence gap`: current group/PI mapping and first-party evidence for coding agents, SOC copilots, and SE for production LLM systems.
+- `Sources`: https://www.pcic.unam.mx/ ; https://www.seguridad.unam.mx/proyectos ; https://www.icat.unam.mx/en/information-technology-educational-processes/ ; https://tec.mx/es/investigacion/innovacion-en-tecnologias-e-infraestructuras-digitales-inteligentes.
 
 ### United Arab Emirates And Gulf
 
-- `Watch` NYU Abu Dhabi, MBZUAI, Khalifa University, UAE Cyber Security Council-linked research, Qatar Computing Research Institute, KAUST in Saudi Arabia. Direct human-factors LLM-security evidence is sparse, but AI/security investment and cyber-range activity make the region worth monitoring.
-- `Companies/sectors` G42, Core42, Presight, DarkMatter legacy ecosystem, regional sovereign-cloud and critical-infrastructure SOC operators.
+- `Priority basis`: rapid sovereign-AI and cyber investment, model deployment, critical-infrastructure operations, and cyber ranges; public human-study and software-maintenance evidence is still sparse.
+- `Major institutions`: MBZUAI, NYU Abu Dhabi, Khalifa University, Technology Innovation Institute, Qatar Computing Research Institute, Carnegie Mellon University Qatar, and KAUST in Saudi Arabia.
+- `Research directions`: foundation-model engineering, AI safety/security, systems, cyber operations, Arabic-language software and security tooling, and critical infrastructure.
+- `Companies/sectors`: G42, Core42, Presight, TII, Saudi Aramco and energy SOCs, regional sovereign clouds, and the UAE Cyber Security Council ecosystem.
+- `Evidence gap`: study operator authority, multilingual interfaces, sovereign-cloud constraints, procurement, and responsibility allocation.
 
 ### New Zealand
 
-- `Watch` Massey University, University of Auckland, University of Waikato, Victoria University of Wellington, CERT NZ / NCSC NZ ecosystem. Watch for human-AI SOC, digital-risk protection, and Five Eyes agentic-AI adoption guidance.
+- `Priority basis`: smaller research population but useful Five Eyes, public-sector, indigenous-data, usable-security, and operational-comparison context.
+- `Major institutions`: University of Auckland, University of Waikato, Victoria University of Wellington, University of Canterbury, University of Otago, and Massey University.
+- `Research directions`: software engineering, HCI, usable security, AI governance, research software, digital-risk protection, and critical infrastructure.
+- `Companies/sectors`: NCSC New Zealand, CERT NZ functions, Datacom, Spark, Xero, Aura Information Security, and financial/telecom SOCs.
 
-## Practical Research Questions For The Human-Factors Layer
+### EU-Level Actors Across The European Profiles
 
-- Which security tasks benefit from LLM collaboration, and which tasks should remain human-authoritative?
-- What UI patterns reduce over-trust without creating approval fatigue?
-- How should AI coding assistants present uncertainty, provenance, dependency authenticity, data-use policy, and security caveats to developers?
+- `Strong adjacent`: ENISA, the European Cybersecurity Competence Centre, European AI Office, Europol EC3, NATO CCDCOE, ELLIS, CLAIRE, and Horizon Europe AI/cyber programs.
+- `Additional national nodes`: Luxembourg's University of Luxembourg/SnT; Estonia's University of Tartu, TalTech, and NATO CCDCOE ecosystem; Greece's FORTH, National Technical University of Athens, and University of Athens; and Romania's University Politehnica of Bucharest and national cyber research should be tracked in the next institution-level pass.
+- `Human-factor relevance`: EU rules and institutions determine who evaluates, documents, certifies, reports, audits, and takes responsibility for AI-enabled software. They should be treated as workflow and organizational variables, not merely background regulation.
+- `Research need`: compare how EU conformity, incident-reporting, data-governance, worker-consultation, and cyber-resilience duties alter developer and security-operator behavior across the countries above.
+ For The Human-Factors Layer
+
+- Which requirements, design, coding, comprehension, review, testing, debugging, repair, migration, optimization, operations, and security tasks benefit from LLM collaboration, and which decisions should remain human-authoritative?
+- Does an assistant reduce end-to-end delivery time after clarification, context preparation, test generation, review, integration, rework, incident risk, and later maintenance are counted?
+- When does an agent improve software correctness, reliability, maintainability, security, and performance rather than merely increase change volume?
+- What UI patterns reduce over-trust without creating approval fatigue, and which actions should be blocked, confirmed, sampled, independently verified, staged, or automatically rolled back?
+- How should coding agents present intent, uncertainty, provenance, retrieved context, dependency authenticity, license/data-use policy, test adequacy, security findings, performance evidence, and unresolved assumptions?
+- How can reviewers efficiently evaluate large multi-file agent changes without diff fatigue, shallow approval, or loss of architectural awareness?
+- Which combinations of execution, types, static analysis, model checking, theorem proving, differential/metamorphic tests, fuzzing, and independent models provide useful assurance without overwhelming developers?
+- Can generated proofs, invariants, specifications, counterexamples, and explanations reduce formal-methods effort while preserving a small trusted base and understandable proof lineage?
+- How should performance agents demonstrate semantic equivalence, numerical stability, representative workload gains, cost/energy effects, and portability across compilers and hardware?
+- How should OS/cloud/AIOps assistants preserve operator situation awareness, least privilege, blast-radius control, escalation, rollback, and post-incident learning?
+- How should prompt programs, RAG, memory, tool schemas, MCP servers, model routing, orchestration, evaluators, and guardrails be versioned, tested, reviewed, observed, and owned as software?
+- What evidence detects correlated failure when the same model family writes code, tests it, reviews it, explains it, and decides whether it is correct?
+- How do model, API, data, retrieval, tool, and environment drift alter previously accepted software behavior, and who owns regression detection and remediation?
+- How should AI coding assistants handle secrets, personal/proprietary code, training-data provenance, generated packages, licenses, model/tool supply chains, and incident disclosure?
 - How should SOC copilots preserve analyst situation awareness and skill development instead of hiding the reasoning path?
 - What is the right evidence handoff from AI vulnerability agents to maintainers, bounty triagers, vendors, and disclosure coordinators?
 - How can reverse-engineering assistants expose enough intermediate reasoning for analysts to detect hallucinated symbols, types, comments, or control-flow summaries?
-- How should organizations train developers, SOC analysts, reverse engineers, and red teamers to challenge LLM output instead of merely consuming it?
-- What metrics capture human-AI complementarity: speed, accuracy, evidence quality, exploitability validation, skill transfer, cognitive load, false-positive burden, safe escalation, and auditability?
+- How should organizations train developers, reviewers, operators, scientists, students, SOC analysts, reverse engineers, and red teamers to challenge LLM output instead of merely consuming it?
+- Which interaction styles support durable learning and unaided transfer for novices without frustrating experts, and how do accessibility, language, culture, and domain background change the result?
+- How does agent-generated work redistribute credit, accountability, job design, onboarding, code ownership, and maintenance burden across teams and open-source communities?
+- What metrics capture human-AI complementarity: delivered value, correctness, review acceptance, reliability, maintainability, performance, energy/cost, evidence quality, exploitability validation, skill transfer, cognitive load, false-positive burden, safe escalation, rollback, and auditability?
+- Which findings replicate across professional and student populations, open and proprietary repositories, source and binary work, application and system software, English and Chinese, and chat/IDE/CLI/agent interfaces?
 - For USA-China comparison, which differences come from model capability, which from developer/SOC culture, which from platform design, and which from governance?
+
+The practical test is:
+
+`engineering value = accepted behavior and organizational learning − specification/context effort − verification/review/rework cost − operational and security risk − future evolution cost`
+
+Shorter code, higher benchmark scores, more accepted suggestions, and faster first drafts are useful measurements, but none is a complete measure of engineerability.

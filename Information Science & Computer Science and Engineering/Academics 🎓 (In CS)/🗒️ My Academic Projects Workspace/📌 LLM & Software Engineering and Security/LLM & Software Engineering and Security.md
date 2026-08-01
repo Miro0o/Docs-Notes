@@ -27,7 +27,7 @@ Fuzzing, reverse engineering, agents, and systems are methods or domains, not au
 
 ## Shared 2024–Present Literature Snapshot
 
-The [shared literature corpus](Literature-Corpus/README.md) freezes formal-venue coverage at **2026-07-31**. It contains an exhaustive 2024–present formal bibliography for the defined 22-venue ledger, a screened formal bibliography, a separately labeled frontier-preprint bibliography, and reproducible screening and dossier-assignment tables.
+The [shared literature corpus](Literature-Corpus/README.md) freezes formal-venue coverage at **2026-07-31**. It contains every normalized record returned by the declared sources for the available cells in the defined 22-venue ledger, a screened formal bibliography, a separately labeled frontier-preprint bibliography, and reproducible screening and dossier-assignment tables. Pending programs and incomplete independent count reconciliation prevent an unconditional exhaustiveness claim.
 
 - [Coverage counts](Literature-Corpus/coverage-counts.md) summarize every venue-year and mark unavailable 2026 programs as pending rather than zero.
 - [Venue-year manifest](Literature-Corpus/venue-year-manifest.csv) records sources, status, expected and collected counts, discrepancies, retrieval dates, and unresolved metadata.
@@ -35,7 +35,7 @@ The [shared literature corpus](Literature-Corpus/README.md) freezes formal-venue
 - [Dossier mappings](Literature-Corpus/dossier-mapping.csv) resolve every included record to one canonical row in each applicable dossier. Cross-dossier overlap is allowed.
 - [Build and validation scripts](Literature-Corpus/scripts/) reproduce the snapshot and enforce BibTeX, identity, mapping, manifest, and local-link invariants.
 
-The frozen snapshot contains 50,747 deduplicated formal records and 1,038 screened formal records. Its two declared 2026 arXiv frontier queries produced 6,636 raw results with 1,077 cross-query overlaps, 5,558 normalized candidates, 2,556 high-confidence inclusions, and 560 primary-object review candidates. After cross-year preservation and identity deduplication, the screened frontier bibliography contains 2,574 records. Six 2026 venue-years are explicitly pending because no public archival program was available at the cutoff.
+The frozen snapshot contains 50,727 deduplicated formal records and 1,172 screened formal records. Its two declared 2026 arXiv frontier queries produced 6,636 raw results with 1,077 cross-query overlaps and 5,558 normalized candidates. Conservative primary-object screening retains 1,522 query records and leaves 1,005 candidates unresolved; after cross-year preservation and identity deduplication, the screened frontier bibliography contains 1,539 records. Six 2026 venue-years are explicitly pending because no public archival program was available at the cutoff. The 3,163 dossier mappings are structurally materialized on real `Academic-Status` shelves, while manual screening and contribution-quality review remain incomplete.
 
 
 

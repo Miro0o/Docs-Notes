@@ -77,3 +77,27 @@ The field-map paper *Software Engineering and Foundation Models* is canonical on
 ## Boundary
 
 AgentDojo and other security-first benchmarks are excluded from this page even when they contain ordinary task-success measurements; their primary claim belongs in the security dossier.
+
+<!-- BEGIN GENERATED CANONICAL CORPUS ROWS -->
+## Generated Canonical Corpus Rows
+
+The builder maintains this block from the shared screening and mapping ledgers. Hand-written rows and analysis above remain authoritative where present.
+
+### Formal Venue Papers
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Jin2026FinrptDatasetEvaluation | [FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation.](<https://doi.org/10.1609/aaai.v40i1.37014>) | 2026 | AAAI / proceedings | Benchmarks And Surveys | Benchmarks or evaluates finRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation; abstract-level contribution review remains pending. | formal-venue |
+| Wang2026McpBenchBenchmarking | [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](<https://openreview.net/forum?id=fe8mzHwMxN>) | 2026 | ICLR / accepted-program | Benchmarks And Surveys | Introduces or evaluates mCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers; abstract-level contribution review remains pending. | formal-venue |
+| normalization2026AgentnoisebenchBenchmarkingRobustness | [AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](<https://icml.cc/virtual/2026/poster/64355>) | 2026 | ICML / accepted-program | Benchmarks And Surveys | Introduces or evaluates agentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition; abstract-level contribution review remains pending. | formal-venue |
+
+### Frontier Preprints
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Caumartin2026RetrievalOrientedCode | [Retrieval-Oriented Code Representations in Agentic Bug Localization](<https://arxiv.org/abs/2607.11046>) | 2026 | arXiv / frontier-preprint | Benchmarks And Surveys | Study file-level bug localization as a representation-driven retrieval problem. | frontier-preprint |
+| Chen2026CodecompStructuralKv | [CodeComp: Structural KV Cache Compression for Agentic Coding](<https://arxiv.org/abs/2604.10235>) | 2026 | arXiv / frontier-preprint | Benchmarks And Surveys | Present CodeComp, a training-free KV cache compression framework that incorporates static program analysis into LLM inference via Code Property Graph priors extracted by Joern. | frontier-preprint |
+| Hofer2026AssessingAutomatedPrompt | [Assessing Automated Prompt Injection Attacks in Agentic Environments](<https://arxiv.org/abs/2606.10525>) | 2026 | arXiv / frontier-preprint | Benchmarks And Surveys | Present a comprehensive empirical evaluation of automated prompt injection attacks against LLM agents, adapting both white-box (GCG) and black-box (TAP) methods to the agentic…. | frontier-preprint |
+| Lu2026LeanRefactorMulti | [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](<https://arxiv.org/abs/2605.20244>) | 2026 | arXiv / frontier-preprint | Benchmarks And Surveys | Present Lean Refactor, a plug-and-play retrieval-augmented agentic framework for multi-objective, controllable, and version-robust refactoring of Lean proofs. | frontier-preprint |
+
+<!-- END GENERATED CANONICAL CORPUS ROWS -->

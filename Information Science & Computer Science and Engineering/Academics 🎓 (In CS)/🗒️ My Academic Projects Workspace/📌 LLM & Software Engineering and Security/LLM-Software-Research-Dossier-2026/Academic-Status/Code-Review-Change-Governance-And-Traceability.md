@@ -33,7 +33,7 @@ This is an emerging but distinct software-engineering line. The research target 
 
 - [StackEval](Program-Comprehension-Search-Retrieval-Documentation-And-APIs.md) includes code-review assistance within a broader coding-assistance benchmark; its full record remains on the comprehension shelf.
 - [FeatureBench](Software-Agents-And-Repository-Engineering.md) evaluates repository feature changes; this shelf owns the human and governance layer around accepting and tracing those changes.
-- Cross-cutting reviewer workload, trust, and accountability questions remain on [Human Factor](../Human-Factor.md).
+- Cross-cutting reviewer workload, trust, and accountability questions remain in the [shared Human Factor](../../LLM-Software-Security-Research-Dossier-2026/Human-Factor.md).
 - Review whose primary goal is vulnerability discovery, secure patch acceptance, or exploitability assessment belongs in the [software-security dossier](../../LLM-Software-Security-Research-Dossier-2026/LLM-Software-Security-Research-Dossier-2026.md).
 
 ## Research Gaps
@@ -43,3 +43,26 @@ This is an emerging but distinct software-engineering line. The research target 
 - traceability that remains correct after rebases, squashes, backports, and issue migration;
 - accountable review of agent-generated changes at realistic volume;
 - longitudinal evidence on review debt and future maintenance.
+
+<!-- BEGIN GENERATED CANONICAL CORPUS ROWS -->
+## Generated Canonical Corpus Rows
+
+The builder maintains this block from the shared screening and mapping ledgers. Hand-written rows and analysis above remain authoritative where present.
+
+### Formal Venue Papers
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Tanzil2024ChatgptIncorrectnessDetection | [ChatGPT Incorrectness Detection in Software Reviews.](<https://doi.org/10.1145/3597503.3639194>) | 2024 | ICSE / proceedings | Code Review Change Governance And Traceability | Introduces or evaluates chatGPT Incorrectness Detection in Software Reviews; abstract-level contribution review remains pending. | formal-venue |
+
+### Frontier Preprints
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Capilla2026TowardsSupportingQuality | [Towards Supporting Quality Architecture Evaluation with LLM Tools](<https://arxiv.org/abs/2603.28914>) | 2026 | arXiv / frontier-preprint | Code Review Change Governance And Traceability | To reduce this effort and make the assessment and selection of scenarios more efficient, in this research we propose the use of LLMs to…. | frontier-preprint |
+| GilPereira2026SlrmentorLlmBased | [SLRMentor: An LLM-Based Tool Supporting Learning of SLR in Software Engineering](<https://arxiv.org/abs/2606.07831>) | 2026 | arXiv / frontier-preprint | Code Review Change Governance And Traceability | This paper presents SLRMentor, a conversational assistant designed to support both learning about the systematic literature review process and the execution of planning activities…. | frontier-preprint |
+| Kumar2026BiggerIsnT | [Bigger Isn't Always Better: A Comparative Evaluation of LLMs for Automated Code Review](<https://arxiv.org/abs/2606.15689>) | 2026 | arXiv / frontier-preprint | Code Review Change Governance And Traceability | Present a systematic evaluation of five large language models on automated code review, comparing Claude Sonnet 4.6, Claude Haiku 4.5, GPT-5.4 mini, Minimax M2.7…. | frontier-preprint |
+| Ulurmak2026EvalsafetygapHybridSurvey | [EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures](<https://arxiv.org/abs/2606.30219>) | 2026 | arXiv / frontier-preprint | Code Review Change Governance And Traceability | This paper presents a systematic survey and conceptual synthesis of the shared measurement problem underlying large language model (LLM) evaluation and AI safety: benchmark…. | frontier-preprint |
+| Yang2026PaftPreservationAware | [PAFT: Preservation Aware Fine-Tuning for Minimal-Edit Program Repair](<https://arxiv.org/abs/2604.03113>) | 2026 | arXiv / frontier-preprint | Code Review Change Governance And Traceability | Propose PAFT, a preservation-aware fine-tuning method for minimal-edit program repair. | frontier-preprint |
+
+<!-- END GENERATED CANONICAL CORPUS ROWS -->

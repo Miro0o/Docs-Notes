@@ -46,3 +46,18 @@ LLM-assisted quality work is shifting from isolated rewrite prompts to checked, 
 - project-specific quality rules without circular LLM judging;
 - interaction between generated-code volume and human review capacity;
 - benchmarks with independently validated smells, fixes, and maintenance outcomes.
+
+<!-- BEGIN GENERATED CANONICAL CORPUS ROWS -->
+## Generated Canonical Corpus Rows
+
+The builder maintains this block from the shared screening and mapping ledgers. Hand-written rows and analysis above remain authoritative where present.
+
+### Formal Venue Papers
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| 00062024RefactoringPythonicIdioms | [Refactoring to Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models.](<https://doi.org/10.1145/3643776>) | 2024 | FSE/PACMSE / proceedings | Quality Refactoring Technical Debt And Code Smells | Introduces or evaluates refactoring to Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models; abstract-level contribution review remains pending. | formal-venue |
+| Wadhwa2024CoreResolvingCode | [CORE: Resolving Code Quality Issues using LLMs.](<https://doi.org/10.1145/3643762>) | 2024 | FSE/PACMSE / proceedings | Quality Refactoring Technical Debt And Code Smells | Introduces or evaluates cORE: Resolving Code Quality Issues using LLMs; abstract-level contribution review remains pending. | formal-venue |
+| Wu2024IsmellAssemblingLlms | [iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring.](<https://doi.org/10.1145/3691620.3695508>) | 2024 | ASE / proceedings | Quality Refactoring Technical Debt And Code Smells | Introduces or evaluates iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring; abstract-level contribution review remains pending. | formal-venue |
+
+<!-- END GENERATED CANONICAL CORPUS ROWS -->

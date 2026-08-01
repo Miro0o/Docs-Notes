@@ -39,3 +39,23 @@ Checked: 2026-07-30. Generic code-agent capability papers belong in the sibling 
 - Secure-generation platforms: `Wang2024SeCodePLT`, `Zhou2025SafeGenBench`, and `Ali2025SecureVibeBench`.
 - Their canonical rows live in [Security Benchmarks And Evaluation](../Cross-Cutting/Security-Benchmarks-And-Evaluation.md).
 - Human practice around coding assistants is maintained in [Human Factor](../../Human-Factor.md).
+
+<!-- BEGIN GENERATED CANONICAL CORPUS ROWS -->
+## Generated Canonical Corpus Rows
+
+The builder maintains this block from the shared screening and mapping ledgers. Hand-written rows and analysis above remain authoritative where present.
+
+### Formal Venue Papers
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Yan2026LlmBasedQuantitative | [An LLM-based Quantitative Framework for Evaluating High-Stealthy Backdoor Risks in OSS Supply Chains.](<https://doi.org/10.1609/aaai.v40i2.37116>) | 2026 | AAAI / proceedings | Coding Dependency And Supply Chain | Benchmarks or evaluates an LLM-based Quantitative Framework for Evaluating High-Stealthy Backdoor Risks in OSS Supply Chains; abstract-level contribution review remains pending. | formal-venue |
+
+### Frontier Preprints
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Shen2026SealingAuditRuntime | [Sealing the Audit-Runtime Gap for LLM Skills](<https://arxiv.org/abs/2605.05274>) | 2026 | arXiv / frontier-preprint | Coding Dependency And Supply Chain | Present SIGIL, the first framework that seals the audit-runtime gap for LLM skills. | frontier-preprint |
+| Xie2026ProxyKnowsToo | [The Proxy Knows Too Much: Sealing LLM API Routers with Attested TEEs](<https://arxiv.org/abs/2606.16358>) | 2026 | arXiv / frontier-preprint | Coding Dependency And Supply Chain | Propose AEGIS, a provider-transparent attested API router whose data path is a client-verified faithful passthrough. | frontier-preprint |
+
+<!-- END GENERATED CANONICAL CORPUS ROWS -->

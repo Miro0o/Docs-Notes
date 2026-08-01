@@ -54,3 +54,22 @@ General coding scores transfer poorly to specialized software. SQL dialects, Ver
 - end-to-end hardware and embedded evaluation under realistic build and device constraints;
 - licensing and provenance for translated cross-language training data;
 - domain-expert review cost and long-term ownership of generated specialist software.
+
+<!-- BEGIN GENERATED CANONICAL CORPUS ROWS -->
+## Generated Canonical Corpus Rows
+
+The builder maintains this block from the shared screening and mapping ledgers. Hand-written rows and analysis above remain authoritative where present.
+
+### Formal Venue Papers
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Shojaee2025LlmSrScientific | [LLM-SR: Scientific Equation Discovery via Programming with Large Language Models](<https://openreview.net/forum?id=m2nmp8P5in>) | 2025 | ICLR / accepted-program | Domain Specific Low Resource Scientific And Data Software | Introduces or evaluates lLM-SR: Scientific Equation Discovery via Programming with Large Language Models; abstract-level contribution review remains pending. | formal-venue |
+
+### Frontier Preprints
+
+| Key | Paper | Year | Verified source/status | Research role | Contribution | Evidence label |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Nardone2026LlmBasedSource | [LLM-based Source Code Compression via Thresholded Symbol Ranking](<https://arxiv.org/abs/2607.24192>) | 2026 | arXiv / frontier-preprint | Domain Specific Low Resource Scientific And Data Software | Study the problem of lossless compression of source code, motivated by the storage demands of large-scale software archives, such as Software Heritage (https://www.softwareheritage.org/). | frontier-preprint |
+
+<!-- END GENERATED CANONICAL CORPUS ROWS -->

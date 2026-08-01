@@ -30,7 +30,7 @@ Practical boundary as of 2026-07-31: frontier agents are useful in bounded cyber
   - [Security Of LLM Software / Coding And Supply Chain](Academic-Status/Security-Of-LLM-Software/Coding-Dependency-And-Supply-Chain.md) and [Apps, RAG, Agents, MCP](Academic-Status/Security-Of-LLM-Software/App-RAG-Agent-And-Tool-Runtimes.md).
   - [Systems And OS Security](Academic-Status/Systems-And-OS-Security/Systems-And-OS-Security.md).
   - [Security Benchmarks](Academic-Status/Cross-Cutting/Security-Benchmarks-And-Evaluation.md) and [Surveys/SoKs](Academic-Status/Cross-Cutting/Surveys-And-Systematization.md).
-- [Human Factor](Human-Factor.md): human-AI collaboration, developer/SOC/reverse-engineering studies, country and sector map, and human-centered research questions.
+- [Shared Human Factor](Human-Factor.md): the cross-dossier map of people, institutions, companies, evidence, and research questions spanning LLM-assisted software engineering, correctness, reliability, efficiency, optimization, systems and security, plus software engineering, systems, and security for LLM and agent systems.
 - [Non-Academic Status](Non-Academic-Status.md): capability boundary, model reports, contests, threat-intelligence signals, policy guidance, and China-focused activity.
 - [Canonical Corpus Map](Canonical-Corpus-Map.md): generated formal-venue, frontier-preprint, and supplementary rows with one canonical mapping per record.
 - [Mapped BibTeX Bibliography](LLM-Software-Security-Research-Dossier-2026.bib): every record assigned to this dossier, with preserved supplementary material.

@@ -69,13 +69,13 @@
     "venue": "USENIX Security",
     "year": 2026,
     "publication_status": "proceedings",
-    "expected_count": 375,
-    "collected_count": 375,
+    "expected_count": 356,
+    "collected_count": 356,
     "retrieval_date": "2026-07-31",
     "official_source_url": "https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
     "metadata_source_urls": "https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
     "reconciliation": "normalized metadata count reconciled; independent official count unavailable",
-    "unresolved_metadata": ""
+    "unresolved_metadata": "Official technical-sessions page also contains the non-archival Enigma track; the parser retains only refereed research-paper sessions."
   },
   {
     "area": "Security",
@@ -654,13 +654,13 @@
     "venue": "OSDI",
     "year": 2026,
     "publication_status": "proceedings",
-    "expected_count": 137,
-    "collected_count": 137,
+    "expected_count": 136,
+    "collected_count": 136,
     "retrieval_date": "2026-07-31",
     "official_source_url": "https://www.usenix.org/conference/osdi26/technical-sessions",
     "metadata_source_urls": "https://www.usenix.org/conference/osdi26/technical-sessions",
     "reconciliation": "normalized metadata count reconciled; independent official count unavailable",
-    "unresolved_metadata": ""
+    "unresolved_metadata": "Official technical-sessions page also contains a keynote; the parser retains only archival research-paper sessions."
   },
   {
     "area": "Systems",

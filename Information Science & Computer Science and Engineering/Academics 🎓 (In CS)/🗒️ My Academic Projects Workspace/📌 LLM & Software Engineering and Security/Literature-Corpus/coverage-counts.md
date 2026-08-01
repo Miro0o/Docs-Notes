@@ -11,7 +11,7 @@ Counts are archival records after track/front-matter filtering and title/identit
 | Security | IEEE S&P | 2026 | proceedings | 252 | 252 | normalized metadata count reconciled; independent official count unavailable |
 | Security | USENIX Security | 2024 | proceedings | 418 | 418 | normalized metadata count reconciled; independent official count unavailable |
 | Security | USENIX Security | 2025 | proceedings | 439 | 439 | normalized metadata count reconciled; independent official count unavailable |
-| Security | USENIX Security | 2026 | proceedings | 375 | 375 | normalized metadata count reconciled; independent official count unavailable |
+| Security | USENIX Security | 2026 | proceedings | 356 | 356 | normalized metadata count reconciled; independent official count unavailable; Official technical-sessions page also contains the non-archival Enigma track; the parser retains only refereed research-paper sessions. |
 | Security | ACM CCS | 2024 | proceedings | 328 | 328 | normalized metadata count reconciled; independent official count unavailable |
 | Security | ACM CCS | 2025 | proceedings | 317 | 317 | normalized metadata count reconciled; independent official count unavailable |
 | Security | ACM CCS | 2026 | pending | — | 0 | no complete public archival program available by cutoff; No complete accepted-paper program located by the cutoff. |
@@ -56,7 +56,7 @@ Counts are archival records after track/front-matter filtering and title/identit
 | Artificial Intelligence | AAAI | 2026 | proceedings | 4431 | 4431 | normalized metadata count reconciled; independent official count unavailable |
 | Systems | OSDI | 2024 | proceedings | 53 | 53 | normalized metadata count reconciled; independent official count unavailable |
 | Systems | OSDI | 2025 | proceedings | 53 | 53 | normalized metadata count reconciled; independent official count unavailable |
-| Systems | OSDI | 2026 | proceedings | 137 | 137 | normalized metadata count reconciled; independent official count unavailable |
+| Systems | OSDI | 2026 | proceedings | 136 | 136 | normalized metadata count reconciled; independent official count unavailable; Official technical-sessions page also contains a keynote; the parser retains only archival research-paper sessions. |
 | Systems | SOSP | 2024 | proceedings | 43 | 43 | normalized metadata count reconciled; independent official count unavailable |
 | Systems | SOSP | 2025 | proceedings | 66 | 66 | normalized metadata count reconciled; independent official count unavailable |
 | Systems | SOSP | 2026 | pending | — | 0 | no complete public archival program available by cutoff; No complete accepted-paper program located by the cutoff. |
