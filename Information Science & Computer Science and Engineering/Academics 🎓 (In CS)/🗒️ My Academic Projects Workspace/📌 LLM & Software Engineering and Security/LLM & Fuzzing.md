@@ -7,7 +7,7 @@ last-reviewed: 2026-07-30
 [TOC]
 
 > [!note] Canonical literature index
-> The maintained 2024–2026 paper map is in the [LLM–Software Security Research Dossier](LLM-Software-Security-Research-Dossier-2026/Academic-Status/Academic-Status.md). In that taxonomy, security fuzzing and dynamic analysis are subtopics of security program analysis. This note remains the long-form working notebook.
+> The maintained 2024–2026 paper map is in the [LLM–Software Security Research Dossier](Dossiers/LLM-Software-Security-Research-Dossier-2026/Academic-Status/Academic-Status.md). In that taxonomy, security fuzzing and dynamic analysis are subtopics of security program analysis. This note remains the long-form working notebook.
 
 
 

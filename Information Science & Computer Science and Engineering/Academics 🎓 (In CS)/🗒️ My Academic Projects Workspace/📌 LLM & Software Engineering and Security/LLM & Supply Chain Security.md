@@ -7,7 +7,7 @@ last-reviewed: 2026-07-30
 [TOC]
 
 > [!note] Canonical literature index
-> The maintained 2024–2026 paper map is in the [LLM–Software Security Research Dossier](LLM-Software-Security-Research-Dossier-2026/Academic-Status/Academic-Status.md), under security of LLM-enabled software and coding/dependency supply chains. This file remains a broader working notebook and dataset list.
+> The maintained 2024–2026 paper map is in the [LLM–Software Security Research Dossier](Dossiers/LLM-Software-Security-Research-Dossier-2026/Academic-Status/Academic-Status.md), under security of LLM-enabled software and coding/dependency supply chains. This file remains a broader working notebook and dataset list.
 
 
 
