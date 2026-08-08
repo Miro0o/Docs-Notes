@@ -1,0 +1,28 @@
+{
+  "snapshot_date": "2026-07-31",
+  "formal_records": 50727,
+  "screened_formal_records": 1172,
+  "frontier_preprints": 1539,
+  "frontier_2026_query_candidates": 5558,
+  "frontier_2026_screened": 1522,
+  "frontier_2026_candidates_needing_review": 1005,
+  "frontier_2026_formal_supersessions": 321,
+  "dossier_records": {
+    "llm-software": 1698,
+    "software-for-llm": 444,
+    "llm-security": 1021
+  },
+  "screening": {
+    "exclude": 49350,
+    "include": 1172,
+    "candidate": 205
+  },
+  "pending_venue_years": [
+    "ACM CCS 2026",
+    "ASE 2026",
+    "OOPSLA/PACMPL 2026",
+    "NeurIPS 2026",
+    "SOSP 2026",
+    "USENIX ATC 2026"
+  ]
+}

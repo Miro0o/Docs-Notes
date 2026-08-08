@@ -1,0 +1,83 @@
+{
+  "snapshot_date": "2026-07-31",
+  "status": "planned-not-executed",
+  "counted_as_declared_corpus_universe": false,
+  "scope_note": "These are reproducible expansion specifications, not completed query manifests. They must not be included in an exhaustiveness claim until result counts, pagination, raw snapshots, deduplication, screening, and reconciliation are recorded.",
+  "arxiv_year_sweeps": [
+    {
+      "name": "2024-core-and-category-spillover",
+      "first_posted_from": "2024-01-01T00:00:00Z",
+      "first_posted_through": "2024-12-31T23:59:59Z",
+      "query_templates": [
+        "submittedDate:[202401010000 TO 202412312359] AND (cat:cs.SE OR cat:cs.CR OR cat:cs.PL OR cat:cs.OS) AND (all:\"large language model\" OR all:LLM OR all:\"generative AI\" OR all:\"foundation model\" OR all:\"code model\" OR all:\"coding agent\" OR all:\"software agent\" OR all:AIware OR all:agentware OR all:\"prompt program\")",
+        "submittedDate:[202401010000 TO 202412312359] AND (cat:cs.AI OR cat:cs.CL OR cat:cs.LG OR cat:cs.IR OR cat:cs.HC OR cat:cs.DC OR cat:cs.CE) AND (ti:\"code model\" OR ti:\"coding agent\" OR ti:\"software agent\" OR ti:\"repository agent\" OR ti:\"cyber agent\" OR ti:AIware OR ti:agentware OR ti:\"prompt program\" OR ti:\"LLM-integrated\" OR ti:\"agent runtime\" OR ti:\"agent framework\" OR ti:\"agent testing\" OR ti:\"agent debugging\" OR ti:\"agent observability\")"
+      ]
+    },
+    {
+      "name": "2025-core-and-category-spillover",
+      "first_posted_from": "2025-01-01T00:00:00Z",
+      "first_posted_through": "2025-12-31T23:59:59Z",
+      "query_templates": [
+        "submittedDate:[202501010000 TO 202512312359] AND (cat:cs.SE OR cat:cs.CR OR cat:cs.PL OR cat:cs.OS) AND (all:\"large language model\" OR all:LLM OR all:\"generative AI\" OR all:\"foundation model\" OR all:\"code model\" OR all:\"coding agent\" OR all:\"software agent\" OR all:AIware OR all:agentware OR all:\"prompt program\")",
+        "submittedDate:[202501010000 TO 202512312359] AND (cat:cs.AI OR cat:cs.CL OR cat:cs.LG OR cat:cs.IR OR cat:cs.HC OR cat:cs.DC OR cat:cs.CE) AND (ti:\"code model\" OR ti:\"coding agent\" OR ti:\"software agent\" OR ti:\"repository agent\" OR ti:\"cyber agent\" OR ti:AIware OR ti:agentware OR ti:\"prompt program\" OR ti:\"LLM-integrated\" OR ti:\"agent runtime\" OR ti:\"agent framework\" OR ti:\"agent testing\" OR ti:\"agent debugging\" OR ti:\"agent observability\")"
+      ]
+    }
+  ],
+  "2026_alternative_terminology_sweep": {
+    "first_posted_from": "2026-01-01T00:00:00Z",
+    "first_posted_through": "2026-07-31T23:59:59Z",
+    "query": "submittedDate:[202601010000 TO 202607312359] AND (all:\"code model\" OR all:\"coding agent\" OR all:\"software agent\" OR all:\"repository agent\" OR all:\"cyber agent\" OR all:AIware OR all:agentware OR all:\"prompt program\" OR all:\"LLM-integrated application\") AND (all:software OR all:code OR all:programming OR all:repository OR all:developer OR all:compiler OR all:testing OR all:debugging OR all:vulnerability OR all:cybersecurity OR all:malware OR all:fuzzing OR all:\"prompt injection\" OR all:\"agent runtime\" OR all:\"agent framework\")"
+  },
+  "non_arxiv_discovery_protocol": [
+    {
+      "source_family": "institutional repositories",
+      "examples": [
+        "HAL",
+        "university publication repositories",
+        "laboratory publication indexes"
+      ],
+      "required_record": "repository URL, stable manuscript URL, deposit date, version/status evidence, title/authors, and the exact search or browse route",
+      "claim_limit": "verified additions only; no repository-wide exhaustiveness claim without an API/query manifest and result count"
+    },
+    {
+      "source_family": "author-hosted manuscripts",
+      "examples": [
+        "author publication pages",
+        "project pages",
+        "stable personal-domain PDFs"
+      ],
+      "required_record": "author-controlled source URL, first-public date evidence available by the cutoff, version relationship, and identity fields",
+      "claim_limit": "preserved off-query evidence; author-web coverage cannot be called exhaustive"
+    },
+    {
+      "source_family": "general research repositories",
+      "examples": [
+        "Zenodo",
+        "OSF",
+        "institutional software-artifact records with manuscript attachments"
+      ],
+      "required_record": "repository identifier, deposit/version date, manuscript status, and search/API parameters",
+      "claim_limit": "query-specific completeness only"
+    }
+  ],
+  "identity_and_supersession_policy": {
+    "identity_order": [
+      "DOI",
+      "DBLP key",
+      "arXiv ID",
+      "normalized title"
+    ],
+    "formal_version_supersedes_preprint": true,
+    "preserve_preprint_only_metadata": [
+      "arXiv ID",
+      "first-public date",
+      "off-query provenance"
+    ],
+    "manual_review_required_for": [
+      "title collisions with different authors",
+      "workshop or journal extensions",
+      "accepted-but-not-yet-archival versions",
+      "records first discoverable after the snapshot cutoff"
+    ]
+  }
+}

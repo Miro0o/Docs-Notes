@@ -1,0 +1,52 @@
+{
+  "snapshot_date": "2026-07-31",
+  "source": "https://arxiv.org/api/query",
+  "queries": [
+    {
+      "name": "core-categories",
+      "query": "submittedDate:[202601010000 TO 202607312359] AND (cat:cs.SE OR cat:cs.CR OR cat:cs.PL OR cat:cs.OS) AND (all:\"large language model\" OR all:LLM OR all:\"generative AI\" OR all:\"foundation model\")",
+      "categories": [
+        "cs.SE",
+        "cs.CR",
+        "cs.PL",
+        "cs.OS"
+      ],
+      "query_results": 4338
+    },
+    {
+      "name": "ai-cl-lg-title-spillover",
+      "query": "submittedDate:[202601010000 TO 202607312359] AND (cat:cs.AI OR cat:cs.CL OR cat:cs.LG) AND (all:\"large language model\" OR all:LLM OR all:\"generative AI\" OR all:\"foundation model\") AND ((ti:software OR ti:code OR ti:coding OR ti:programming OR ti:developer OR ti:repository OR ti:compiler OR ti:testing OR ti:debugging OR ti:repair) OR (ti:cyber OR ti:vulnerability OR ti:malware OR ti:exploit OR ti:fuzzing OR ti:\"prompt injection\" OR ti:\"supply chain\" OR ti:MCP) OR ((ti:agentic OR ti:\"LLM agent\" OR ti:\"language model agent\") AND (ti:runtime OR ti:workflow OR ti:orchestration OR ti:testing OR ti:debugging OR ti:observability OR ti:architecture OR ti:protocol)))",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "query_results": 2298
+    }
+  ],
+  "first_posted_from": "2026-01-01T00:00:00Z",
+  "first_posted_through": "2026-07-31T23:59:59Z",
+  "raw_query_result_sum": 6636,
+  "cross_query_identity_overlap": 1077,
+  "unique_query_identities": 5559,
+  "normalization_deduplications": 1,
+  "page_size": 500,
+  "retrieval_date": "2026-07-31",
+  "scope_note": "Exhaustive for the two declared arXiv query universes, not for every repository or every synonym that may describe LLM-related work.",
+  "screening_policy": {
+    "automatic_include_boundary": "title must name a primary ordinary-software/code, software/cyber-security, or LLM/agent-system engineering object; generic agent, API, testing, or security mentions are insufficient",
+    "non_dossier_domain_policy": "medical, biological, vision, robotics, and other domain-first titles remain candidates unless manually adjudicated",
+    "manual_override_file": "frontier-adjudications-2026.csv"
+  },
+  "normalized_candidates": 5558,
+  "screened_include": 1522,
+  "screened_candidate": 1005,
+  "screened_exclude": 3031,
+  "formal_supersessions": 321,
+  "decision_counts": {
+    "include": 1522,
+    "exclude": 3031,
+    "candidate": 1005
+  },
+  "human_adjudications": 5
+}
