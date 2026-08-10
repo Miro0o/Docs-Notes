@@ -118,197 +118,290 @@ The frozen snapshot contains 50,727 deduplicated formal records and 1,172 screen
 ## LLM For SE
 ### LLM Agents + SE (PL)
 A. Agent 编程模型、语言与语义
+Agent Programming Languages, Models, Semantics, and Verification
+
+A.1 LLM / Agent 编程语言、DSL 与编程模型
 
 1. Prompting Is Programming: A Query Language for Large Language Models (LMQL) — PLDI 2023
-https://dl.acm.org/doi/10.1145/3591300
+   https://dl.acm.org/doi/10.1145/3591300
 
-2. DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines — ICLR 2024
-https://openreview.net/forum?id=sY5N0zY5Od
+2. ANPL: Towards Natural Programming with Interactive Decomposition — NeurIPS 2023
+   https://arxiv.org/abs/2305.18498
 
-3. StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows — COLM 2024
-https://openreview.net/forum?id=3nTbuygoop
+3. AskIt: Unified Programming Interface for Programming with Large Language Models — CGO 2024
+   https://dl.acm.org/doi/10.1109/CGO57630.2024.10444830
 
-4. Agentless: Demystifying LLM-Based Software Engineering Agents — FSE 2025
-https://arxiv.org/abs/2407.01489
+4. StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows — COLM 2024
+   https://openreview.net/forum?id=3nTbuygoop
 
-5. Meaning-Typed Programming: Language Abstraction and Runtime for Model-Integrated Applications (MTP) — OOPSLA 2025
-https://dl.acm.org/doi/10.1145/3763092
+5. Executable Code Actions Elicit Better LLM Agents (CodeAct) — ICML 2024
+   https://arxiv.org/abs/2402.01030
 
-6. EnCompass: Enhancing Agent Programming with Search over Program Execution Paths — NeurIPS 2025
-https://proceedings.neurips.cc/paper_files/paper/2025/hash/983591c3e9a0dc94a99134b3238bbe52-Abstract-Conference.html
+6. PDL: A Declarative Prompt Programming Language — arXiv 2024
+   https://arxiv.org/abs/2410.19135
 
-7. Orpheus: Engineering Multiagent Systems via Communicating Agents — AAAI 2025
-https://ojs.aaai.org/index.php/AAAI/article/view/34478
+7. Agentless: Demystifying LLM-Based Software Engineering Agents — FSE 2025
+   https://arxiv.org/abs/2407.01489
 
-8. Turn: A Language for Agentic Computation — arXiv 2026
-https://arxiv.org/abs/2603.08755
+8. APPL: A Prompt Programming Language for Harmonious Integration of Programs and Large Language Model Prompts — ACL 2025
+   https://aclanthology.org/2025.acl-long.63/
 
-9. LLM-as-Code: Agentic Programming for Agent Harness — arXiv 2026
-https://arxiv.org/abs/2606.15874
+9. Meaning-Typed Programming: Language Abstraction and Runtime for Model-Integrated Applications (MTP) — OOPSLA 2025
+   https://dl.acm.org/doi/10.1145/3763092
 
-10. NVIDIA-labs OO Agents: Native Python Object-Oriented Agents (NOOA) — arXiv 2026
-https://arxiv.org/abs/2607.20709
+10. A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions (Quasar) — arXiv 2025
+    https://arxiv.org/abs/2506.12202
 
-11. ETAS: An Effect-Typed Language for Agent Systems — arXiv 2026
-https://arxiv.org/abs/2607.17780
+11. Open Agent Specification (Agent Spec): A Unified Representation for AI Agents — arXiv 2025 / CAIS 2026
+    https://arxiv.org/abs/2510.04173
 
-12. A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions (Quasar) — arXiv 2025
-https://arxiv.org/abs/2506.12202
+12. Sharing State Between Prompts and Programs (Nightjar) — ICLR 2026
+    https://arxiv.org/abs/2512.14805
 
-13. An Operational Semantics for a BDI Agent-Oriented Programming Language
-https://link.springer.com/chapter/10.1007/3-540-45982-0_2
+13. Turn: A Language for Agentic Computation — arXiv 2026
+    https://arxiv.org/abs/2603.08755
 
-14. On the Formal Semantics of Speech-Act Based Communication in an Agent-Oriented Programming Language
-https://arxiv.org/abs/1111.0041
+14. AgentSPEX: An Agent SPecification and EXecution Language — arXiv 2026
+    https://arxiv.org/abs/2604.13346
 
-15. Agent Programming in 3APL
-https://research.vu.nl/en/publications/agent-programming-in-3apl
+15. A Language for Describing Agentic LLM Contexts (ACDL) — arXiv 2026
+    https://arxiv.org/abs/2605.01920
 
-16. Interaction Trees: Representing Recursive and Impure Programs in Coq — POPL 2020
-https://dl.acm.org/doi/10.1145/3371119
+16. LLM-as-Code: Agentic Programming for Agent Harness — arXiv 2026
+    https://arxiv.org/abs/2606.15874
 
-17. Choice Trees: Representing Nondeterministic, Recursive, and Impure Programs in Coq
-https://arxiv.org/abs/2211.06863
+17. Native Python Object-Oriented Agents (NOOA / OO Agents) — arXiv 2026
+    https://arxiv.org/abs/2607.20709
+
+18. ETAS: An Effect-Typed Language for Agent Systems — arXiv 2026
+    https://arxiv.org/abs/2607.17780
+
+
+A2. Agent 编译、执行、搜索与优化
+
+1. DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines — ICLR 2024
+   https://openreview.net/forum?id=sY5N0zY5Od
+
+2. An LLM Compiler for Parallel Function Calling (LLMCompiler) — ICML 2024
+   https://proceedings.mlr.press/v235/kim24y.html
+
+3. SGLang: Efficient Execution of Structured Language Model Programs — NeurIPS 2024
+   https://arxiv.org/abs/2312.07104
+
+4. Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs — NeurIPS 2024
+   https://arxiv.org/abs/2406.16218
+
+5. EnCompass: Enhancing Agent Programming with Search over Program Execution Paths — NeurIPS 2025
+   https://proceedings.neurips.cc/paper_files/paper/2025/hash/983591c3e9a0dc94a99134b3238bbe52-Abstract-Conference.html
+
+6. Composable Effect Handling for Programming LLM-Integrated Scripts — LMPL 2025
+   https://arxiv.org/abs/2507.22048
+
+
+A3. Agent 形式语义、类型系统、安全与验证
+
+1. Defeating Prompt Injections by Design (CaMeL) — arXiv 2025
+   https://arxiv.org/abs/2503.18813
+
+2. Design Patterns for Securing LLM Agents against Prompt Injections — arXiv 2025
+   https://arxiv.org/abs/2506.08837
+
+3. The LLMbda Calculus: AI Agents and Provenance-Based Security — arXiv 2026
+   https://arxiv.org/abs/2602.20064
+
+4. Agentproof: Static Verification of Agent Workflow Graphs — arXiv 2026
+   https://arxiv.org/abs/2603.20356
+
+5. Solver-Aided Verification of Policy Compliance in Tool-Augmented LLM Agents — arXiv 2026
+   https://arxiv.org/abs/2603.20449
+
+6. λ_A: A Typed Lambda Calculus for LLM Agent Composition — arXiv 2026
+   https://arxiv.org/abs/2604.11767
+
+7. Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory — arXiv 2026
+   https://arxiv.org/abs/2606.06523
+
+8. Towards Verifiably Safe Tool Use for LLM Agents — ICSE 2026 NIER
+   https://arxiv.org/abs/2601.08012
+
+9. FAVA: Formal Authorization for Verified Agents with Evidence-Backed Permission Graphs — arXiv 2026
+   https://arxiv.org/abs/2607.27267
+
+
+A4. 经典 Agent-Oriented Programming、多 Agent 通信与 PL 基础
+
+1. AgentSpeak(L): BDI Agents Speak Out in a Logical Computable Language — MAAMAW 1996
+   https://link.springer.com/chapter/10.1007/BFb0031845
+
+2. Agent Programming in 3APL — Autonomous Agents and Multi-Agent Systems, 1999
+   https://research.vu.nl/en/publications/agent-programming-in-3apl
+
+3. Agent Programming with Declarative Goals (GOAL) — Intelligent Agents / arXiv
+   https://arxiv.org/abs/cs/0207008
+
+4. An Operational Semantics for a BDI Agent-Oriented Programming Language — 2002
+   https://link.springer.com/chapter/10.1007/3-540-45982-0_2
+
+5. On the Formal Semantics of Speech-Act Based Communication in an Agent-Oriented Programming Language
+   https://arxiv.org/abs/1111.0041
+
+6. Multiparty Session Types Meet Communicating Automata — ESOP 2012
+   https://www.cs.rhul.ac.uk/~malo/papers/multiparty-session-automata.pdf
+
+7. Session Types Go Dynamic or How to Verify Your Python Conversations — arXiv 2013
+   https://arxiv.org/abs/1312.2704
+
+8. Interaction Trees: Representing Recursive and Impure Programs in Coq — POPL 2020
+   https://dl.acm.org/doi/10.1145/3371119
+
+9. Multiparty Session Types for Safe Runtime Adaptation in an Actor Language — ECOOP 2021
+   https://arxiv.org/abs/2105.06973
+
+10. Choice Trees: Representing Nondeterministic, Recursive, and Impure Programs in Coq — POPL 2023
+    https://arxiv.org/abs/2211.06863
+
+11. Orpheus: Engineering Multiagent Systems via Communicating Agents — AAAI 2025
+    https://ojs.aaai.org/index.php/AAAI/article/view/34478
 
 
 B. Agent 安全、权限、信息流与运行时约束
 
-18. AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents — NeurIPS 2024
+1. AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents — NeurIPS 2024
 https://arxiv.org/abs/2406.13352
 
-19. ToolEmu: Identifying the Risks of LM Agents with an LM-Emulated Sandbox — ICLR 2024
+2. ToolEmu: Identifying the Risks of LM Agents with an LM-Emulated Sandbox — ICLR 2024
 https://arxiv.org/abs/2309.15817
 
-20. Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-Based Agents (AgentFuzz) — USENIX Security 2025
+3. Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-Based Agents (AgentFuzz) — USENIX Security 2025
 https://www.usenix.org/conference/usenixsecurity25/presentation/liu-fengyu
 
-21. AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents — ICSE 2026
+4. AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents — ICSE 2026
 https://arxiv.org/abs/2503.18666
 
-22. Defeating Prompt Injections by Design (CaMeL) — SaTML 2026
+5. Defeating Prompt Injections by Design (CaMeL) — SaTML 2026
 https://arxiv.org/abs/2503.18813
 
-23. Securing AI Agents with Information-Flow Control (Fides)
+6. Securing AI Agents with Information-Flow Control (Fides)
 https://arxiv.org/abs/2505.23643
 
-24. Securing AI Agents with Information-Flow Control — OpenReview
+7. Securing AI Agents with Information-Flow Control — OpenReview
 https://openreview.net/forum?id=2FkswFYju5
 
-25. Progent: Programmable Privilege Control for LLM Agents
+8. Progent: Programmable Privilege Control for LLM Agents
 https://arxiv.org/abs/2504.11703
 
-26. Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents
+9. Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents
 https://arxiv.org/abs/2503.15547
 
-27. RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage
+10. RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage
 https://arxiv.org/search/?query=RTBAS%3A+Defending+LLM+Agents+Against+Prompt+Injection+and+Privacy+Leakage&searchtype=all
 
-28. VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation
+11. VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation
 https://arxiv.org/abs/2510.05156
 
-29. A Framework for Formalizing LLM Agent Security
+12. A Framework for Formalizing LLM Agent Security
 https://arxiv.org/abs/2603.19469
 
-30. Securing LLM Agents Need Intent-to-Execution Integrity
+13. Securing LLM Agents Need Intent-to-Execution Integrity
 https://arxiv.org/abs/2605.16976
 
-31. Alignment Contracts for Agentic Security Systems
+14. Alignment Contracts for Agentic Security Systems
 https://arxiv.org/abs/2605.00081
 
-32. What You Approve Is What Executes: Consent Integrity for Black-Box LLM Agents
+15. What You Approve Is What Executes: Consent Integrity for Black-Box LLM Agents
 https://arxiv.org/abs/2606.02668
 
-33. Stop Means Stop: Measuring and Repairing the Enforcement Gap in Agent-Framework Control Primitives
+16. Stop Means Stop: Measuring and Repairing the Enforcement Gap in Agent-Framework Control Primitives
 https://arxiv.org/abs/2607.14166
 
-34. AI Agents May Always Fall for Prompt Injections
+17. AI Agents May Always Fall for Prompt Injections
 https://arxiv.org/abs/2605.17634
 
-35. A Systematic Taxonomy of Security Vulnerabilities in the OpenClaw AI Agent Framework
+18. A Systematic Taxonomy of Security Vulnerabilities in the OpenClaw AI Agent Framework
 https://arxiv.org/abs/2603.27517
 
-36. Securing AI Agent Execution (AgentBound)
+19. Securing AI Agent Execution (AgentBound)
 https://arxiv.org/abs/2510.21236
 
-37. Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation
+20. Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation
 https://arxiv.org/abs/2606.10749
 
-38. MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents
+21. MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents
 https://openreview.net/forum?id=gt1MmGaKdZ
 
 
 C. 恢复、事务、并发、Trace 与资源治理
 
-39. Atomix: Timely, Transactional Tool Use for Reliable Agentic Workflows
+1. Atomix: Timely, Transactional Tool Use for Reliable Agentic Workflows
 https://arxiv.org/abs/2602.14849
 
-40. ACRFence: Preventing Semantic Rollback Attacks in Agent Checkpoint-Restore
+2. ACRFence: Preventing Semantic Rollback Attacks in Agent Checkpoint-Restore
 https://arxiv.org/abs/2603.20625
 
-41. CoAgent: Concurrency Control for Multi-Agent Systems
+3. CoAgent: Concurrency Control for Multi-Agent Systems
 https://arxiv.org/abs/2606.15376
 
-42. Agent Contracts: A Formal Framework for Resource-Bounded Autonomous AI Systems
+4. Agent Contracts: A Formal Framework for Resource-Bounded Autonomous AI Systems
 https://arxiv.org/abs/2601.08815
 
-43. LogAct: Enabling Agentic Reliability via Shared Logs
+5. LogAct: Enabling Agentic Reliability via Shared Logs
 https://arxiv.org/abs/2604.07988
 
-44. Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace
+6. Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace
 https://arxiv.org/abs/2605.10913
 
-45. SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments — ICSE 2026
+7. SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments — ICSE 2026
 https://arxiv.org/search/?query=SpecOps%3A+A+Fully+Automated+AI+Agent+Testing+Framework+in+Real-World+GUI+Environments&searchtype=all
 
 
 D. Agent 失败、Bug 与实际效用研究
 
-46. Why Do Multi-Agent LLM Systems Fail?
+1. Why Do Multi-Agent LLM Systems Fail?
 https://arxiv.org/abs/2503.13657
 
-47. An Empirical Study of Bugs in Modern LLM Agent Frameworks
+2. An Empirical Study of Bugs in Modern LLM Agent Frameworks
 https://arxiv.org/abs/2602.21806
 
-48. Understanding Agent-Reactive Bugs at the Model-Harness Boundary
+3. Understanding Agent-Reactive Bugs at the Model-Harness Boundary
 https://arxiv.org/abs/2607.15684
 
-49. Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw
+4. Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw
 https://arxiv.org/abs/2604.04759
 
-50. Security Engineering of OpenClaw: Analyzing Attack Surface Expansion and Trust-Boundary Violations
+5. Security Engineering of OpenClaw: Analyzing Attack Surface Expansion and Trust-Boundary Violations
 https://arxiv.org/abs/2606.15008
 
-51. Autonomous LLM Agents and CTFs: A Second Look
+6. Autonomous LLM Agents and CTFs: A Second Look
 https://arxiv.org/abs/2605.21497
 
-52. From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-Based Agents in Security Patch Detection
+7. From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-Based Agents in Security Patch Detection
 https://arxiv.org/abs/2511.08060
 
 
 E. 经典运行时安全、信息流与形式化基础
 
-53. Enforceable Security Policies — Fred B. Schneider, ACM TISSEC 2000
+1. Enforceable Security Policies — Fred B. Schneider, ACM TISSEC 2000
 https://dl.acm.org/doi/10.1145/353323.353382
 
-54. Edit Automata: Enforcement Mechanisms for Run-Time Security Policies
+2. Edit Automata: Enforcement Mechanisms for Run-Time Security Policies
 https://link.springer.com/article/10.1007/s10207-004-0046-8
 
-55. What Policies Can Be Enforced? — Ligatti, Bauer, Walker
+3. What Policies Can Be Enforced? — Ligatti, Bauer, Walker
 https://users.ece.cmu.edu/~lbauer/papers/2005/ijis2005-editauto.pdf
 
-56. Composing Security Policies with Polymer — PLDI 2005
+4. Composing Security Policies with Polymer — PLDI 2005
 https://dl.acm.org/doi/10.1145/1065010.1065016
 
-57. Operating System Protection for Fine-Grained Programs — USENIX Security 1998
+5. Operating System Protection for Fine-Grained Programs — USENIX Security 1998
 https://www.usenix.org/legacy/publications/library/proceedings/sec98/full_papers/wallach/wallach.pdf
 
-58. Language-Based Information-Flow Security
+6. Language-Based Information-Flow Security
 https://www.cs.cornell.edu/andru/papers/jsac/sm-jsac03.pdf
 
-59. Reference Monitors
+7. Reference Monitors
 https://www.cs.cornell.edu/fbs/publications/chptr.enfMech.refMonitor.pdf
 
-60. An Introduction to Algebraic Effects and Handlers
+8. An Introduction to Algebraic Effects and Handlers
 https://arxiv.org/abs/1203.1539
 
 
