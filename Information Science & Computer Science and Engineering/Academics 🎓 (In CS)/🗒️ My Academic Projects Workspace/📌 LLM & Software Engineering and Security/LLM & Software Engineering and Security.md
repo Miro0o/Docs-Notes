@@ -405,6 +405,9 @@ https://www.cs.cornell.edu/fbs/publications/chptr.enfMech.refMonitor.pdf
 https://arxiv.org/abs/1203.1539
 
 
+### Intent-to-Effect Integrity
+
+
 
 ## Ref
 [机器语言大模型]: https://mlm.lingyiwanwu.com
