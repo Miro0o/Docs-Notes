@@ -406,6 +406,77 @@ https://arxiv.org/abs/1203.1539
 
 
 ### Intent-to-Effect Integrity
+phd:
+
+想要解决的总问题：
+- 面对 consequential task 场景下，llm agent 的安全执行：保持用户意图 + 遵守安全策略
+
+
+问题建模：(intent to effect)
+$$\begin{equation}u\rightarrow u_{\mathrm{NL}}\xrightarrow{\mathrm{untrusted\ model}}\widehat R \xrightarrow{\mathrm{render,\ repair,\ ratify}} \underbrace{R_0 \longrightarrow \cdots \longrightarrow \mathsf{commit}_{B}(x)}_{\mathfrak S=(R_v, W_h, D_h)}\end{equation}$$
+- 形式化对象：(formal proof)
+	- $R_0 \to \text{commit}_B(x)$
+	- 这个过程被进一步建模为三个要素：$\mathfrak S=(R_v, W_h, D_h)$
+- 无法形式化对象：(adequacy evaluation)
+	- $u \to R$
+	- $u \to B$
+
+
+研究问题：
+1. R：形式化验证 「用户意图R」 在agent execution中的保持
+2. W+D+B：形式化验证 「安全策略W,D,B」 在agent execution 中的保持
+
+
+研究方法 /步骤：
+1. 定义agent runtime execution trace 的formal semantics （1）
+	1. 证明（1）是正确？的 semantics
+	2. 已经有相关工作？
+2. 定义task-level formal semantics of agent runtime execution trace（2）
+	1. 证明（1）和（2）是 sound abstraction /simulation
+3. 在（2）上进行R的保持
+	1. 不引入新的effect，不遗漏effect，不静默改变R，且R需要完成
+	2. 尽可能的自动化R推进，减小 /最小 向用户提出请求的次数（R的语义扩充）
+4. 在（1）上进行 W，D的保持
+5. 结合broker，对B进行enforcement
+
+评价：
+1. formal evaluation
+2. adequacy evaluation
+3. end-to-end evaluation
+	1. usefulness?
+	2. cost?
+
+
+---
+program 1:
+想要解决的问题：形式化验证用户意图R在agent execution中的保持。
+1. 保持R的完整性，执行过程中llm agent不多加effect/不遗漏effect，
+2. 最大化自动推进执行。遇到无法推进的情况，需要向用户请求语义补充（update R）。
+	1. ~~这种补充次数需要最小 /尽量小。如果能证明出最小更好。~~
+3. 直到任务完成。
+
+相关工作：1. user intent specification 2. llm agent runtime execution trace semantics. 3. task alignment 4 clarification and human-agent communication 5. formal foundations
+
+想要使用的方法：
+1. 定义 R ？
+2. 定义一个agent runtime execution trace 的formal semantics。
+	1. 现有工作已经定义？ETAS, Lambdagent, ...
+	2. 精简的instrumented reference agent runtime？
+3. 定义一个 formal task-level semantics。
+	1. 设计semantics。如何对task progress 进行抽象？state + transition 如何设计？（还是说不是 state + transition的模型，是另外的model？）
+	2. 证明task-level semantics是对 runtime execution 的sound abstraction /simulation
+4. 在task-level semantics上，我们保证随着任务的执行，user intent R is preserved（即使R发生了更新）。这部分使用lean进行形式化验证。
+	1. 如何判断R是否偏移？如何判断没有多引入语义effect，也没有遗漏effect，也没有静默改变R?
+	2. R出现偏差时的处理机制（- 接受合法 progress； - 拒绝并要求 replan； -获取环境证据； -只有在必须解析 user-owned choice 时才询问用户； -原任务不可行时提出 ratified revision； -无法安全继续时给出 certified blocked state。）。
+	3. Lean 如何进行形式化验证？人工编写lean？如何编写？
+5. ~~（optional）在task-level semantics上，能否得到一个R向用户要求更新的次数最小化，或尽可能小的方案？（通过 replan、evidence acquisition、minimal clarification 和 revision 尽可能完成任务。）~~
+
+贡献：1. 一个task semantics，且对于真实llm agent runtime execution trace 是sound 2. task calculus and lean mechanization, 1) preserve user intent R. 不增加、不遗漏、不静默改变 R 2)自动推进，~~最小化向用户请求进行语义补充次数~~
+
+实验和evaluation：1. formal proof evaluation. 2. end-to-end usefulness.
+
+
+还未确定的问题：1. 用户输入是任意的，R是一个组织化的表达。R如何把这种任意的输入转变为组织化的表达？2. 同理，task-level semantics 如何设计，才能表达这种任意内容的输入？并且还要满足我们需要使用它的目的，即，表达合适的task semantic? 3. lean 如何描述task-level semantics？如何证明？
 
 
 
