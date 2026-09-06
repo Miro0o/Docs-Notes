@@ -119,7 +119,7 @@ https://github.com/SunnyHaze/scu-thesis-template?tab=readme-ov-file
 
 ## Intro
 ### LLM-Based Fuzzing Procedure
-![](../../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.42.35.png)
+![](../../../../Assets/Pics/Screenshot%202025-04-11%20at%2020.42.35.png)
 <small>LLM驱动缺陷检测的一般流程 <a>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). http://www.jos.org.cn/1000-9825/7323.htm</a></small>
 #### LLM-Driven Test Cases Generation
 
@@ -138,16 +138,16 @@ DARPA's Artificial Intelligence Cyber Challenge (AIxCC)
 
 
 ### Surveys & Overview
-![](../../../../../../../../Assets/Pics/Screenshot%202025-03-05%20at%2021.11.11.png)
+![](../../../../Assets/Pics/Screenshot%202025-03-05%20at%2021.11.11.png)
 <small>Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." arXiv preprint arXiv:2402.00350 (2024).
 <a>https://arxiv.org/abs/2402.00350</a></small>
 
-![](../../../../../../../../Assets/Pics/Screenshot%202025-04-11%20at%2016.19.05.png)
+![](../../../../Assets/Pics/Screenshot%202025-04-11%20at%2016.19.05.png)
 <small>Huang, Linghan, Peizhou Zhao, Huaming Chen, and Lei Ma. "Large language models based fuzzing techniques: A survey." arXiv preprint arXiv:2402.00350 (2024).
 <a>https://arxiv.org/abs/2402.00350</a></small>
 
-![](../../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.33.38.png)
-![](../../../../../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.35.25.png)
+![](../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.33.38.png)
+![](../../../../Assets/Pics/Screenshot%202025-04-12%20at%2010.35.25.png)
 <small>Li Y, Yang WZ, Zhang Y, Xue YX. Survey on Fuzzing Based on Large Language Model. Ruan Jian Xue Bao/Journal of Software (in Chinese). <a>http://www.jos.org.cn/1000-9825/7323.htm</a></small>
 
 
@@ -157,7 +157,7 @@ DARPA's Artificial Intelligence Cyber Challenge (AIxCC)
 
 Essentially, **a fuzz driver is a piece of code responsible for accepting mutated input from fuzzers and executing the APIs accordingly**. An effective driver must contain a correct and robust API usage since incorrect or unsound usage can result in extensive false positive or negative fuzzing results, incurring extra manual validation efforts or testing resources waste. Due to the high standard required, fuzz drivers are typically written by human experts, which is a labor-intensive and time-consuming process. For instance, 🔗 [OSS-Fuzz](https://github.com/google/oss-fuzz), the largest fuzzing framework for open-source projects, maintains thousands of fuzz drivers written by hundreds of contributors over the past seven years.
 
-![](../../../../../../../../Assets/Pics/Screenshot%202025-09-03%20at%2019.17.12.png)
+![](../../../../Assets/Pics/Screenshot%202025-09-03%20at%2019.17.12.png)
 
 **Fuzz Driver Basics.** The key components of a fuzz driver are illustrated in Figure 1. A typical fuzz driver has three necessary parts: prerequisites initialization (line 3), execution (line 4), and post-cleaning (line 7). Besides, there are three optional parts commetned in lines 2, 5, and 6 that can improve a driver’s effectiveness. Line 2 part improves a driver by proper input arrangement such as rejecting too short or too long inputs, interpreting input data as multiple testing arguments, etc. Line 5 part enables a driver to call more APIs which triggers more program behaviors during fuzzing. Finally, line 6 part adds semantic oracles for detecting logical bugs. These oracles are similar to assert statements in unit tests, aborting execution when certain program properties are unsatisfied. Since a driver will be repeatedly executed with randomly mutated input, there is a high requirement on its correctness and robustness. Incorrect or unrobust usage can lead to both false positives and negatives. For instance, if a driver failed to feed the mutated data into the API, its fuzzing can never find any bug. Or if an API argument is incorrectly initialized, false crashes may be raised.  
 
@@ -173,7 +173,7 @@ Essentially, **a fuzz driver is a piece of code responsible for accepting mutate
 > Murali, A., Mathews, N., Alfadel, M., Nagappan, M., & Xu, M. (2024). FuzzSlice: Pruning False Positives in Static Analysis Warnings through Function-Level Fuzzing. _Proceedings of the IEEE/ACM 46th International Conference on Software Engineering_, 1–13. [https://doi.org/10.1145/3597503.3623321](https://doi.org/10.1145/3597503.3623321)
 > 
 > We propose FuzzSlice, a novel framework that automatically prunes possible false positives among static analysis warnings. Unlike prior work that mostly focuses on confirming true positives among static analysis warnings, which inevitably requires end-to-end fuzzing, FuzzSlice focuses on ruling out potential false positives, which are the majority in static analysis reports. The key insight that we base our work on is that a warning that does not yield a crash when fuzzed at the function level in a given time budget is a possible false positive. To achieve this, **FuzzSlice first aims to generate compilable code slices at the function level.** Then, FuzzSlice fuzzes these code slices instead of the entire binary to prune possible false positives. FuzzSlice is also unlikely to misclassify a true bug as a false positive because the crashing input can be reproduced by a fuzzer at the function level as well.
-> ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-03%20at%2019.44.31.png)
+> ![](../../../../Assets/Pics/Screenshot%202025-09-03%20at%2019.44.31.png)
 > 
 > We evaluate FuzzSlice on the Juliet synthetic dataset and real-world complex C projects: `openssl`, `tmux` and `openssh-portable`. Our evaluation shows that the ground truth in the Juliet dataset had 864 false positives which were all detected by FuzzSlice. For the open-source repositories, we were able to get the developers from two of these open-source repositories to independently label these warnings. FuzzSlice automatically identifies 33 out of 53 false positives confirmed by developers in these two repositories. This implies that FuzzSlice can reduce the number of false positives by 62.26% in the open-source repositories and by 100% in the Juliet dataset.
 #### Fuzzing via Regular Entrance
@@ -211,7 +211,7 @@ Fuzzing feeds random input to a program and checks for faulty behaviors [21, 22,
 > Yu, J., Shao, Y., Miao, H., & Shi, J. (2025). _PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs_ (No. arXiv:2409.14729). arXiv. [https://doi.org/10.48550/arXiv.2409.14729](https://doi.org/10.48550/arXiv.2409.14729)
 > 
 > In this paper, we propose `PROMPTFUZZ`, a novel testing framework that leverages fuzzing techniques to systematically assess the robustness of LLMs against prompt injection attacks. Inspired by software fuzzing, `PROMPTFUZZ` selects promising seed prompts and generates a diverse set of prompt injections to evaluate the target LLM’s resilience. `PROMPTFUZZ` operates in two stages: the prepare phase, which involves selecting promising initial seeds and collecting few-shot examples, and the focus phase, which uses the collected examples to generate diverse, high quality prompt injections. Using `PROMPTFUZZ`, we can uncover more vulnerabilities in LLMs, even those with strong defense prompts.  
-> ![](../../../../../../../../Assets/Pics/Screenshot%202025-09-03%20at%2019.27.25.png)
+> ![](../../../../Assets/Pics/Screenshot%202025-09-03%20at%2019.27.25.png)
 > 
 > By deploying the generated attack prompts from `PROMPTFUZZ` in a real-world competition, we achieved the 7th ranking out of over 4000 participants (top 0.14%) within 2 hours, demonstrating `PROMPTFUZZ`’s effectiveness compared to experienced human attackers. Additionally, we construct a dataset to fine-tune LLMs for enhanced robustness against prompt injection attacks. While the fine-tuned model shows improved robustness, `PROMPTFUZZ` continues to identify vulnerabilities, highlighting the importance of robust testing for LLMs. Our work emphasizes the critical need for effective testing tools and provides a practical framework for evaluating and improving the robustness of LLMs against prompt injection attacks.
 
@@ -268,7 +268,7 @@ We propose two solutions to solve the two aforementioned challenges respectively
 
 ### Fuzzing Under Multi-Agent LLM
 ↗ [Agentic LLMs & LLM Agent Harness](../../../🧠%20Computing%20Methodologies/👽%20Artificial%20Intelligence/Natural%20Language%20Processing%20(NLP)%20&%20Computational%20Linguistics/🦑%20LLM%20(Large%20Language%20Model)/🚮%20LLM%20Applications%20&%20LLM-Driven%20Automation/🫣%20Agentic%20LLMs%20&%20LLM%20Agent%20Harness/Agentic%20LLMs%20&%20LLM%20Agent%20Harness.md)
-![](../../../../../../../Assets/Pics/Pasted%20image%2020240512204130.png)
+![](../../../../Assets/Pics/Pasted%20image%2020240512204130.png)
 
 
 
